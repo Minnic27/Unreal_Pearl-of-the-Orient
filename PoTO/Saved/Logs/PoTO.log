@@ -2678,3 +2678,108 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.02.07-09.49.29:671][885]LogSavePackage: Moving 'D:/GAME PROJECTS/Pearl of the Orient/Pearl of the Orient/Unreal_Pearl-of-the-Orient/PoTO/Saved/TestMap4DC0E80543D91F0E3514DE991E0EEEBF.tmp' to 'D:/GAME PROJECTS/Pearl of the Orient/Pearl of the Orient/Unreal_Pearl-of-the-Orient/PoTO/Content/Maps/TestMap.umap'
 [2022.02.07-09.49.29:693][885]AssetCheck: New page: Asset Save: TestMap
 [2022.02.07-09.49.29:693][885]LogContentValidation: Display: Validating World /Game/Maps/TestMap.TestMap
+[2022.02.07-09.51.36:900][121]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (CubeMesh)
+[2022.02.07-09.51.41:304][406]LogTemp: Repeating last play command: Selected Viewport
+[2022.02.07-09.51.41:310][406]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.02.07-09.51.41:310][406]PIE: New page: PIE session: TestMap (8 Feb 2022, 1:51:41 am)
+[2022.02.07-09.51.41:335][406]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_TestMap
+[2022.02.07-09.51.41:345][406]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009708s)
+[2022.02.07-09.51.41:347][406]LogAIModule: Creating AISystem for world TestMap
+[2022.02.07-09.51.41:347][406]LogPlayLevel: PIE: World Init took: (0.002306s)
+[2022.02.07-09.51.41:347][406]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TestMap.TestMap to /Game/Maps/UEDPIE_0_TestMap.TestMap (0.012239s)
+[2022.02.07-09.51.41:377][406]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2022.02.07-09.51.41:379][406]LogAudio: Display: Creating Audio Device:                 Id: 21, Scope: Unique, Realtime: True
+[2022.02.07-09.51.41:379][406]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.02.07-09.51.41:379][406]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.02.07-09.51.41:379][406]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.02.07-09.51.41:379][406]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.02.07-09.51.41:379][406]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.02.07-09.51.41:380][406]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.02.07-09.51.41:380][406]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.02.07-09.51.41:380][406]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.02.07-09.51.41:380][406]LogAudio: Display: Using built-in audio occlusion.
+[2022.02.07-09.51.41:380][406]LogAudioMixer: Display: Initializing audio mixer.
+[2022.02.07-09.51.41:382][406]LogAudioMixer: Display: 0: FrontLeft
+[2022.02.07-09.51.41:382][406]LogAudioMixer: Display: 1: FrontRight
+[2022.02.07-09.51.41:393][406]LogAudioMixer: Display: Using Audio Device Speakers (2- Redragon Gaming Headset)
+[2022.02.07-09.51.41:393][406]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.02.07-09.51.41:393][406]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.02.07-09.51.41:393][406]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.02.07-09.51.41:393][406]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.02.07-09.51.41:393][406]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.02.07-09.51.41:393][406]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.02.07-09.51.41:409][406]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.02.07-09.51.41:409][406]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.02.07-09.51.41:409][406]LogInit: FAudioDevice initialized.
+[2022.02.07-09.51.41:409][406]LogAudio: Display: Audio Device (ID: 21) registered with world 'TestMap'.
+[2022.02.07-09.51.41:414][406]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2022.02.07-09.51.41:416][406]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TestMap.TestMap up for play (max tick rate 0) at 2022.02.07-17.51.41
+[2022.02.07-09.51.41:416][406]LogWorld: Bringing up level for play took: 0.000928
+[2022.02.07-09.51.41:416][406]LogOnline: OSS: Creating online subsystem instance for: :Context_46
+[2022.02.07-09.51.41:419][406]PIE: Server logged in
+[2022.02.07-09.51.41:420][406]PIE: Play in editor total start time 0.111 seconds.
+[2022.02.07-09.51.51:186][423]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.07-09.51.51:186][423]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_TestMap
+[2022.02.07-09.51.51:186][423]LogWorld: UWorld::CleanupWorld for TestMap, bSessionEnded=true, bCleanupResources=true
+[2022.02.07-09.51.51:186][423]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.07-09.51.51:197][423]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.02.07-09.51.51:213][423]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.07-09.51.51:232][423]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.07-09.51.51:232][423]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.02.07-09.51.51:233][423]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.02.07-09.51.51:252][423]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2022.02.07-09.51.51:272][424]LogPlayLevel: Display: Destroying online subsystem :Context_46
+[2022.02.07-09.51.57:129][  3]LogTemp: Repeating last play command: Selected Viewport
+[2022.02.07-09.51.57:135][  3]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.02.07-09.51.57:135][  3]PIE: New page: PIE session: TestMap (8 Feb 2022, 1:51:57 am)
+[2022.02.07-09.51.57:165][  3]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_TestMap
+[2022.02.07-09.51.57:175][  3]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010181s)
+[2022.02.07-09.51.57:176][  3]LogAIModule: Creating AISystem for world TestMap
+[2022.02.07-09.51.57:176][  3]LogPlayLevel: PIE: World Init took: (0.001094s)
+[2022.02.07-09.51.57:176][  3]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TestMap.TestMap to /Game/Maps/UEDPIE_0_TestMap.TestMap (0.011459s)
+[2022.02.07-09.51.57:203][  3]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2022.02.07-09.51.57:205][  3]LogAudio: Display: Creating Audio Device:                 Id: 22, Scope: Unique, Realtime: True
+[2022.02.07-09.51.57:205][  3]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.02.07-09.51.57:206][  3]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.02.07-09.51.57:206][  3]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.02.07-09.51.57:206][  3]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.02.07-09.51.57:206][  3]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.02.07-09.51.57:206][  3]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.02.07-09.51.57:206][  3]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.02.07-09.51.57:206][  3]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.02.07-09.51.57:206][  3]LogAudio: Display: Using built-in audio occlusion.
+[2022.02.07-09.51.57:206][  3]LogAudioMixer: Display: Initializing audio mixer.
+[2022.02.07-09.51.57:208][  3]LogAudioMixer: Display: 0: FrontLeft
+[2022.02.07-09.51.57:208][  3]LogAudioMixer: Display: 1: FrontRight
+[2022.02.07-09.51.57:218][  3]LogAudioMixer: Display: Using Audio Device Speakers (2- Redragon Gaming Headset)
+[2022.02.07-09.51.57:219][  3]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.02.07-09.51.57:219][  3]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.02.07-09.51.57:219][  3]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.02.07-09.51.57:219][  3]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.02.07-09.51.57:219][  3]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.02.07-09.51.57:219][  3]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.02.07-09.51.57:233][  3]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.02.07-09.51.57:233][  3]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.02.07-09.51.57:233][  3]LogInit: FAudioDevice initialized.
+[2022.02.07-09.51.57:234][  3]LogAudio: Display: Audio Device (ID: 22) registered with world 'TestMap'.
+[2022.02.07-09.51.57:241][  3]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2022.02.07-09.51.57:242][  3]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TestMap.TestMap up for play (max tick rate 0) at 2022.02.07-17.51.57
+[2022.02.07-09.51.57:243][  3]LogWorld: Bringing up level for play took: 0.000714
+[2022.02.07-09.51.57:243][  3]LogOnline: OSS: Creating online subsystem instance for: :Context_47
+[2022.02.07-09.51.57:246][  3]PIE: Server logged in
+[2022.02.07-09.51.57:246][  3]PIE: Play in editor total start time 0.112 seconds.
+[2022.02.07-09.52.37:806][375]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.07-09.52.37:806][375]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_TestMap
+[2022.02.07-09.52.37:806][375]LogWorld: UWorld::CleanupWorld for TestMap, bSessionEnded=true, bCleanupResources=true
+[2022.02.07-09.52.37:806][375]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.07-09.52.37:812][375]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.02.07-09.52.37:830][375]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.07-09.52.37:851][375]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.07-09.52.37:851][375]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.02.07-09.52.37:852][375]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.02.07-09.52.37:873][375]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2022.02.07-09.52.37:903][376]LogPlayLevel: Display: Destroying online subsystem :Context_47
+[2022.02.07-09.52.38:882][469]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2022.02.07-09.52.38:895][469]LogSavePackage: Moving 'D:/GAME PROJECTS/Pearl of the Orient/Pearl of the Orient/Unreal_Pearl-of-the-Orient/PoTO/Saved/TestMap2AF27F8B4C43467FC89373AF85C65B5C.tmp' to 'D:/GAME PROJECTS/Pearl of the Orient/Pearl of the Orient/Unreal_Pearl-of-the-Orient/PoTO/Content/Maps/TestMap.umap'
+[2022.02.07-09.52.38:917][469]AssetCheck: New page: Asset Save: TestMap
+[2022.02.07-09.52.38:917][469]LogContentValidation: Display: Validating World /Game/Maps/TestMap.TestMap

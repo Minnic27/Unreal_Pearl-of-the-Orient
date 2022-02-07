@@ -1403,3 +1403,1171 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.02.07-08.53.36:024][214]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
 [2022.02.07-08.53.36:067][214]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
 [2022.02.07-08.53.36:067][214]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.07-08.56.05:558][419]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/BP_BaseCharacter.BP_BaseCharacter
+[2022.02.07-08.56.32:082][381]BlueprintLog: New page: Compile BP_BaseCharacter
+[2022.02.07-08.56.32:125][381]LogUObjectHash: Compacting FUObjectHashTables data took   2.74ms
+[2022.02.07-08.56.32:378][401]LogSavePackage: Moving 'D:/GAME PROJECTS/Pearl of the Orient/Pearl of the Orient/Unreal_Pearl-of-the-Orient/PoTO/Saved/BP_BaseCharacter6E64594C450EA911E4E644B6C874929B.tmp' to 'D:/GAME PROJECTS/Pearl of the Orient/Pearl of the Orient/Unreal_Pearl-of-the-Orient/PoTO/Content/Blueprints/BP_BaseCharacter.uasset'
+[2022.02.07-08.56.32:392][401]AssetCheck: New page: Asset Save: BP_BaseCharacter
+[2022.02.07-08.56.32:392][401]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_BaseCharacter.BP_BaseCharacter
+[2022.02.07-08.56.41:754][455]LogRenderer: Reallocating scene render targets to support 1208x708 Format 10 NumSamples 1 (Frame:1).
+[2022.02.07-08.56.54:242][874]LogTemp: Repeating last play command: Selected Viewport
+[2022.02.07-08.56.54:247][874]BlueprintLog: New page: Pre-Play auto-recompile
+[2022.02.07-08.56.54:248][874]LogPlayLevel: [PlayLevel] Compiling BP_BaseCharacter before play...
+[2022.02.07-08.56.54:298][874]LogUObjectHash: Compacting FUObjectHashTables data took   2.19ms
+[2022.02.07-08.56.54:300][874]LogPlayLevel: PlayLevel: Blueprint regeneration took 53 ms (1 blueprints)
+[2022.02.07-08.56.54:301][874]PIE: New page: PIE session: TestMap (8 Feb 2022, 12:56:54 am)
+[2022.02.07-08.56.54:301][874]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_TestMap
+[2022.02.07-08.56.54:310][874]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009090s)
+[2022.02.07-08.56.54:311][874]LogAIModule: Creating AISystem for world TestMap
+[2022.02.07-08.56.54:311][874]LogPlayLevel: PIE: World Init took: (0.001243s)
+[2022.02.07-08.56.54:311][874]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TestMap.TestMap to /Game/Maps/UEDPIE_0_TestMap.TestMap (0.010441s)
+[2022.02.07-08.56.54:335][874]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2022.02.07-08.56.54:335][874]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2022.02.07-08.56.54:335][874]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.02.07-08.56.54:335][874]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.02.07-08.56.54:335][874]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.02.07-08.56.54:335][874]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.02.07-08.56.54:335][874]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.02.07-08.56.54:335][874]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.02.07-08.56.54:335][874]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.02.07-08.56.54:335][874]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.02.07-08.56.54:335][874]LogAudio: Display: Using built-in audio occlusion.
+[2022.02.07-08.56.54:335][874]LogAudioMixer: Display: Initializing audio mixer.
+[2022.02.07-08.56.54:337][874]LogAudioMixer: Display: 0: FrontLeft
+[2022.02.07-08.56.54:337][874]LogAudioMixer: Display: 1: FrontRight
+[2022.02.07-08.56.54:347][874]LogAudioMixer: Display: Using Audio Device Speakers (2- Redragon Gaming Headset)
+[2022.02.07-08.56.54:347][874]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.02.07-08.56.54:347][874]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.02.07-08.56.54:347][874]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.02.07-08.56.54:348][874]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.02.07-08.56.54:348][874]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.02.07-08.56.54:348][874]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.02.07-08.56.54:360][874]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.02.07-08.56.54:360][874]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.02.07-08.56.54:360][874]LogInit: FAudioDevice initialized.
+[2022.02.07-08.56.54:360][874]LogAudio: Display: Audio Device (ID: 8) registered with world 'TestMap'.
+[2022.02.07-08.56.54:383][874]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.07-08.56.54:384][874]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2022.02.07-08.56.54:386][874]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TestMap.TestMap up for play (max tick rate 0) at 2022.02.07-16.56.54
+[2022.02.07-08.56.54:386][874]LogWorld: Bringing up level for play took: 0.001202
+[2022.02.07-08.56.54:386][874]LogOnline: OSS: Creating online subsystem instance for: :Context_24
+[2022.02.07-08.56.54:390][874]PIE: Server logged in
+[2022.02.07-08.56.54:392][874]PIE: Play in editor total start time 0.146 seconds.
+[2022.02.07-08.56.54:552][875]LogRenderer: Reallocating scene render targets to support 1280x720 Format 10 NumSamples 1 (Frame:1).
+[2022.02.07-08.57.07:284][160]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.07-08.57.07:284][160]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_TestMap
+[2022.02.07-08.57.07:285][160]LogSlate: Window 'PoTO Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.02.07-08.57.07:291][160]LogWorld: UWorld::CleanupWorld for TestMap, bSessionEnded=true, bCleanupResources=true
+[2022.02.07-08.57.07:291][160]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.07-08.57.07:302][160]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.02.07-08.57.07:306][160]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.07-08.57.07:328][160]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.02.07-08.57.07:329][160]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.02.07-08.57.07:353][160]LogUObjectHash: Compacting FUObjectHashTables data took   3.08ms
+[2022.02.07-08.57.07:369][161]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2022.02.07-08.58.50:022][ 44]LogTemp: Repeating last play command: Selected Viewport
+[2022.02.07-08.58.50:028][ 44]BlueprintLog: New page: Pre-Play auto-recompile
+[2022.02.07-08.58.50:028][ 44]LogPlayLevel: [PlayLevel] Compiling BP_BaseCharacter before play...
+[2022.02.07-08.58.50:071][ 44]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2022.02.07-08.58.50:075][ 44]LogPlayLevel: PlayLevel: Blueprint regeneration took 47 ms (1 blueprints)
+[2022.02.07-08.58.50:075][ 44]PIE: New page: PIE session: TestMap (8 Feb 2022, 12:58:50 am)
+[2022.02.07-08.58.50:075][ 44]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_TestMap
+[2022.02.07-08.58.50:084][ 44]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008459s)
+[2022.02.07-08.58.50:085][ 44]LogAIModule: Creating AISystem for world TestMap
+[2022.02.07-08.58.50:085][ 44]LogPlayLevel: PIE: World Init took: (0.001675s)
+[2022.02.07-08.58.50:085][ 44]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TestMap.TestMap to /Game/Maps/UEDPIE_0_TestMap.TestMap (0.010315s)
+[2022.02.07-08.58.50:110][ 44]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2022.02.07-08.58.50:111][ 44]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2022.02.07-08.58.50:111][ 44]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.02.07-08.58.50:111][ 44]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.02.07-08.58.50:111][ 44]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.02.07-08.58.50:111][ 44]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.02.07-08.58.50:111][ 44]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.02.07-08.58.50:111][ 44]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.02.07-08.58.50:111][ 44]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.02.07-08.58.50:111][ 44]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.02.07-08.58.50:111][ 44]LogAudio: Display: Using built-in audio occlusion.
+[2022.02.07-08.58.50:111][ 44]LogAudioMixer: Display: Initializing audio mixer.
+[2022.02.07-08.58.50:113][ 44]LogAudioMixer: Display: 0: FrontLeft
+[2022.02.07-08.58.50:113][ 44]LogAudioMixer: Display: 1: FrontRight
+[2022.02.07-08.58.50:124][ 44]LogAudioMixer: Display: Using Audio Device Speakers (2- Redragon Gaming Headset)
+[2022.02.07-08.58.50:124][ 44]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.02.07-08.58.50:124][ 44]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.02.07-08.58.50:124][ 44]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.02.07-08.58.50:124][ 44]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.02.07-08.58.50:124][ 44]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.02.07-08.58.50:124][ 44]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.02.07-08.58.50:125][ 44]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.02.07-08.58.50:125][ 44]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.02.07-08.58.50:125][ 44]LogInit: FAudioDevice initialized.
+[2022.02.07-08.58.50:125][ 44]LogAudio: Display: Audio Device (ID: 9) registered with world 'TestMap'.
+[2022.02.07-08.58.50:144][ 44]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.07-08.58.50:145][ 44]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2022.02.07-08.58.50:147][ 44]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TestMap.TestMap up for play (max tick rate 0) at 2022.02.07-16.58.50
+[2022.02.07-08.58.50:147][ 44]LogWorld: Bringing up level for play took: 0.001299
+[2022.02.07-08.58.50:147][ 44]LogOnline: OSS: Creating online subsystem instance for: :Context_25
+[2022.02.07-08.58.50:152][ 44]PIE: Server logged in
+[2022.02.07-08.58.50:153][ 44]PIE: Play in editor total start time 0.126 seconds.
+[2022.02.07-08.59.00:115][981]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.07-08.59.00:115][981]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_TestMap
+[2022.02.07-08.59.00:115][981]LogSlate: Window 'PoTO Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.02.07-08.59.00:120][981]LogWorld: UWorld::CleanupWorld for TestMap, bSessionEnded=true, bCleanupResources=true
+[2022.02.07-08.59.00:121][981]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.07-08.59.00:134][981]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.02.07-08.59.00:139][981]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.07-08.59.00:164][981]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.02.07-08.59.00:167][981]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.02.07-08.59.00:192][981]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2022.02.07-08.59.00:214][982]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2022.02.07-08.59.02:047][193]LogTemp: Repeating last play command: Selected Viewport
+[2022.02.07-08.59.02:052][193]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.02.07-08.59.02:052][193]PIE: New page: PIE session: TestMap (8 Feb 2022, 12:59:02 am)
+[2022.02.07-08.59.02:052][193]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_TestMap
+[2022.02.07-08.59.02:063][193]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010799s)
+[2022.02.07-08.59.02:065][193]LogAIModule: Creating AISystem for world TestMap
+[2022.02.07-08.59.02:065][193]LogPlayLevel: PIE: World Init took: (0.001818s)
+[2022.02.07-08.59.02:065][193]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TestMap.TestMap to /Game/Maps/UEDPIE_0_TestMap.TestMap (0.012834s)
+[2022.02.07-08.59.02:090][193]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2022.02.07-08.59.02:091][193]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2022.02.07-08.59.02:091][193]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.02.07-08.59.02:091][193]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.02.07-08.59.02:091][193]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.02.07-08.59.02:091][193]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.02.07-08.59.02:091][193]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.02.07-08.59.02:091][193]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.02.07-08.59.02:091][193]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.02.07-08.59.02:091][193]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.02.07-08.59.02:091][193]LogAudio: Display: Using built-in audio occlusion.
+[2022.02.07-08.59.02:091][193]LogAudioMixer: Display: Initializing audio mixer.
+[2022.02.07-08.59.02:093][193]LogAudioMixer: Display: 0: FrontLeft
+[2022.02.07-08.59.02:093][193]LogAudioMixer: Display: 1: FrontRight
+[2022.02.07-08.59.02:104][193]LogAudioMixer: Display: Using Audio Device Speakers (2- Redragon Gaming Headset)
+[2022.02.07-08.59.02:104][193]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.02.07-08.59.02:104][193]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.02.07-08.59.02:104][193]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.02.07-08.59.02:105][193]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.02.07-08.59.02:105][193]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.02.07-08.59.02:105][193]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.02.07-08.59.02:119][193]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.02.07-08.59.02:119][193]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.02.07-08.59.02:119][193]LogInit: FAudioDevice initialized.
+[2022.02.07-08.59.02:119][193]LogAudio: Display: Audio Device (ID: 10) registered with world 'TestMap'.
+[2022.02.07-08.59.02:144][193]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.07-08.59.02:144][193]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2022.02.07-08.59.02:146][193]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TestMap.TestMap up for play (max tick rate 0) at 2022.02.07-16.59.02
+[2022.02.07-08.59.02:147][193]LogWorld: Bringing up level for play took: 0.001988
+[2022.02.07-08.59.02:147][193]LogOnline: OSS: Creating online subsystem instance for: :Context_26
+[2022.02.07-08.59.02:153][193]PIE: Server logged in
+[2022.02.07-08.59.02:154][193]PIE: Play in editor total start time 0.103 seconds.
+[2022.02.07-08.59.25:565][582]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.07-08.59.25:565][582]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_TestMap
+[2022.02.07-08.59.25:565][582]LogSlate: Window 'PoTO Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.02.07-08.59.25:572][582]LogWorld: UWorld::CleanupWorld for TestMap, bSessionEnded=true, bCleanupResources=true
+[2022.02.07-08.59.25:572][582]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.07-08.59.25:582][582]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.02.07-08.59.25:588][582]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.07-08.59.25:612][582]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.02.07-08.59.25:613][582]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.02.07-08.59.25:640][582]LogUObjectHash: Compacting FUObjectHashTables data took   3.60ms
+[2022.02.07-08.59.25:666][583]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2022.02.07-09.02.42:761][145]LogSavePackage: Moving 'D:/GAME PROJECTS/Pearl of the Orient/Pearl of the Orient/Unreal_Pearl-of-the-Orient/PoTO/Saved/BP_BaseCharacterF3D4F29649E8A2CD42DB8BAC84B415FE.tmp' to 'D:/GAME PROJECTS/Pearl of the Orient/Pearl of the Orient/Unreal_Pearl-of-the-Orient/PoTO/Content/Blueprints/BP_BaseCharacter.uasset'
+[2022.02.07-09.02.42:775][145]AssetCheck: New page: Asset Save: BP_BaseCharacter
+[2022.02.07-09.02.42:775][145]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_BaseCharacter.BP_BaseCharacter
+[2022.02.07-09.02.49:345][801]LogAssetEditorSubsystem: Opening Asset editor for BlendSpace /Game/Animations/BSP_Walk.BSP_Walk
+[2022.02.07-09.02.49:350][801]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_17:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.02.07-09.02.49:643][801]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2022.02.07-09.02.57:222][655]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Animations/BSP_Walk" FILE="D:/GAME PROJECTS/Pearl of the Orient/Pearl of the Orient/Unreal_Pearl-of-the-Orient/PoTO/Content/Animations/BSP_Walk.uasset" SILENT=true
+[2022.02.07-09.02.57:251][655]LogSavePackage: Moving 'D:/GAME PROJECTS/Pearl of the Orient/Pearl of the Orient/Unreal_Pearl-of-the-Orient/PoTO/Saved/BSP_WalkDFFA676340ED1372286B2FBC9FAC4C95.tmp' to 'D:/GAME PROJECTS/Pearl of the Orient/Pearl of the Orient/Unreal_Pearl-of-the-Orient/PoTO/Content/Animations/BSP_Walk.uasset'
+[2022.02.07-09.02.57:263][655]AssetCheck: New page: Asset Save: BSP_Walk
+[2022.02.07-09.02.57:263][655]LogContentValidation: Display: Validating BlendSpace /Game/Animations/BSP_Walk.BSP_Walk
+[2022.02.07-09.02.58:469][783]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2022.02.07-09.02.58:470][783]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.07-09.02.58:520][783]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2022.02.07-09.02.58:520][783]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.07-09.02.59:938][924]LogTemp: Repeating last play command: Selected Viewport
+[2022.02.07-09.02.59:944][924]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.02.07-09.02.59:944][924]PIE: New page: PIE session: TestMap (8 Feb 2022, 1:02:59 am)
+[2022.02.07-09.02.59:944][924]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_TestMap
+[2022.02.07-09.02.59:957][924]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012549s)
+[2022.02.07-09.02.59:958][924]LogAIModule: Creating AISystem for world TestMap
+[2022.02.07-09.02.59:959][924]LogPlayLevel: PIE: World Init took: (0.001636s)
+[2022.02.07-09.02.59:959][924]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TestMap.TestMap to /Game/Maps/UEDPIE_0_TestMap.TestMap (0.014467s)
+[2022.02.07-09.02.59:986][924]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2022.02.07-09.02.59:988][924]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2022.02.07-09.02.59:988][924]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.02.07-09.02.59:988][924]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.02.07-09.02.59:988][924]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.02.07-09.02.59:988][924]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.02.07-09.02.59:988][924]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.02.07-09.02.59:988][924]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.02.07-09.02.59:988][924]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.02.07-09.02.59:988][924]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.02.07-09.02.59:989][924]LogAudio: Display: Using built-in audio occlusion.
+[2022.02.07-09.02.59:989][924]LogAudioMixer: Display: Initializing audio mixer.
+[2022.02.07-09.02.59:991][924]LogAudioMixer: Display: 0: FrontLeft
+[2022.02.07-09.02.59:991][924]LogAudioMixer: Display: 1: FrontRight
+[2022.02.07-09.03.00:002][924]LogAudioMixer: Display: Using Audio Device Speakers (2- Redragon Gaming Headset)
+[2022.02.07-09.03.00:002][924]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.02.07-09.03.00:002][924]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.02.07-09.03.00:002][924]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.02.07-09.03.00:002][924]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.02.07-09.03.00:002][924]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.02.07-09.03.00:002][924]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.02.07-09.03.00:017][924]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.02.07-09.03.00:018][924]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.02.07-09.03.00:018][924]LogInit: FAudioDevice initialized.
+[2022.02.07-09.03.00:018][924]LogAudio: Display: Audio Device (ID: 11) registered with world 'TestMap'.
+[2022.02.07-09.03.00:039][924]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.07-09.03.00:039][924]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2022.02.07-09.03.00:042][924]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TestMap.TestMap up for play (max tick rate 0) at 2022.02.07-17.03.00
+[2022.02.07-09.03.00:042][924]LogWorld: Bringing up level for play took: 0.001734
+[2022.02.07-09.03.00:042][924]LogOnline: OSS: Creating online subsystem instance for: :Context_29
+[2022.02.07-09.03.00:048][924]PIE: Server logged in
+[2022.02.07-09.03.00:049][924]PIE: Play in editor total start time 0.106 seconds.
+[2022.02.07-09.03.38:675][931]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.07-09.03.38:675][931]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_TestMap
+[2022.02.07-09.03.38:675][931]LogSlate: Window 'PoTO Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.02.07-09.03.38:680][931]LogWorld: UWorld::CleanupWorld for TestMap, bSessionEnded=true, bCleanupResources=true
+[2022.02.07-09.03.38:681][931]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.07-09.03.38:695][931]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.02.07-09.03.38:699][931]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.07-09.03.38:723][931]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.02.07-09.03.38:724][931]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.02.07-09.03.38:725][931]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.02.07-09.03.38:752][931]LogUObjectHash: Compacting FUObjectHashTables data took   2.80ms
+[2022.02.07-09.03.38:774][932]LogPlayLevel: Display: Destroying online subsystem :Context_29
+[2022.02.07-09.03.40:957][162]LogSavePackage: Moving 'D:/GAME PROJECTS/Pearl of the Orient/Pearl of the Orient/Unreal_Pearl-of-the-Orient/PoTO/Saved/BP_BaseCharacter0050D027445A5CEABDD9AFB025307ED2.tmp' to 'D:/GAME PROJECTS/Pearl of the Orient/Pearl of the Orient/Unreal_Pearl-of-the-Orient/PoTO/Content/Blueprints/BP_BaseCharacter.uasset'
+[2022.02.07-09.03.40:971][162]AssetCheck: New page: Asset Save: BP_BaseCharacter
+[2022.02.07-09.03.40:971][162]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_BaseCharacter.BP_BaseCharacter
+[2022.02.07-09.10.21:853][766]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2022.02.07-09.10.21:853][766]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.07-09.10.31:752][530]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2022.02.07-09.10.31:765][530]LogContentBrowser: Creating deferred item: NewFolder
+[2022.02.07-09.10.37:018][154]LogContentBrowser: Attempting asset rename: NewFolder -> BlendSpaces
+[2022.02.07-09.10.37:019][154]LogContentBrowser: End creating deferred item NewFolder
+[2022.02.07-09.10.40:327][451]LogSavePackage: Moving 'D:/GAME PROJECTS/Pearl of the Orient/Pearl of the Orient/Unreal_Pearl-of-the-Orient/PoTO/Saved/BSP_WalkAC1F46FB416C6C94CCF2808493C8D23C.tmp' to 'D:/GAME PROJECTS/Pearl of the Orient/Pearl of the Orient/Unreal_Pearl-of-the-Orient/PoTO/Content/Animations/BlendSpaces/BSP_Walk.uasset'
+[2022.02.07-09.10.40:396][451]LogUObjectHash: Compacting FUObjectHashTables data took   2.00ms
+[2022.02.07-09.10.40:426][451]LogUObjectHash: Compacting FUObjectHashTables data took   2.34ms
+[2022.02.07-09.10.40:442][451]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2022.02.07-09.10.40:485][451]LogSavePackage: Moving 'D:/GAME PROJECTS/Pearl of the Orient/Pearl of the Orient/Unreal_Pearl-of-the-Orient/PoTO/Saved/BP_BaseCharacterDA989ECC4CDBB20652BA4BBE48F87574.tmp' to 'D:/GAME PROJECTS/Pearl of the Orient/Pearl of the Orient/Unreal_Pearl-of-the-Orient/PoTO/Content/Blueprints/BP_BaseCharacter.uasset'
+[2022.02.07-09.10.40:555][451]LogSavePackage: Moving 'D:/GAME PROJECTS/Pearl of the Orient/Pearl of the Orient/Unreal_Pearl-of-the-Orient/PoTO/Saved/AnimBP_CharacterD515665F4D2ABC39C3BA19BEF98EE14F.tmp' to 'D:/GAME PROJECTS/Pearl of the Orient/Pearl of the Orient/Unreal_Pearl-of-the-Orient/PoTO/Content/Animations/AnimBP_Character.uasset'
+[2022.02.07-09.10.40:599][451]AssetCheck: New page: Asset Save: multiple assets
+[2022.02.07-09.10.40:599][451]LogContentValidation: Display: Validating BlendSpace /Game/Animations/BlendSpaces/BSP_Walk.BSP_Walk
+[2022.02.07-09.10.40:599][451]LogContentValidation: Display: Validating AnimBlueprint /Game/Animations/AnimBP_Character.AnimBP_Character
+[2022.02.07-09.10.40:599][451]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_BaseCharacter.BP_BaseCharacter
+[2022.02.07-09.10.47:487][130]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2022.02.07-09.10.47:509][130]LogContentBrowser: Creating deferred item: NewFolder
+[2022.02.07-09.10.49:511][365]LogContentBrowser: Attempting asset rename: NewFolder -> Crouch
+[2022.02.07-09.10.49:511][365]LogContentBrowser: End creating deferred item NewFolder
+[2022.02.07-09.16.22:700][356]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:\GAME PROJECTS\Pearl of the Orient\Downloads\Crouch\Crouch Idle.fbx)
+[2022.02.07-09.16.22:708][356]LogFbx: Loading FBX Scene from D:\GAME PROJECTS\Pearl of the Orient\Downloads\Crouch\Crouch Idle.fbx
+[2022.02.07-09.16.22:727][356]LogFbx: FBX Scene Loaded Succesfully
+[2022.02.07-09.16.26:571][356]LogSlate: Window 'FBX Import Options' being destroyed
+[2022.02.07-09.16.26:596][356]LogFbx: SortedLinks :(0) Hips
+[2022.02.07-09.16.26:596][356]LogFbx: SortedLinks :(1) Spine
+[2022.02.07-09.16.26:596][356]LogFbx: SortedLinks :(2) Spine1
+[2022.02.07-09.16.26:596][356]LogFbx: SortedLinks :(3) Spine2
+[2022.02.07-09.16.26:596][356]LogFbx: SortedLinks :(4) Neck
+[2022.02.07-09.16.26:596][356]LogFbx: SortedLinks :(5) Head
+[2022.02.07-09.16.26:596][356]LogFbx: SortedLinks :(6) HeadTop_End
+[2022.02.07-09.16.26:596][356]LogFbx: SortedLinks :(7) LeftShoulder
+[2022.02.07-09.16.26:596][356]LogFbx: SortedLinks :(8) LeftArm
+[2022.02.07-09.16.26:596][356]LogFbx: SortedLinks :(9) LeftForeArm
+[2022.02.07-09.16.26:596][356]LogFbx: SortedLinks :(10) LeftHand
+[2022.02.07-09.16.26:596][356]LogFbx: SortedLinks :(11) LeftHandThumb1
+[2022.02.07-09.16.26:596][356]LogFbx: SortedLinks :(12) LeftHandThumb2
+[2022.02.07-09.16.26:596][356]LogFbx: SortedLinks :(13) LeftHandThumb3
+[2022.02.07-09.16.26:596][356]LogFbx: SortedLinks :(14) LeftHandThumb4
+[2022.02.07-09.16.26:596][356]LogFbx: SortedLinks :(15) LeftHandIndex1
+[2022.02.07-09.16.26:596][356]LogFbx: SortedLinks :(16) LeftHandIndex2
+[2022.02.07-09.16.26:596][356]LogFbx: SortedLinks :(17) LeftHandIndex3
+[2022.02.07-09.16.26:596][356]LogFbx: SortedLinks :(18) LeftHandIndex4
+[2022.02.07-09.16.26:596][356]LogFbx: SortedLinks :(19) LeftHandMiddle1
+[2022.02.07-09.16.26:596][356]LogFbx: SortedLinks :(20) LeftHandMiddle2
+[2022.02.07-09.16.26:596][356]LogFbx: SortedLinks :(21) LeftHandMiddle3
+[2022.02.07-09.16.26:596][356]LogFbx: SortedLinks :(22) LeftHandMiddle4
+[2022.02.07-09.16.26:597][356]LogFbx: SortedLinks :(23) LeftHandRing1
+[2022.02.07-09.16.26:597][356]LogFbx: SortedLinks :(24) LeftHandRing2
+[2022.02.07-09.16.26:597][356]LogFbx: SortedLinks :(25) LeftHandRing3
+[2022.02.07-09.16.26:597][356]LogFbx: SortedLinks :(26) LeftHandRing4
+[2022.02.07-09.16.26:597][356]LogFbx: SortedLinks :(27) LeftHandPinky1
+[2022.02.07-09.16.26:597][356]LogFbx: SortedLinks :(28) LeftHandPinky2
+[2022.02.07-09.16.26:597][356]LogFbx: SortedLinks :(29) LeftHandPinky3
+[2022.02.07-09.16.26:597][356]LogFbx: SortedLinks :(30) LeftHandPinky4
+[2022.02.07-09.16.26:597][356]LogFbx: SortedLinks :(31) RightShoulder
+[2022.02.07-09.16.26:597][356]LogFbx: SortedLinks :(32) RightArm
+[2022.02.07-09.16.26:597][356]LogFbx: SortedLinks :(33) RightForeArm
+[2022.02.07-09.16.26:597][356]LogFbx: SortedLinks :(34) RightHand
+[2022.02.07-09.16.26:597][356]LogFbx: SortedLinks :(35) RightHandThumb1
+[2022.02.07-09.16.26:597][356]LogFbx: SortedLinks :(36) RightHandThumb2
+[2022.02.07-09.16.26:597][356]LogFbx: SortedLinks :(37) RightHandThumb3
+[2022.02.07-09.16.26:597][356]LogFbx: SortedLinks :(38) RightHandThumb4
+[2022.02.07-09.16.26:597][356]LogFbx: SortedLinks :(39) RightHandIndex1
+[2022.02.07-09.16.26:597][356]LogFbx: SortedLinks :(40) RightHandIndex2
+[2022.02.07-09.16.26:597][356]LogFbx: SortedLinks :(41) RightHandIndex3
+[2022.02.07-09.16.26:597][356]LogFbx: SortedLinks :(42) RightHandIndex4
+[2022.02.07-09.16.26:597][356]LogFbx: SortedLinks :(43) RightHandMiddle1
+[2022.02.07-09.16.26:597][356]LogFbx: SortedLinks :(44) RightHandMiddle2
+[2022.02.07-09.16.26:597][356]LogFbx: SortedLinks :(45) RightHandMiddle3
+[2022.02.07-09.16.26:597][356]LogFbx: SortedLinks :(46) RightHandMiddle4
+[2022.02.07-09.16.26:597][356]LogFbx: SortedLinks :(47) RightHandRing1
+[2022.02.07-09.16.26:597][356]LogFbx: SortedLinks :(48) RightHandRing2
+[2022.02.07-09.16.26:597][356]LogFbx: SortedLinks :(49) RightHandRing3
+[2022.02.07-09.16.26:597][356]LogFbx: SortedLinks :(50) RightHandRing4
+[2022.02.07-09.16.26:597][356]LogFbx: SortedLinks :(51) RightHandPinky1
+[2022.02.07-09.16.26:597][356]LogFbx: SortedLinks :(52) RightHandPinky2
+[2022.02.07-09.16.26:597][356]LogFbx: SortedLinks :(53) RightHandPinky3
+[2022.02.07-09.16.26:597][356]LogFbx: SortedLinks :(54) RightHandPinky4
+[2022.02.07-09.16.26:597][356]LogFbx: SortedLinks :(55) LeftUpLeg
+[2022.02.07-09.16.26:597][356]LogFbx: SortedLinks :(56) LeftLeg
+[2022.02.07-09.16.26:597][356]LogFbx: SortedLinks :(57) LeftFoot
+[2022.02.07-09.16.26:597][356]LogFbx: SortedLinks :(58) LeftToeBase
+[2022.02.07-09.16.26:597][356]LogFbx: SortedLinks :(59) LeftToe_End
+[2022.02.07-09.16.26:597][356]LogFbx: SortedLinks :(60) RightUpLeg
+[2022.02.07-09.16.26:597][356]LogFbx: SortedLinks :(61) RightLeg
+[2022.02.07-09.16.26:597][356]LogFbx: SortedLinks :(62) RightFoot
+[2022.02.07-09.16.26:597][356]LogFbx: SortedLinks :(63) RightToeBase
+[2022.02.07-09.16.26:597][356]LogFbx: SortedLinks :(64) RightToe_End
+[2022.02.07-09.16.26:597][356]LogFbx: Parsing AnimStack mixamo.com
+[2022.02.07-09.16.26:796][356]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Animations/Crouch/Crouch_Idle.Crouch_Idle
+[2022.02.07-09.16.26:806][356]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Animations/Crouch/Crouch_Idle.Crouch_Idle
+[2022.02.07-09.16.26:806][356]LogFactory: FactoryCreateFile: AnimSequence with FbxFactory (0 0 D:\GAME PROJECTS\Pearl of the Orient\Downloads\Crouch\Crouch Walk Right.fbx)
+[2022.02.07-09.16.26:822][356]LogFbx: Loading FBX Scene from D:\GAME PROJECTS\Pearl of the Orient\Downloads\Crouch\Crouch Walk Right.fbx
+[2022.02.07-09.16.26:848][356]LogFbx: FBX Scene Loaded Succesfully
+[2022.02.07-09.16.26:850][356]LogFbx: SortedLinks :(0) Hips
+[2022.02.07-09.16.26:850][356]LogFbx: SortedLinks :(1) Spine
+[2022.02.07-09.16.26:850][356]LogFbx: SortedLinks :(2) Spine1
+[2022.02.07-09.16.26:850][356]LogFbx: SortedLinks :(3) Spine2
+[2022.02.07-09.16.26:850][356]LogFbx: SortedLinks :(4) Neck
+[2022.02.07-09.16.26:850][356]LogFbx: SortedLinks :(5) Head
+[2022.02.07-09.16.26:850][356]LogFbx: SortedLinks :(6) HeadTop_End
+[2022.02.07-09.16.26:850][356]LogFbx: SortedLinks :(7) LeftShoulder
+[2022.02.07-09.16.26:850][356]LogFbx: SortedLinks :(8) LeftArm
+[2022.02.07-09.16.26:850][356]LogFbx: SortedLinks :(9) LeftForeArm
+[2022.02.07-09.16.26:850][356]LogFbx: SortedLinks :(10) LeftHand
+[2022.02.07-09.16.26:850][356]LogFbx: SortedLinks :(11) LeftHandThumb1
+[2022.02.07-09.16.26:850][356]LogFbx: SortedLinks :(12) LeftHandThumb2
+[2022.02.07-09.16.26:850][356]LogFbx: SortedLinks :(13) LeftHandThumb3
+[2022.02.07-09.16.26:850][356]LogFbx: SortedLinks :(14) LeftHandThumb4
+[2022.02.07-09.16.26:850][356]LogFbx: SortedLinks :(15) LeftHandIndex1
+[2022.02.07-09.16.26:850][356]LogFbx: SortedLinks :(16) LeftHandIndex2
+[2022.02.07-09.16.26:850][356]LogFbx: SortedLinks :(17) LeftHandIndex3
+[2022.02.07-09.16.26:850][356]LogFbx: SortedLinks :(18) LeftHandIndex4
+[2022.02.07-09.16.26:850][356]LogFbx: SortedLinks :(19) LeftHandMiddle1
+[2022.02.07-09.16.26:850][356]LogFbx: SortedLinks :(20) LeftHandMiddle2
+[2022.02.07-09.16.26:850][356]LogFbx: SortedLinks :(21) LeftHandMiddle3
+[2022.02.07-09.16.26:850][356]LogFbx: SortedLinks :(22) LeftHandMiddle4
+[2022.02.07-09.16.26:850][356]LogFbx: SortedLinks :(23) LeftHandRing1
+[2022.02.07-09.16.26:850][356]LogFbx: SortedLinks :(24) LeftHandRing2
+[2022.02.07-09.16.26:850][356]LogFbx: SortedLinks :(25) LeftHandRing3
+[2022.02.07-09.16.26:850][356]LogFbx: SortedLinks :(26) LeftHandRing4
+[2022.02.07-09.16.26:850][356]LogFbx: SortedLinks :(27) LeftHandPinky1
+[2022.02.07-09.16.26:850][356]LogFbx: SortedLinks :(28) LeftHandPinky2
+[2022.02.07-09.16.26:850][356]LogFbx: SortedLinks :(29) LeftHandPinky3
+[2022.02.07-09.16.26:850][356]LogFbx: SortedLinks :(30) LeftHandPinky4
+[2022.02.07-09.16.26:850][356]LogFbx: SortedLinks :(31) RightShoulder
+[2022.02.07-09.16.26:850][356]LogFbx: SortedLinks :(32) RightArm
+[2022.02.07-09.16.26:850][356]LogFbx: SortedLinks :(33) RightForeArm
+[2022.02.07-09.16.26:850][356]LogFbx: SortedLinks :(34) RightHand
+[2022.02.07-09.16.26:850][356]LogFbx: SortedLinks :(35) RightHandThumb1
+[2022.02.07-09.16.26:850][356]LogFbx: SortedLinks :(36) RightHandThumb2
+[2022.02.07-09.16.26:850][356]LogFbx: SortedLinks :(37) RightHandThumb3
+[2022.02.07-09.16.26:850][356]LogFbx: SortedLinks :(38) RightHandThumb4
+[2022.02.07-09.16.26:850][356]LogFbx: SortedLinks :(39) RightHandIndex1
+[2022.02.07-09.16.26:850][356]LogFbx: SortedLinks :(40) RightHandIndex2
+[2022.02.07-09.16.26:850][356]LogFbx: SortedLinks :(41) RightHandIndex3
+[2022.02.07-09.16.26:850][356]LogFbx: SortedLinks :(42) RightHandIndex4
+[2022.02.07-09.16.26:850][356]LogFbx: SortedLinks :(43) RightHandMiddle1
+[2022.02.07-09.16.26:850][356]LogFbx: SortedLinks :(44) RightHandMiddle2
+[2022.02.07-09.16.26:850][356]LogFbx: SortedLinks :(45) RightHandMiddle3
+[2022.02.07-09.16.26:850][356]LogFbx: SortedLinks :(46) RightHandMiddle4
+[2022.02.07-09.16.26:850][356]LogFbx: SortedLinks :(47) RightHandRing1
+[2022.02.07-09.16.26:850][356]LogFbx: SortedLinks :(48) RightHandRing2
+[2022.02.07-09.16.26:850][356]LogFbx: SortedLinks :(49) RightHandRing3
+[2022.02.07-09.16.26:850][356]LogFbx: SortedLinks :(50) RightHandRing4
+[2022.02.07-09.16.26:850][356]LogFbx: SortedLinks :(51) RightHandPinky1
+[2022.02.07-09.16.26:850][356]LogFbx: SortedLinks :(52) RightHandPinky2
+[2022.02.07-09.16.26:850][356]LogFbx: SortedLinks :(53) RightHandPinky3
+[2022.02.07-09.16.26:850][356]LogFbx: SortedLinks :(54) RightHandPinky4
+[2022.02.07-09.16.26:850][356]LogFbx: SortedLinks :(55) LeftUpLeg
+[2022.02.07-09.16.26:850][356]LogFbx: SortedLinks :(56) LeftLeg
+[2022.02.07-09.16.26:850][356]LogFbx: SortedLinks :(57) LeftFoot
+[2022.02.07-09.16.26:851][356]LogFbx: SortedLinks :(58) LeftToeBase
+[2022.02.07-09.16.26:851][356]LogFbx: SortedLinks :(59) LeftToe_End
+[2022.02.07-09.16.26:851][356]LogFbx: SortedLinks :(60) RightUpLeg
+[2022.02.07-09.16.26:851][356]LogFbx: SortedLinks :(61) RightLeg
+[2022.02.07-09.16.26:851][356]LogFbx: SortedLinks :(62) RightFoot
+[2022.02.07-09.16.26:851][356]LogFbx: SortedLinks :(63) RightToeBase
+[2022.02.07-09.16.26:851][356]LogFbx: SortedLinks :(64) RightToe_End
+[2022.02.07-09.16.26:851][356]LogFbx: Parsing AnimStack mixamo.com
+[2022.02.07-09.16.26:978][356]LogFactory: FactoryCreateFile: AnimSequence with FbxFactory (0 0 D:\GAME PROJECTS\Pearl of the Orient\Downloads\Crouch\Crouch Walk Left.fbx)
+[2022.02.07-09.16.26:987][356]LogFbx: Loading FBX Scene from D:\GAME PROJECTS\Pearl of the Orient\Downloads\Crouch\Crouch Walk Left.fbx
+[2022.02.07-09.16.27:006][356]LogFbx: FBX Scene Loaded Succesfully
+[2022.02.07-09.16.27:007][356]LogFbx: SortedLinks :(0) Hips
+[2022.02.07-09.16.27:007][356]LogFbx: SortedLinks :(1) Spine
+[2022.02.07-09.16.27:007][356]LogFbx: SortedLinks :(2) Spine1
+[2022.02.07-09.16.27:007][356]LogFbx: SortedLinks :(3) Spine2
+[2022.02.07-09.16.27:007][356]LogFbx: SortedLinks :(4) Neck
+[2022.02.07-09.16.27:007][356]LogFbx: SortedLinks :(5) Head
+[2022.02.07-09.16.27:007][356]LogFbx: SortedLinks :(6) HeadTop_End
+[2022.02.07-09.16.27:007][356]LogFbx: SortedLinks :(7) LeftShoulder
+[2022.02.07-09.16.27:007][356]LogFbx: SortedLinks :(8) LeftArm
+[2022.02.07-09.16.27:007][356]LogFbx: SortedLinks :(9) LeftForeArm
+[2022.02.07-09.16.27:007][356]LogFbx: SortedLinks :(10) LeftHand
+[2022.02.07-09.16.27:007][356]LogFbx: SortedLinks :(11) LeftHandThumb1
+[2022.02.07-09.16.27:007][356]LogFbx: SortedLinks :(12) LeftHandThumb2
+[2022.02.07-09.16.27:007][356]LogFbx: SortedLinks :(13) LeftHandThumb3
+[2022.02.07-09.16.27:007][356]LogFbx: SortedLinks :(14) LeftHandThumb4
+[2022.02.07-09.16.27:007][356]LogFbx: SortedLinks :(15) LeftHandIndex1
+[2022.02.07-09.16.27:007][356]LogFbx: SortedLinks :(16) LeftHandIndex2
+[2022.02.07-09.16.27:007][356]LogFbx: SortedLinks :(17) LeftHandIndex3
+[2022.02.07-09.16.27:007][356]LogFbx: SortedLinks :(18) LeftHandIndex4
+[2022.02.07-09.16.27:007][356]LogFbx: SortedLinks :(19) LeftHandMiddle1
+[2022.02.07-09.16.27:008][356]LogFbx: SortedLinks :(20) LeftHandMiddle2
+[2022.02.07-09.16.27:008][356]LogFbx: SortedLinks :(21) LeftHandMiddle3
+[2022.02.07-09.16.27:008][356]LogFbx: SortedLinks :(22) LeftHandMiddle4
+[2022.02.07-09.16.27:008][356]LogFbx: SortedLinks :(23) LeftHandRing1
+[2022.02.07-09.16.27:008][356]LogFbx: SortedLinks :(24) LeftHandRing2
+[2022.02.07-09.16.27:008][356]LogFbx: SortedLinks :(25) LeftHandRing3
+[2022.02.07-09.16.27:008][356]LogFbx: SortedLinks :(26) LeftHandRing4
+[2022.02.07-09.16.27:008][356]LogFbx: SortedLinks :(27) LeftHandPinky1
+[2022.02.07-09.16.27:008][356]LogFbx: SortedLinks :(28) LeftHandPinky2
+[2022.02.07-09.16.27:008][356]LogFbx: SortedLinks :(29) LeftHandPinky3
+[2022.02.07-09.16.27:008][356]LogFbx: SortedLinks :(30) LeftHandPinky4
+[2022.02.07-09.16.27:008][356]LogFbx: SortedLinks :(31) RightShoulder
+[2022.02.07-09.16.27:008][356]LogFbx: SortedLinks :(32) RightArm
+[2022.02.07-09.16.27:008][356]LogFbx: SortedLinks :(33) RightForeArm
+[2022.02.07-09.16.27:008][356]LogFbx: SortedLinks :(34) RightHand
+[2022.02.07-09.16.27:008][356]LogFbx: SortedLinks :(35) RightHandThumb1
+[2022.02.07-09.16.27:008][356]LogFbx: SortedLinks :(36) RightHandThumb2
+[2022.02.07-09.16.27:008][356]LogFbx: SortedLinks :(37) RightHandThumb3
+[2022.02.07-09.16.27:008][356]LogFbx: SortedLinks :(38) RightHandThumb4
+[2022.02.07-09.16.27:008][356]LogFbx: SortedLinks :(39) RightHandIndex1
+[2022.02.07-09.16.27:008][356]LogFbx: SortedLinks :(40) RightHandIndex2
+[2022.02.07-09.16.27:008][356]LogFbx: SortedLinks :(41) RightHandIndex3
+[2022.02.07-09.16.27:008][356]LogFbx: SortedLinks :(42) RightHandIndex4
+[2022.02.07-09.16.27:008][356]LogFbx: SortedLinks :(43) RightHandMiddle1
+[2022.02.07-09.16.27:008][356]LogFbx: SortedLinks :(44) RightHandMiddle2
+[2022.02.07-09.16.27:008][356]LogFbx: SortedLinks :(45) RightHandMiddle3
+[2022.02.07-09.16.27:008][356]LogFbx: SortedLinks :(46) RightHandMiddle4
+[2022.02.07-09.16.27:008][356]LogFbx: SortedLinks :(47) RightHandRing1
+[2022.02.07-09.16.27:008][356]LogFbx: SortedLinks :(48) RightHandRing2
+[2022.02.07-09.16.27:008][356]LogFbx: SortedLinks :(49) RightHandRing3
+[2022.02.07-09.16.27:008][356]LogFbx: SortedLinks :(50) RightHandRing4
+[2022.02.07-09.16.27:008][356]LogFbx: SortedLinks :(51) RightHandPinky1
+[2022.02.07-09.16.27:008][356]LogFbx: SortedLinks :(52) RightHandPinky2
+[2022.02.07-09.16.27:008][356]LogFbx: SortedLinks :(53) RightHandPinky3
+[2022.02.07-09.16.27:008][356]LogFbx: SortedLinks :(54) RightHandPinky4
+[2022.02.07-09.16.27:008][356]LogFbx: SortedLinks :(55) LeftUpLeg
+[2022.02.07-09.16.27:008][356]LogFbx: SortedLinks :(56) LeftLeg
+[2022.02.07-09.16.27:008][356]LogFbx: SortedLinks :(57) LeftFoot
+[2022.02.07-09.16.27:008][356]LogFbx: SortedLinks :(58) LeftToeBase
+[2022.02.07-09.16.27:008][356]LogFbx: SortedLinks :(59) LeftToe_End
+[2022.02.07-09.16.27:008][356]LogFbx: SortedLinks :(60) RightUpLeg
+[2022.02.07-09.16.27:008][356]LogFbx: SortedLinks :(61) RightLeg
+[2022.02.07-09.16.27:008][356]LogFbx: SortedLinks :(62) RightFoot
+[2022.02.07-09.16.27:008][356]LogFbx: SortedLinks :(63) RightToeBase
+[2022.02.07-09.16.27:008][356]LogFbx: SortedLinks :(64) RightToe_End
+[2022.02.07-09.16.27:008][356]LogFbx: Parsing AnimStack mixamo.com
+[2022.02.07-09.16.27:144][356]LogFactory: FactoryCreateFile: AnimSequence with FbxFactory (0 0 D:\GAME PROJECTS\Pearl of the Orient\Downloads\Crouch\Crouch Walk Back.fbx)
+[2022.02.07-09.16.27:152][356]LogFbx: Loading FBX Scene from D:\GAME PROJECTS\Pearl of the Orient\Downloads\Crouch\Crouch Walk Back.fbx
+[2022.02.07-09.16.27:172][356]LogFbx: FBX Scene Loaded Succesfully
+[2022.02.07-09.16.27:173][356]LogFbx: SortedLinks :(0) Hips
+[2022.02.07-09.16.27:173][356]LogFbx: SortedLinks :(1) Spine
+[2022.02.07-09.16.27:173][356]LogFbx: SortedLinks :(2) Spine1
+[2022.02.07-09.16.27:173][356]LogFbx: SortedLinks :(3) Spine2
+[2022.02.07-09.16.27:173][356]LogFbx: SortedLinks :(4) Neck
+[2022.02.07-09.16.27:173][356]LogFbx: SortedLinks :(5) Head
+[2022.02.07-09.16.27:173][356]LogFbx: SortedLinks :(6) HeadTop_End
+[2022.02.07-09.16.27:173][356]LogFbx: SortedLinks :(7) LeftShoulder
+[2022.02.07-09.16.27:173][356]LogFbx: SortedLinks :(8) LeftArm
+[2022.02.07-09.16.27:173][356]LogFbx: SortedLinks :(9) LeftForeArm
+[2022.02.07-09.16.27:173][356]LogFbx: SortedLinks :(10) LeftHand
+[2022.02.07-09.16.27:173][356]LogFbx: SortedLinks :(11) LeftHandThumb1
+[2022.02.07-09.16.27:173][356]LogFbx: SortedLinks :(12) LeftHandThumb2
+[2022.02.07-09.16.27:173][356]LogFbx: SortedLinks :(13) LeftHandThumb3
+[2022.02.07-09.16.27:173][356]LogFbx: SortedLinks :(14) LeftHandThumb4
+[2022.02.07-09.16.27:173][356]LogFbx: SortedLinks :(15) LeftHandIndex1
+[2022.02.07-09.16.27:173][356]LogFbx: SortedLinks :(16) LeftHandIndex2
+[2022.02.07-09.16.27:173][356]LogFbx: SortedLinks :(17) LeftHandIndex3
+[2022.02.07-09.16.27:173][356]LogFbx: SortedLinks :(18) LeftHandIndex4
+[2022.02.07-09.16.27:173][356]LogFbx: SortedLinks :(19) LeftHandMiddle1
+[2022.02.07-09.16.27:173][356]LogFbx: SortedLinks :(20) LeftHandMiddle2
+[2022.02.07-09.16.27:173][356]LogFbx: SortedLinks :(21) LeftHandMiddle3
+[2022.02.07-09.16.27:173][356]LogFbx: SortedLinks :(22) LeftHandMiddle4
+[2022.02.07-09.16.27:173][356]LogFbx: SortedLinks :(23) LeftHandRing1
+[2022.02.07-09.16.27:173][356]LogFbx: SortedLinks :(24) LeftHandRing2
+[2022.02.07-09.16.27:173][356]LogFbx: SortedLinks :(25) LeftHandRing3
+[2022.02.07-09.16.27:173][356]LogFbx: SortedLinks :(26) LeftHandRing4
+[2022.02.07-09.16.27:173][356]LogFbx: SortedLinks :(27) LeftHandPinky1
+[2022.02.07-09.16.27:173][356]LogFbx: SortedLinks :(28) LeftHandPinky2
+[2022.02.07-09.16.27:173][356]LogFbx: SortedLinks :(29) LeftHandPinky3
+[2022.02.07-09.16.27:174][356]LogFbx: SortedLinks :(30) LeftHandPinky4
+[2022.02.07-09.16.27:174][356]LogFbx: SortedLinks :(31) RightShoulder
+[2022.02.07-09.16.27:174][356]LogFbx: SortedLinks :(32) RightArm
+[2022.02.07-09.16.27:174][356]LogFbx: SortedLinks :(33) RightForeArm
+[2022.02.07-09.16.27:174][356]LogFbx: SortedLinks :(34) RightHand
+[2022.02.07-09.16.27:174][356]LogFbx: SortedLinks :(35) RightHandThumb1
+[2022.02.07-09.16.27:174][356]LogFbx: SortedLinks :(36) RightHandThumb2
+[2022.02.07-09.16.27:174][356]LogFbx: SortedLinks :(37) RightHandThumb3
+[2022.02.07-09.16.27:174][356]LogFbx: SortedLinks :(38) RightHandThumb4
+[2022.02.07-09.16.27:174][356]LogFbx: SortedLinks :(39) RightHandIndex1
+[2022.02.07-09.16.27:174][356]LogFbx: SortedLinks :(40) RightHandIndex2
+[2022.02.07-09.16.27:174][356]LogFbx: SortedLinks :(41) RightHandIndex3
+[2022.02.07-09.16.27:174][356]LogFbx: SortedLinks :(42) RightHandIndex4
+[2022.02.07-09.16.27:174][356]LogFbx: SortedLinks :(43) RightHandMiddle1
+[2022.02.07-09.16.27:174][356]LogFbx: SortedLinks :(44) RightHandMiddle2
+[2022.02.07-09.16.27:174][356]LogFbx: SortedLinks :(45) RightHandMiddle3
+[2022.02.07-09.16.27:174][356]LogFbx: SortedLinks :(46) RightHandMiddle4
+[2022.02.07-09.16.27:174][356]LogFbx: SortedLinks :(47) RightHandRing1
+[2022.02.07-09.16.27:174][356]LogFbx: SortedLinks :(48) RightHandRing2
+[2022.02.07-09.16.27:174][356]LogFbx: SortedLinks :(49) RightHandRing3
+[2022.02.07-09.16.27:174][356]LogFbx: SortedLinks :(50) RightHandRing4
+[2022.02.07-09.16.27:174][356]LogFbx: SortedLinks :(51) RightHandPinky1
+[2022.02.07-09.16.27:174][356]LogFbx: SortedLinks :(52) RightHandPinky2
+[2022.02.07-09.16.27:174][356]LogFbx: SortedLinks :(53) RightHandPinky3
+[2022.02.07-09.16.27:174][356]LogFbx: SortedLinks :(54) RightHandPinky4
+[2022.02.07-09.16.27:174][356]LogFbx: SortedLinks :(55) LeftUpLeg
+[2022.02.07-09.16.27:174][356]LogFbx: SortedLinks :(56) LeftLeg
+[2022.02.07-09.16.27:174][356]LogFbx: SortedLinks :(57) LeftFoot
+[2022.02.07-09.16.27:174][356]LogFbx: SortedLinks :(58) LeftToeBase
+[2022.02.07-09.16.27:174][356]LogFbx: SortedLinks :(59) LeftToe_End
+[2022.02.07-09.16.27:174][356]LogFbx: SortedLinks :(60) RightUpLeg
+[2022.02.07-09.16.27:174][356]LogFbx: SortedLinks :(61) RightLeg
+[2022.02.07-09.16.27:174][356]LogFbx: SortedLinks :(62) RightFoot
+[2022.02.07-09.16.27:174][356]LogFbx: SortedLinks :(63) RightToeBase
+[2022.02.07-09.16.27:174][356]LogFbx: SortedLinks :(64) RightToe_End
+[2022.02.07-09.16.27:175][356]LogFbx: Parsing AnimStack mixamo.com
+[2022.02.07-09.16.27:332][356]LogFactory: FactoryCreateFile: AnimSequence with FbxFactory (0 0 D:\GAME PROJECTS\Pearl of the Orient\Downloads\Crouch\Crouch Walk Forward.fbx)
+[2022.02.07-09.16.27:341][356]LogFbx: Loading FBX Scene from D:\GAME PROJECTS\Pearl of the Orient\Downloads\Crouch\Crouch Walk Forward.fbx
+[2022.02.07-09.16.27:361][356]LogFbx: FBX Scene Loaded Succesfully
+[2022.02.07-09.16.27:363][356]LogFbx: SortedLinks :(0) Hips
+[2022.02.07-09.16.27:363][356]LogFbx: SortedLinks :(1) Spine
+[2022.02.07-09.16.27:363][356]LogFbx: SortedLinks :(2) Spine1
+[2022.02.07-09.16.27:363][356]LogFbx: SortedLinks :(3) Spine2
+[2022.02.07-09.16.27:363][356]LogFbx: SortedLinks :(4) Neck
+[2022.02.07-09.16.27:363][356]LogFbx: SortedLinks :(5) Head
+[2022.02.07-09.16.27:363][356]LogFbx: SortedLinks :(6) HeadTop_End
+[2022.02.07-09.16.27:363][356]LogFbx: SortedLinks :(7) LeftShoulder
+[2022.02.07-09.16.27:363][356]LogFbx: SortedLinks :(8) LeftArm
+[2022.02.07-09.16.27:363][356]LogFbx: SortedLinks :(9) LeftForeArm
+[2022.02.07-09.16.27:363][356]LogFbx: SortedLinks :(10) LeftHand
+[2022.02.07-09.16.27:363][356]LogFbx: SortedLinks :(11) LeftHandThumb1
+[2022.02.07-09.16.27:363][356]LogFbx: SortedLinks :(12) LeftHandThumb2
+[2022.02.07-09.16.27:363][356]LogFbx: SortedLinks :(13) LeftHandThumb3
+[2022.02.07-09.16.27:363][356]LogFbx: SortedLinks :(14) LeftHandThumb4
+[2022.02.07-09.16.27:363][356]LogFbx: SortedLinks :(15) LeftHandIndex1
+[2022.02.07-09.16.27:363][356]LogFbx: SortedLinks :(16) LeftHandIndex2
+[2022.02.07-09.16.27:363][356]LogFbx: SortedLinks :(17) LeftHandIndex3
+[2022.02.07-09.16.27:363][356]LogFbx: SortedLinks :(18) LeftHandIndex4
+[2022.02.07-09.16.27:363][356]LogFbx: SortedLinks :(19) LeftHandMiddle1
+[2022.02.07-09.16.27:363][356]LogFbx: SortedLinks :(20) LeftHandMiddle2
+[2022.02.07-09.16.27:363][356]LogFbx: SortedLinks :(21) LeftHandMiddle3
+[2022.02.07-09.16.27:363][356]LogFbx: SortedLinks :(22) LeftHandMiddle4
+[2022.02.07-09.16.27:363][356]LogFbx: SortedLinks :(23) LeftHandRing1
+[2022.02.07-09.16.27:363][356]LogFbx: SortedLinks :(24) LeftHandRing2
+[2022.02.07-09.16.27:363][356]LogFbx: SortedLinks :(25) LeftHandRing3
+[2022.02.07-09.16.27:363][356]LogFbx: SortedLinks :(26) LeftHandRing4
+[2022.02.07-09.16.27:363][356]LogFbx: SortedLinks :(27) LeftHandPinky1
+[2022.02.07-09.16.27:363][356]LogFbx: SortedLinks :(28) LeftHandPinky2
+[2022.02.07-09.16.27:363][356]LogFbx: SortedLinks :(29) LeftHandPinky3
+[2022.02.07-09.16.27:363][356]LogFbx: SortedLinks :(30) LeftHandPinky4
+[2022.02.07-09.16.27:363][356]LogFbx: SortedLinks :(31) RightShoulder
+[2022.02.07-09.16.27:363][356]LogFbx: SortedLinks :(32) RightArm
+[2022.02.07-09.16.27:363][356]LogFbx: SortedLinks :(33) RightForeArm
+[2022.02.07-09.16.27:363][356]LogFbx: SortedLinks :(34) RightHand
+[2022.02.07-09.16.27:363][356]LogFbx: SortedLinks :(35) RightHandThumb1
+[2022.02.07-09.16.27:363][356]LogFbx: SortedLinks :(36) RightHandThumb2
+[2022.02.07-09.16.27:363][356]LogFbx: SortedLinks :(37) RightHandThumb3
+[2022.02.07-09.16.27:363][356]LogFbx: SortedLinks :(38) RightHandThumb4
+[2022.02.07-09.16.27:363][356]LogFbx: SortedLinks :(39) RightHandIndex1
+[2022.02.07-09.16.27:363][356]LogFbx: SortedLinks :(40) RightHandIndex2
+[2022.02.07-09.16.27:363][356]LogFbx: SortedLinks :(41) RightHandIndex3
+[2022.02.07-09.16.27:363][356]LogFbx: SortedLinks :(42) RightHandIndex4
+[2022.02.07-09.16.27:363][356]LogFbx: SortedLinks :(43) RightHandMiddle1
+[2022.02.07-09.16.27:363][356]LogFbx: SortedLinks :(44) RightHandMiddle2
+[2022.02.07-09.16.27:363][356]LogFbx: SortedLinks :(45) RightHandMiddle3
+[2022.02.07-09.16.27:363][356]LogFbx: SortedLinks :(46) RightHandMiddle4
+[2022.02.07-09.16.27:363][356]LogFbx: SortedLinks :(47) RightHandRing1
+[2022.02.07-09.16.27:363][356]LogFbx: SortedLinks :(48) RightHandRing2
+[2022.02.07-09.16.27:363][356]LogFbx: SortedLinks :(49) RightHandRing3
+[2022.02.07-09.16.27:363][356]LogFbx: SortedLinks :(50) RightHandRing4
+[2022.02.07-09.16.27:363][356]LogFbx: SortedLinks :(51) RightHandPinky1
+[2022.02.07-09.16.27:363][356]LogFbx: SortedLinks :(52) RightHandPinky2
+[2022.02.07-09.16.27:364][356]LogFbx: SortedLinks :(53) RightHandPinky3
+[2022.02.07-09.16.27:364][356]LogFbx: SortedLinks :(54) RightHandPinky4
+[2022.02.07-09.16.27:364][356]LogFbx: SortedLinks :(55) LeftUpLeg
+[2022.02.07-09.16.27:364][356]LogFbx: SortedLinks :(56) LeftLeg
+[2022.02.07-09.16.27:364][356]LogFbx: SortedLinks :(57) LeftFoot
+[2022.02.07-09.16.27:364][356]LogFbx: SortedLinks :(58) LeftToeBase
+[2022.02.07-09.16.27:364][356]LogFbx: SortedLinks :(59) LeftToe_End
+[2022.02.07-09.16.27:364][356]LogFbx: SortedLinks :(60) RightUpLeg
+[2022.02.07-09.16.27:364][356]LogFbx: SortedLinks :(61) RightLeg
+[2022.02.07-09.16.27:364][356]LogFbx: SortedLinks :(62) RightFoot
+[2022.02.07-09.16.27:364][356]LogFbx: SortedLinks :(63) RightToeBase
+[2022.02.07-09.16.27:364][356]LogFbx: SortedLinks :(64) RightToe_End
+[2022.02.07-09.16.27:364][356]LogFbx: Parsing AnimStack mixamo.com
+[2022.02.07-09.16.27:535][357]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Animations/Crouch/Crouch_Walk_Forward.Crouch_Walk_Forward
+[2022.02.07-09.16.27:536][357]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Animations/Crouch/Crouch_Walk_Back.Crouch_Walk_Back
+[2022.02.07-09.16.27:655][359]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Animations/Crouch/Crouch_Walk_Left.Crouch_Walk_Left
+[2022.02.07-09.16.27:655][359]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Animations/Crouch/Crouch_Walk_Right.Crouch_Walk_Right
+[2022.02.07-09.16.33:838][883]LogContentBrowser: Deferred new asset file creation: BSP_Walk1
+[2022.02.07-09.16.33:852][883]LogContentBrowser: Creating deferred item: BSP_Walk1
+[2022.02.07-09.16.37:832][295]LogContentBrowser: Attempting asset rename: BSP_Walk1 -> BSP_Crouch
+[2022.02.07-09.16.37:836][295]LogContentBrowser: End creating deferred item BSP_Walk1
+[2022.02.07-09.17.02:118][667]LogAssetEditorSubsystem: Opening Asset editor for BlendSpace /Game/Animations/BlendSpaces/BSP_Crouch.BSP_Crouch
+[2022.02.07-09.17.02:130][667]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.02.07-09.17.02:486][667]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2022.02.07-09.17.03:074][697]LogUObjectHash: Compacting FUObjectHashTables data took   2.17ms
+[2022.02.07-09.17.03:079][697]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/TestMap' took 0.025
+[2022.02.07-09.17.03:107][697]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Animations/BlendSpaces/BSP_Crouch] ([1] browsable assets)...
+[2022.02.07-09.17.03:116][697]OBJ SavePackage:     Rendered thumbnail for [BlendSpace /Game/Animations/BlendSpaces/BSP_Crouch.BSP_Crouch]
+[2022.02.07-09.17.03:116][697]OBJ SavePackage: Finished generating thumbnails for package [/Game/Animations/BlendSpaces/BSP_Crouch]
+[2022.02.07-09.17.03:146][697]LogSavePackage: Moving 'D:/GAME PROJECTS/Pearl of the Orient/Pearl of the Orient/Unreal_Pearl-of-the-Orient/PoTO/Saved/BSP_Crouch_Auto108D4F0394E78D14EA4D8F59E5F97E751.tmp' to 'D:/GAME PROJECTS/Pearl of the Orient/Pearl of the Orient/Unreal_Pearl-of-the-Orient/PoTO/Saved/Autosaves/Game/Animations/BlendSpaces/BSP_Crouch_Auto1.uasset'
+[2022.02.07-09.17.03:146][697]LogFileHelpers: Auto-saving content packages took 0.067
+[2022.02.07-09.18.18:987][249]LogSavePackage: Moving 'D:/GAME PROJECTS/Pearl of the Orient/Pearl of the Orient/Unreal_Pearl-of-the-Orient/PoTO/Saved/BSP_CrouchC78948C845E675FD1605409C37556EBD.tmp' to 'D:/GAME PROJECTS/Pearl of the Orient/Pearl of the Orient/Unreal_Pearl-of-the-Orient/PoTO/Content/Animations/BlendSpaces/BSP_Crouch.uasset'
+[2022.02.07-09.18.19:004][249]AssetCheck: New page: Asset Save: BSP_Crouch
+[2022.02.07-09.18.19:004][249]LogContentValidation: Display: Validating BlendSpace /Game/Animations/BlendSpaces/BSP_Crouch.BSP_Crouch
+[2022.02.07-09.18.39:344][444]LogSlate: Window 'BSP_Crouch' being destroyed
+[2022.02.07-09.18.43:962][610]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2022.02.07-09.19.43:260][478]LogSlate: Window 'Project Settings' being destroyed
+[2022.02.07-09.19.43:271][478]LogSlate: Window 'Project Settings' being destroyed
+[2022.02.07-09.19.49:024][963]LogMetaData: Removing '/Game/Blueprints/AnimBP_Character.AnimBP_Character_C' ref from Metadata '/Game/Animations/AnimBP_Character.PackageMetaData'
+[2022.02.07-09.19.49:024][963]LogMetaData: Removing '/Game/Blueprints/AnimBP_Character.AnimBP_Character:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Animations/AnimBP_Character.PackageMetaData'
+[2022.02.07-09.19.49:024][963]LogMetaData: Removing '/Game/Blueprints/AnimBP_Character.AnimBP_Character:EventGraph.K2Node_CallFunction_0' ref from Metadata '/Game/Animations/AnimBP_Character.PackageMetaData'
+[2022.02.07-09.19.49:024][963]LogMetaData: Removing '/Game/Blueprints/AnimBP_Character.AnimBP_Character:AnimGraph.AnimGraphNode_Root_0' ref from Metadata '/Game/Animations/AnimBP_Character.PackageMetaData'
+[2022.02.07-09.19.49:024][963]LogMetaData: Removing '/Game/Blueprints/AnimBP_Character.SKEL_AnimBP_Character_C:BlueprintUpdateAnimation' ref from Metadata '/Game/Animations/AnimBP_Character.PackageMetaData'
+[2022.02.07-09.19.49:024][963]LogMetaData: Removing '/Game/Blueprints/AnimBP_Character.SKEL_AnimBP_Character_C:BlueprintBeginPlay' ref from Metadata '/Game/Animations/AnimBP_Character.PackageMetaData'
+[2022.02.07-09.19.49:024][963]LogMetaData: Removing '/Game/Blueprints/AnimBP_Character.SKEL_AnimBP_Character_C:AnimGraph' ref from Metadata '/Game/Animations/AnimBP_Character.PackageMetaData'
+[2022.02.07-09.19.49:024][963]LogMetaData: Removing '/Game/Blueprints/AnimBP_Character.SKEL_AnimBP_Character_C' ref from Metadata '/Game/Animations/AnimBP_Character.PackageMetaData'
+[2022.02.07-09.19.49:024][963]LogMetaData: Removing '/Game/Blueprints/AnimBP_Character.AnimBP_Character_C:BlueprintBeginPlay' ref from Metadata '/Game/Animations/AnimBP_Character.PackageMetaData'
+[2022.02.07-09.19.49:024][963]LogMetaData: Removing '/Game/Blueprints/AnimBP_Character.AnimBP_Character_C:BlueprintUpdateAnimation' ref from Metadata '/Game/Animations/AnimBP_Character.PackageMetaData'
+[2022.02.07-09.19.49:024][963]LogMetaData: Removing '/Game/Blueprints/AnimBP_Character.AnimBP_Character_C:AnimGraph' ref from Metadata '/Game/Animations/AnimBP_Character.PackageMetaData'
+[2022.02.07-09.19.49:066][963]LogSavePackage: Moving 'D:/GAME PROJECTS/Pearl of the Orient/Pearl of the Orient/Unreal_Pearl-of-the-Orient/PoTO/Saved/AnimBP_CharacterA77ED2E541D7F2C9DA84D58852801BCF.tmp' to 'D:/GAME PROJECTS/Pearl of the Orient/Pearl of the Orient/Unreal_Pearl-of-the-Orient/PoTO/Content/Blueprints/AnimBP_Character.uasset'
+[2022.02.07-09.19.49:187][963]LogUObjectHash: Compacting FUObjectHashTables data took   3.15ms
+[2022.02.07-09.19.49:243][963]LogUObjectHash: Compacting FUObjectHashTables data took   2.55ms
+[2022.02.07-09.19.49:257][963]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2022.02.07-09.19.49:300][963]LogSavePackage: Moving 'D:/GAME PROJECTS/Pearl of the Orient/Pearl of the Orient/Unreal_Pearl-of-the-Orient/PoTO/Saved/BP_BaseCharacter8A6DCE0E4054D668E0B7EEB448C3EFCF.tmp' to 'D:/GAME PROJECTS/Pearl of the Orient/Pearl of the Orient/Unreal_Pearl-of-the-Orient/PoTO/Content/Blueprints/BP_BaseCharacter.uasset'
+[2022.02.07-09.19.49:365][963]AssetCheck: New page: Asset Save: multiple assets
+[2022.02.07-09.19.49:365][963]LogContentValidation: Display: Validating AnimBlueprint /Game/Blueprints/AnimBP_Character.AnimBP_Character
+[2022.02.07-09.19.49:365][963]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_BaseCharacter.BP_BaseCharacter
+[2022.02.07-09.20.03:129][290]LogAssetEditorSubsystem: Opening Asset editor for AnimBlueprint /Game/Blueprints/AnimBP_Character.AnimBP_Character
+[2022.02.07-09.20.03:135][290]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_22:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.02.07-09.21.02:631][572]BlueprintLog: New page: Compile AnimBP_Character
+[2022.02.07-09.21.02:674][572]LogUObjectHash: Compacting FUObjectHashTables data took   2.41ms
+[2022.02.07-09.21.03:003][588]LogSavePackage: Moving 'D:/GAME PROJECTS/Pearl of the Orient/Pearl of the Orient/Unreal_Pearl-of-the-Orient/PoTO/Saved/AnimBP_CharacterB75C2C604AE5723E41D1A898563CFDD9.tmp' to 'D:/GAME PROJECTS/Pearl of the Orient/Pearl of the Orient/Unreal_Pearl-of-the-Orient/PoTO/Content/Blueprints/AnimBP_Character.uasset'
+[2022.02.07-09.21.03:023][588]AssetCheck: New page: Asset Save: AnimBP_Character
+[2022.02.07-09.21.03:023][588]LogContentValidation: Display: Validating AnimBlueprint /Game/Blueprints/AnimBP_Character.AnimBP_Character
+[2022.02.07-09.23.01:289][176]BlueprintLog: New page: Compile AnimBP_Character
+[2022.02.07-09.23.01:338][176]LogUObjectHash: Compacting FUObjectHashTables data took   2.45ms
+[2022.02.07-09.23.01:787][199]LogSavePackage: Moving 'D:/GAME PROJECTS/Pearl of the Orient/Pearl of the Orient/Unreal_Pearl-of-the-Orient/PoTO/Saved/AnimBP_CharacterA09F79DD42C7EBCB442FA2BF8D7C7C50.tmp' to 'D:/GAME PROJECTS/Pearl of the Orient/Pearl of the Orient/Unreal_Pearl-of-the-Orient/PoTO/Content/Blueprints/AnimBP_Character.uasset'
+[2022.02.07-09.23.01:812][199]AssetCheck: New page: Asset Save: AnimBP_Character
+[2022.02.07-09.23.01:812][199]LogContentValidation: Display: Validating AnimBlueprint /Game/Blueprints/AnimBP_Character.AnimBP_Character
+[2022.02.07-09.23.25:215][965]BlueprintLog: New page: Compile AnimBP_Character
+[2022.02.07-09.23.25:290][965]LogUObjectHash: Compacting FUObjectHashTables data took   3.00ms
+[2022.02.07-09.23.25:609][980]LogSavePackage: Moving 'D:/GAME PROJECTS/Pearl of the Orient/Pearl of the Orient/Unreal_Pearl-of-the-Orient/PoTO/Saved/AnimBP_CharacterCCC468AB41EE260402845E83F6B879B6.tmp' to 'D:/GAME PROJECTS/Pearl of the Orient/Pearl of the Orient/Unreal_Pearl-of-the-Orient/PoTO/Content/Blueprints/AnimBP_Character.uasset'
+[2022.02.07-09.23.25:632][980]AssetCheck: New page: Asset Save: AnimBP_Character
+[2022.02.07-09.23.25:632][980]LogContentValidation: Display: Validating AnimBlueprint /Game/Blueprints/AnimBP_Character.AnimBP_Character
+[2022.02.07-09.24.17:305][247]LogSavePackage: Moving 'D:/GAME PROJECTS/Pearl of the Orient/Pearl of the Orient/Unreal_Pearl-of-the-Orient/PoTO/Saved/AnimBP_Character9DF822104B102A62B70AEAA006C6A7C7.tmp' to 'D:/GAME PROJECTS/Pearl of the Orient/Pearl of the Orient/Unreal_Pearl-of-the-Orient/PoTO/Content/Blueprints/AnimBP_Character.uasset'
+[2022.02.07-09.24.17:320][247]AssetCheck: New page: Asset Save: AnimBP_Character
+[2022.02.07-09.24.17:320][247]LogContentValidation: Display: Validating AnimBlueprint /Game/Blueprints/AnimBP_Character.AnimBP_Character
+[2022.02.07-09.24.20:153][425]LogSlate: Window 'AnimBP_Character' being destroyed
+[2022.02.07-09.24.30:147][359]LogContentBrowser: Deferred new asset file creation: NewInterface
+[2022.02.07-09.24.30:158][359]LogContentBrowser: Creating deferred item: NewInterface
+[2022.02.07-09.24.36:924][655]LogContentBrowser: Attempting asset rename: NewInterface -> NewInterface
+[2022.02.07-09.24.36:952][655]LogContentBrowser: End creating deferred item NewInterface
+[2022.02.07-09.24.45:745][451]LogContentBrowser: Attempting asset rename: NewInterface -> BPInterface_CharacterActions
+[2022.02.07-09.24.45:768][451]LogMetaData: Removing '/Game/Blueprints/BPInterface_CharacterActions.SKEL_BPInterface_CharacterActions_C' ref from Metadata '/Game/Blueprints/NewInterface.PackageMetaData'
+[2022.02.07-09.24.45:768][451]LogMetaData: Removing '/Game/Blueprints/BPInterface_CharacterActions.BPInterface_CharacterActions_C' ref from Metadata '/Game/Blueprints/NewInterface.PackageMetaData'
+[2022.02.07-09.24.45:788][451]LogSavePackage: Moving 'D:/GAME PROJECTS/Pearl of the Orient/Pearl of the Orient/Unreal_Pearl-of-the-Orient/PoTO/Saved/BPInterface_CharacterActionsB8A392204EAD5424A8A832A9829E4A07.tmp' to 'D:/GAME PROJECTS/Pearl of the Orient/Pearl of the Orient/Unreal_Pearl-of-the-Orient/PoTO/Content/Blueprints/BPInterface_CharacterActions.uasset'
+[2022.02.07-09.24.45:862][451]LogUObjectHash: Compacting FUObjectHashTables data took   2.25ms
+[2022.02.07-09.24.45:892][451]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2022.02.07-09.24.45:910][451]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2022.02.07-09.24.45:970][451]AssetCheck: New page: Asset Save: BPInterface_CharacterActions
+[2022.02.07-09.24.45:970][451]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BPInterface_CharacterActions.BPInterface_CharacterActions
+[2022.02.07-09.25.11:665][710]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/BPInterface_CharacterActions.BPInterface_CharacterActions
+[2022.02.07-09.25.41:274][476]BlueprintLog: New page: Compile BPInterface_CharacterActions
+[2022.02.07-09.25.41:296][476]LogUObjectHash: Compacting FUObjectHashTables data took   2.21ms
+[2022.02.07-09.25.41:597][508]LogSavePackage: Moving 'D:/GAME PROJECTS/Pearl of the Orient/Pearl of the Orient/Unreal_Pearl-of-the-Orient/PoTO/Saved/BPInterface_CharacterActions54D9E575440B800DA872B8AF32CF086F.tmp' to 'D:/GAME PROJECTS/Pearl of the Orient/Pearl of the Orient/Unreal_Pearl-of-the-Orient/PoTO/Content/Blueprints/BPInterface_CharacterActions.uasset'
+[2022.02.07-09.25.41:608][508]AssetCheck: New page: Asset Save: BPInterface_CharacterActions
+[2022.02.07-09.25.41:608][508]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BPInterface_CharacterActions.BPInterface_CharacterActions
+[2022.02.07-09.27.03:864][669]BlueprintLog: New page: Compile AnimBP_Character
+[2022.02.07-09.27.03:906][669]LogUObjectHash: Compacting FUObjectHashTables data took   2.40ms
+[2022.02.07-09.27.04:231][691]LogSavePackage: Moving 'D:/GAME PROJECTS/Pearl of the Orient/Pearl of the Orient/Unreal_Pearl-of-the-Orient/PoTO/Saved/AnimBP_Character345DE0BE4EFD3BE84AF0E68B08742859.tmp' to 'D:/GAME PROJECTS/Pearl of the Orient/Pearl of the Orient/Unreal_Pearl-of-the-Orient/PoTO/Content/Blueprints/AnimBP_Character.uasset'
+[2022.02.07-09.27.04:248][691]AssetCheck: New page: Asset Save: AnimBP_Character
+[2022.02.07-09.27.04:248][691]LogContentValidation: Display: Validating AnimBlueprint /Game/Blueprints/AnimBP_Character.AnimBP_Character
+[2022.02.07-09.28.29:889][515]BlueprintLog: New page: Compile AnimBP_Character
+[2022.02.07-09.28.29:932][515]LogUObjectHash: Compacting FUObjectHashTables data took   2.45ms
+[2022.02.07-09.28.30:320][543]LogSavePackage: Moving 'D:/GAME PROJECTS/Pearl of the Orient/Pearl of the Orient/Unreal_Pearl-of-the-Orient/PoTO/Saved/AnimBP_Character5A57523646B572BEB4C661B7E9296043.tmp' to 'D:/GAME PROJECTS/Pearl of the Orient/Pearl of the Orient/Unreal_Pearl-of-the-Orient/PoTO/Content/Blueprints/AnimBP_Character.uasset'
+[2022.02.07-09.28.30:340][543]AssetCheck: New page: Asset Save: AnimBP_Character
+[2022.02.07-09.28.30:340][543]LogContentValidation: Display: Validating AnimBlueprint /Game/Blueprints/AnimBP_Character.AnimBP_Character
+[2022.02.07-09.28.33:018][783]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/BP_BaseCharacter.BP_BaseCharacter
+[2022.02.07-09.29.00:532][563]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2022.02.07-09.29.08:797][502]BlueprintLog: New page: Compile BP_BaseCharacter
+[2022.02.07-09.29.08:802][502]LogBlueprint: Error: [AssetLog] D:\GAME PROJECTS\Pearl of the Orient\Pearl of the Orient\Unreal_Pearl-of-the-Orient\PoTO\Content\Blueprints\BP_BaseCharacter.uasset: [Compiler] Cannot order parameters bClientSimulation in function Crouch.
+[2022.02.07-09.29.08:840][502]LogUObjectHash: Compacting FUObjectHashTables data took   2.83ms
+[2022.02.07-09.29.09:159][526]LogSavePackage: Moving 'D:/GAME PROJECTS/Pearl of the Orient/Pearl of the Orient/Unreal_Pearl-of-the-Orient/PoTO/Saved/BP_BaseCharacter33AD591D4B783B3BBCF9289CC2B3ACC0.tmp' to 'D:/GAME PROJECTS/Pearl of the Orient/Pearl of the Orient/Unreal_Pearl-of-the-Orient/PoTO/Content/Blueprints/BP_BaseCharacter.uasset'
+[2022.02.07-09.29.09:176][526]AssetCheck: New page: Asset Save: BP_BaseCharacter
+[2022.02.07-09.29.09:176][526]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_BaseCharacter.BP_BaseCharacter
+[2022.02.07-09.29.41:209][820]BlueprintLog: New page: Compile BP_BaseCharacter
+[2022.02.07-09.29.41:214][820]LogBlueprint: Error: [AssetLog] D:\GAME PROJECTS\Pearl of the Orient\Pearl of the Orient\Unreal_Pearl-of-the-Orient\PoTO\Content\Blueprints\BP_BaseCharacter.uasset: [Compiler] Cannot order parameters bClientSimulation in function Crouch.
+[2022.02.07-09.29.41:250][820]LogUObjectHash: Compacting FUObjectHashTables data took   1.99ms
+[2022.02.07-09.29.41:786][875]LogSavePackage: Moving 'D:/GAME PROJECTS/Pearl of the Orient/Pearl of the Orient/Unreal_Pearl-of-the-Orient/PoTO/Saved/BP_BaseCharacter6A9DBB104022046722837E983A0C946A.tmp' to 'D:/GAME PROJECTS/Pearl of the Orient/Pearl of the Orient/Unreal_Pearl-of-the-Orient/PoTO/Content/Blueprints/BP_BaseCharacter.uasset'
+[2022.02.07-09.29.41:805][875]AssetCheck: New page: Asset Save: BP_BaseCharacter
+[2022.02.07-09.29.41:805][875]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_BaseCharacter.BP_BaseCharacter
+[2022.02.07-09.29.56:948][662]BlueprintLog: New page: Compile BP_BaseCharacter
+[2022.02.07-09.29.56:952][662]LogBlueprint: Error: [AssetLog] D:\GAME PROJECTS\Pearl of the Orient\Pearl of the Orient\Unreal_Pearl-of-the-Orient\PoTO\Content\Blueprints\BP_BaseCharacter.uasset: [Compiler] Cannot order parameters bClientSimulation in function Crouch.
+[2022.02.07-09.29.56:990][662]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2022.02.07-09.30.07:089][818]LogSavePackage: Moving 'D:/GAME PROJECTS/Pearl of the Orient/Pearl of the Orient/Unreal_Pearl-of-the-Orient/PoTO/Saved/BP_BaseCharacter095BEF9049B336C0A36035B4176E3127.tmp' to 'D:/GAME PROJECTS/Pearl of the Orient/Pearl of the Orient/Unreal_Pearl-of-the-Orient/PoTO/Content/Blueprints/BP_BaseCharacter.uasset'
+[2022.02.07-09.30.07:102][818]AssetCheck: New page: Asset Save: BP_BaseCharacter
+[2022.02.07-09.30.07:102][818]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_BaseCharacter.BP_BaseCharacter
+[2022.02.07-09.30.21:084][432]LogSlate: Window 'Message' being destroyed
+[2022.02.07-09.30.21:093][432]Message dialog closed, result: No, title: Message, text: Would you like to transfer the interface functions to be part of your blueprint?
+[2022.02.07-09.30.23:396][690]BlueprintLog: New page: Compile BP_BaseCharacter
+[2022.02.07-09.30.23:439][690]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2022.02.07-09.30.25:421][905]LogSavePackage: Moving 'D:/GAME PROJECTS/Pearl of the Orient/Pearl of the Orient/Unreal_Pearl-of-the-Orient/PoTO/Saved/BP_BaseCharacterA1547520401AD386D168EA80F8C76C40.tmp' to 'D:/GAME PROJECTS/Pearl of the Orient/Pearl of the Orient/Unreal_Pearl-of-the-Orient/PoTO/Content/Blueprints/BP_BaseCharacter.uasset'
+[2022.02.07-09.30.25:435][905]AssetCheck: New page: Asset Save: BP_BaseCharacter
+[2022.02.07-09.30.25:435][905]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_BaseCharacter.BP_BaseCharacter
+[2022.02.07-09.31.00:379][779]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2022.02.07-09.31.06:837][536]BlueprintLog: New page: Compile BP_BaseCharacter
+[2022.02.07-09.31.06:841][536]LogBlueprint: Error: [AssetLog] D:\GAME PROJECTS\Pearl of the Orient\Pearl of the Orient\Unreal_Pearl-of-the-Orient\PoTO\Content\Blueprints\BP_BaseCharacter.uasset: [Compiler] Cannot order parameters bClientSimulation in function Crouch.
+[2022.02.07-09.31.06:879][536]LogUObjectHash: Compacting FUObjectHashTables data took   2.22ms
+[2022.02.07-09.31.17:222][631]LogSlate: Window 'Message' being destroyed
+[2022.02.07-09.31.17:230][631]Message dialog closed, result: No, title: Message, text: Would you like to transfer the interface functions to be part of your blueprint?
+[2022.02.07-09.31.18:750][796]BlueprintLog: New page: Compile BP_BaseCharacter
+[2022.02.07-09.31.18:792][796]LogUObjectHash: Compacting FUObjectHashTables data took   2.24ms
+[2022.02.07-09.31.19:206][834]LogSavePackage: Moving 'D:/GAME PROJECTS/Pearl of the Orient/Pearl of the Orient/Unreal_Pearl-of-the-Orient/PoTO/Saved/BP_BaseCharacterDD953DC44C18CE3EB8EC72971CFEC41A.tmp' to 'D:/GAME PROJECTS/Pearl of the Orient/Pearl of the Orient/Unreal_Pearl-of-the-Orient/PoTO/Content/Blueprints/BP_BaseCharacter.uasset'
+[2022.02.07-09.31.19:220][834]AssetCheck: New page: Asset Save: BP_BaseCharacter
+[2022.02.07-09.31.19:220][834]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_BaseCharacter.BP_BaseCharacter
+[2022.02.07-09.32.56:167][340]BlueprintLog: New page: Compile BP_BaseCharacter
+[2022.02.07-09.32.56:212][340]LogUObjectHash: Compacting FUObjectHashTables data took   2.26ms
+[2022.02.07-09.32.57:989][540]LogSavePackage: Moving 'D:/GAME PROJECTS/Pearl of the Orient/Pearl of the Orient/Unreal_Pearl-of-the-Orient/PoTO/Saved/BP_BaseCharacter33575F5849514FDF62BD2F9F49C23093.tmp' to 'D:/GAME PROJECTS/Pearl of the Orient/Pearl of the Orient/Unreal_Pearl-of-the-Orient/PoTO/Content/Blueprints/BP_BaseCharacter.uasset'
+[2022.02.07-09.32.58:003][540]AssetCheck: New page: Asset Save: BP_BaseCharacter
+[2022.02.07-09.32.58:003][540]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_BaseCharacter.BP_BaseCharacter
+[2022.02.07-09.34.55:465][939]BlueprintLog: New page: Compile BP_BaseCharacter
+[2022.02.07-09.34.55:509][939]LogUObjectHash: Compacting FUObjectHashTables data took   2.32ms
+[2022.02.07-09.34.56:115][998]LogSavePackage: Moving 'D:/GAME PROJECTS/Pearl of the Orient/Pearl of the Orient/Unreal_Pearl-of-the-Orient/PoTO/Saved/BP_BaseCharacterAA0B9B054627CA4A74AAE3A78772E4AE.tmp' to 'D:/GAME PROJECTS/Pearl of the Orient/Pearl of the Orient/Unreal_Pearl-of-the-Orient/PoTO/Content/Blueprints/BP_BaseCharacter.uasset'
+[2022.02.07-09.34.56:130][998]AssetCheck: New page: Asset Save: BP_BaseCharacter
+[2022.02.07-09.34.56:130][998]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_BaseCharacter.BP_BaseCharacter
+[2022.02.07-09.35.17:979][776]BlueprintLog: New page: Compile BP_BaseCharacter
+[2022.02.07-09.35.18:030][776]LogUObjectHash: Compacting FUObjectHashTables data took   2.05ms
+[2022.02.07-09.35.18:753][850]LogSavePackage: Moving 'D:/GAME PROJECTS/Pearl of the Orient/Pearl of the Orient/Unreal_Pearl-of-the-Orient/PoTO/Saved/BP_BaseCharacter33C0FADB4F57B43E6E222E9F2058FA19.tmp' to 'D:/GAME PROJECTS/Pearl of the Orient/Pearl of the Orient/Unreal_Pearl-of-the-Orient/PoTO/Content/Blueprints/BP_BaseCharacter.uasset'
+[2022.02.07-09.35.18:767][850]AssetCheck: New page: Asset Save: BP_BaseCharacter
+[2022.02.07-09.35.18:767][850]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_BaseCharacter.BP_BaseCharacter
+[2022.02.07-09.35.39:319][827]BlueprintLog: New page: Compile BP_BaseCharacter
+[2022.02.07-09.35.39:372][827]LogUObjectHash: Compacting FUObjectHashTables data took   2.24ms
+[2022.02.07-09.35.39:828][870]LogSavePackage: Moving 'D:/GAME PROJECTS/Pearl of the Orient/Pearl of the Orient/Unreal_Pearl-of-the-Orient/PoTO/Saved/BP_BaseCharacterD288EA474A1C37BEF1C44ABAA1B8D2B4.tmp' to 'D:/GAME PROJECTS/Pearl of the Orient/Pearl of the Orient/Unreal_Pearl-of-the-Orient/PoTO/Content/Blueprints/BP_BaseCharacter.uasset'
+[2022.02.07-09.35.39:844][870]AssetCheck: New page: Asset Save: BP_BaseCharacter
+[2022.02.07-09.35.39:844][870]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_BaseCharacter.BP_BaseCharacter
+[2022.02.07-09.37.10:466][602]BlueprintLog: New page: Compile BP_BaseCharacter
+[2022.02.07-09.37.10:511][602]LogUObjectHash: Compacting FUObjectHashTables data took   2.35ms
+[2022.02.07-09.37.10:859][631]LogSavePackage: Moving 'D:/GAME PROJECTS/Pearl of the Orient/Pearl of the Orient/Unreal_Pearl-of-the-Orient/PoTO/Saved/BP_BaseCharacterD20C259A463EE0248F73178BDEEA230A.tmp' to 'D:/GAME PROJECTS/Pearl of the Orient/Pearl of the Orient/Unreal_Pearl-of-the-Orient/PoTO/Content/Blueprints/BP_BaseCharacter.uasset'
+[2022.02.07-09.37.10:877][631]AssetCheck: New page: Asset Save: BP_BaseCharacter
+[2022.02.07-09.37.10:877][631]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_BaseCharacter.BP_BaseCharacter
+[2022.02.07-09.37.13:777][945]LogTemp: Repeating last play command: Selected Viewport
+[2022.02.07-09.37.13:782][945]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.02.07-09.37.13:782][945]PIE: New page: PIE session: TestMap (8 Feb 2022, 1:37:13 am)
+[2022.02.07-09.37.13:815][945]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_TestMap
+[2022.02.07-09.37.13:828][945]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013077s)
+[2022.02.07-09.37.13:829][945]LogAIModule: Creating AISystem for world TestMap
+[2022.02.07-09.37.13:829][945]LogPlayLevel: PIE: World Init took: (0.001390s)
+[2022.02.07-09.37.13:830][945]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TestMap.TestMap to /Game/Maps/UEDPIE_0_TestMap.TestMap (0.014697s)
+[2022.02.07-09.37.13:857][945]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2022.02.07-09.37.13:857][945]LogAudio: Display: Creating Audio Device:                 Id: 12, Scope: Unique, Realtime: True
+[2022.02.07-09.37.13:857][945]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.02.07-09.37.13:857][945]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.02.07-09.37.13:858][945]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.02.07-09.37.13:858][945]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.02.07-09.37.13:858][945]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.02.07-09.37.13:858][945]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.02.07-09.37.13:858][945]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.02.07-09.37.13:858][945]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.02.07-09.37.13:858][945]LogAudio: Display: Using built-in audio occlusion.
+[2022.02.07-09.37.13:858][945]LogAudioMixer: Display: Initializing audio mixer.
+[2022.02.07-09.37.13:860][945]LogAudioMixer: Display: 0: FrontLeft
+[2022.02.07-09.37.13:860][945]LogAudioMixer: Display: 1: FrontRight
+[2022.02.07-09.37.13:871][945]LogAudioMixer: Display: Using Audio Device Speakers (2- Redragon Gaming Headset)
+[2022.02.07-09.37.13:872][945]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.02.07-09.37.13:872][945]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.02.07-09.37.13:872][945]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.02.07-09.37.13:872][945]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.02.07-09.37.13:872][945]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.02.07-09.37.13:872][945]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.02.07-09.37.13:886][945]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.02.07-09.37.13:886][945]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.02.07-09.37.13:886][945]LogInit: FAudioDevice initialized.
+[2022.02.07-09.37.13:886][945]LogAudio: Display: Audio Device (ID: 12) registered with world 'TestMap'.
+[2022.02.07-09.37.13:892][945]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2022.02.07-09.37.13:894][945]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TestMap.TestMap up for play (max tick rate 0) at 2022.02.07-17.37.13
+[2022.02.07-09.37.13:894][945]LogWorld: Bringing up level for play took: 0.000780
+[2022.02.07-09.37.13:894][945]LogOnline: OSS: Creating online subsystem instance for: :Context_37
+[2022.02.07-09.37.13:897][945]PIE: Server logged in
+[2022.02.07-09.37.13:898][945]PIE: Play in editor total start time 0.116 seconds.
+[2022.02.07-09.37.43:755][251]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.07-09.37.43:755][251]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_TestMap
+[2022.02.07-09.37.43:756][251]LogWorld: UWorld::CleanupWorld for TestMap, bSessionEnded=true, bCleanupResources=true
+[2022.02.07-09.37.43:756][251]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.07-09.37.43:763][251]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.02.07-09.37.43:767][251]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.07-09.37.43:788][251]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.02.07-09.37.43:788][251]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.02.07-09.37.43:789][251]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.02.07-09.37.43:806][251]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.07-09.37.43:809][251]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2022.02.07-09.37.43:830][252]LogPlayLevel: Display: Destroying online subsystem :Context_37
+[2022.02.07-09.37.54:454][364]LogSavePackage: Moving 'D:/GAME PROJECTS/Pearl of the Orient/Pearl of the Orient/Unreal_Pearl-of-the-Orient/PoTO/Saved/BSP_CrouchDDE52CAD434ED846ABDCE28B84CEEA20.tmp' to 'D:/GAME PROJECTS/Pearl of the Orient/Pearl of the Orient/Unreal_Pearl-of-the-Orient/PoTO/Content/Animations/BlendSpaces/BSP_Crouch.uasset'
+[2022.02.07-09.37.54:469][364]AssetCheck: New page: Asset Save: BSP_Crouch
+[2022.02.07-09.37.54:469][364]LogContentValidation: Display: Validating BlendSpace /Game/Animations/BlendSpaces/BSP_Crouch.BSP_Crouch
+[2022.02.07-09.37.56:430][559]LogTemp: Repeating last play command: Selected Viewport
+[2022.02.07-09.37.56:436][559]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.02.07-09.37.56:437][559]PIE: New page: PIE session: TestMap (8 Feb 2022, 1:37:56 am)
+[2022.02.07-09.37.56:437][559]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_TestMap
+[2022.02.07-09.37.56:448][559]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011316s)
+[2022.02.07-09.37.56:450][559]LogAIModule: Creating AISystem for world TestMap
+[2022.02.07-09.37.56:450][559]LogPlayLevel: PIE: World Init took: (0.001729s)
+[2022.02.07-09.37.56:450][559]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TestMap.TestMap to /Game/Maps/UEDPIE_0_TestMap.TestMap (0.013287s)
+[2022.02.07-09.37.56:478][559]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2022.02.07-09.37.56:479][559]LogAudio: Display: Creating Audio Device:                 Id: 13, Scope: Unique, Realtime: True
+[2022.02.07-09.37.56:479][559]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.02.07-09.37.56:479][559]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.02.07-09.37.56:479][559]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.02.07-09.37.56:479][559]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.02.07-09.37.56:479][559]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.02.07-09.37.56:479][559]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.02.07-09.37.56:480][559]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.02.07-09.37.56:480][559]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.02.07-09.37.56:480][559]LogAudio: Display: Using built-in audio occlusion.
+[2022.02.07-09.37.56:480][559]LogAudioMixer: Display: Initializing audio mixer.
+[2022.02.07-09.37.56:482][559]LogAudioMixer: Display: 0: FrontLeft
+[2022.02.07-09.37.56:482][559]LogAudioMixer: Display: 1: FrontRight
+[2022.02.07-09.37.56:492][559]LogAudioMixer: Display: Using Audio Device Speakers (2- Redragon Gaming Headset)
+[2022.02.07-09.37.56:492][559]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.02.07-09.37.56:492][559]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.02.07-09.37.56:492][559]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.02.07-09.37.56:492][559]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.02.07-09.37.56:492][559]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.02.07-09.37.56:492][559]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.02.07-09.37.56:506][559]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.02.07-09.37.56:506][559]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.02.07-09.37.56:506][559]LogInit: FAudioDevice initialized.
+[2022.02.07-09.37.56:506][559]LogAudio: Display: Audio Device (ID: 13) registered with world 'TestMap'.
+[2022.02.07-09.37.56:518][559]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2022.02.07-09.37.56:519][559]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TestMap.TestMap up for play (max tick rate 0) at 2022.02.07-17.37.56
+[2022.02.07-09.37.56:519][559]LogWorld: Bringing up level for play took: 0.000700
+[2022.02.07-09.37.56:519][559]LogOnline: OSS: Creating online subsystem instance for: :Context_38
+[2022.02.07-09.37.56:522][559]PIE: Server logged in
+[2022.02.07-09.37.56:523][559]PIE: Play in editor total start time 0.087 seconds.
+[2022.02.07-09.38.07:836][785]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.07-09.38.07:836][785]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_TestMap
+[2022.02.07-09.38.07:836][785]LogWorld: UWorld::CleanupWorld for TestMap, bSessionEnded=true, bCleanupResources=true
+[2022.02.07-09.38.07:837][785]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.07-09.38.07:844][785]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.02.07-09.38.07:848][785]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.07-09.38.07:868][785]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.02.07-09.38.07:869][785]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.02.07-09.38.07:869][785]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.02.07-09.38.07:886][785]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.07-09.38.07:889][785]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2022.02.07-09.38.07:911][786]LogPlayLevel: Display: Destroying online subsystem :Context_38
+[2022.02.07-09.38.12:253][209]LogSavePackage: Moving 'D:/GAME PROJECTS/Pearl of the Orient/Pearl of the Orient/Unreal_Pearl-of-the-Orient/PoTO/Saved/BSP_Crouch773E48A6402C0C781E75B599B2F5FAF5.tmp' to 'D:/GAME PROJECTS/Pearl of the Orient/Pearl of the Orient/Unreal_Pearl-of-the-Orient/PoTO/Content/Animations/BlendSpaces/BSP_Crouch.uasset'
+[2022.02.07-09.38.12:270][209]AssetCheck: New page: Asset Save: BSP_Crouch
+[2022.02.07-09.38.12:270][209]LogContentValidation: Display: Validating BlendSpace /Game/Animations/BlendSpaces/BSP_Crouch.BSP_Crouch
+[2022.02.07-09.38.13:370][321]LogTemp: Repeating last play command: Selected Viewport
+[2022.02.07-09.38.13:375][321]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.02.07-09.38.13:375][321]PIE: New page: PIE session: TestMap (8 Feb 2022, 1:38:13 am)
+[2022.02.07-09.38.13:375][321]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_TestMap
+[2022.02.07-09.38.13:387][321]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011688s)
+[2022.02.07-09.38.13:388][321]LogAIModule: Creating AISystem for world TestMap
+[2022.02.07-09.38.13:389][321]LogPlayLevel: PIE: World Init took: (0.001397s)
+[2022.02.07-09.38.13:389][321]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TestMap.TestMap to /Game/Maps/UEDPIE_0_TestMap.TestMap (0.013205s)
+[2022.02.07-09.38.13:413][321]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2022.02.07-09.38.13:414][321]LogAudio: Display: Creating Audio Device:                 Id: 14, Scope: Unique, Realtime: True
+[2022.02.07-09.38.13:414][321]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.02.07-09.38.13:414][321]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.02.07-09.38.13:414][321]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.02.07-09.38.13:414][321]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.02.07-09.38.13:414][321]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.02.07-09.38.13:414][321]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.02.07-09.38.13:414][321]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.02.07-09.38.13:414][321]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.02.07-09.38.13:415][321]LogAudio: Display: Using built-in audio occlusion.
+[2022.02.07-09.38.13:415][321]LogAudioMixer: Display: Initializing audio mixer.
+[2022.02.07-09.38.13:417][321]LogAudioMixer: Display: 0: FrontLeft
+[2022.02.07-09.38.13:417][321]LogAudioMixer: Display: 1: FrontRight
+[2022.02.07-09.38.13:427][321]LogAudioMixer: Display: Using Audio Device Speakers (2- Redragon Gaming Headset)
+[2022.02.07-09.38.13:428][321]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.02.07-09.38.13:428][321]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.02.07-09.38.13:428][321]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.02.07-09.38.13:428][321]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.02.07-09.38.13:428][321]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.02.07-09.38.13:428][321]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.02.07-09.38.13:442][321]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.02.07-09.38.13:442][321]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.02.07-09.38.13:442][321]LogInit: FAudioDevice initialized.
+[2022.02.07-09.38.13:442][321]LogAudio: Display: Audio Device (ID: 14) registered with world 'TestMap'.
+[2022.02.07-09.38.13:448][321]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2022.02.07-09.38.13:449][321]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TestMap.TestMap up for play (max tick rate 0) at 2022.02.07-17.38.13
+[2022.02.07-09.38.13:449][321]LogWorld: Bringing up level for play took: 0.000697
+[2022.02.07-09.38.13:450][321]LogOnline: OSS: Creating online subsystem instance for: :Context_39
+[2022.02.07-09.38.13:452][321]PIE: Server logged in
+[2022.02.07-09.38.13:453][321]PIE: Play in editor total start time 0.079 seconds.
+[2022.02.07-09.38.25:236][571]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.07-09.38.25:236][571]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_TestMap
+[2022.02.07-09.38.25:236][571]LogWorld: UWorld::CleanupWorld for TestMap, bSessionEnded=true, bCleanupResources=true
+[2022.02.07-09.38.25:236][571]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.07-09.38.25:245][571]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.02.07-09.38.25:249][571]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.07-09.38.25:269][571]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.07-09.38.25:270][571]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.02.07-09.38.25:271][571]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.02.07-09.38.25:289][571]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2022.02.07-09.38.25:338][573]LogPlayLevel: Display: Destroying online subsystem :Context_39
+[2022.02.07-09.38.30:962][141]LogSavePackage: Moving 'D:/GAME PROJECTS/Pearl of the Orient/Pearl of the Orient/Unreal_Pearl-of-the-Orient/PoTO/Saved/BSP_Crouch6049FFF344FE63358ADC84A1537FB06D.tmp' to 'D:/GAME PROJECTS/Pearl of the Orient/Pearl of the Orient/Unreal_Pearl-of-the-Orient/PoTO/Content/Animations/BlendSpaces/BSP_Crouch.uasset'
+[2022.02.07-09.38.30:979][141]AssetCheck: New page: Asset Save: BSP_Crouch
+[2022.02.07-09.38.30:979][141]LogContentValidation: Display: Validating BlendSpace /Game/Animations/BlendSpaces/BSP_Crouch.BSP_Crouch
+[2022.02.07-09.38.32:097][237]LogTemp: Repeating last play command: Selected Viewport
+[2022.02.07-09.38.32:102][237]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.02.07-09.38.32:103][237]PIE: New page: PIE session: TestMap (8 Feb 2022, 1:38:32 am)
+[2022.02.07-09.38.32:135][237]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_TestMap
+[2022.02.07-09.38.32:144][237]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009034s)
+[2022.02.07-09.38.32:145][237]LogAIModule: Creating AISystem for world TestMap
+[2022.02.07-09.38.32:145][237]LogPlayLevel: PIE: World Init took: (0.001720s)
+[2022.02.07-09.38.32:146][237]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TestMap.TestMap to /Game/Maps/UEDPIE_0_TestMap.TestMap (0.010923s)
+[2022.02.07-09.38.32:173][237]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2022.02.07-09.38.32:174][237]LogAudio: Display: Creating Audio Device:                 Id: 15, Scope: Unique, Realtime: True
+[2022.02.07-09.38.32:174][237]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.02.07-09.38.32:174][237]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.02.07-09.38.32:174][237]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.02.07-09.38.32:174][237]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.02.07-09.38.32:174][237]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.02.07-09.38.32:174][237]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.02.07-09.38.32:174][237]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.02.07-09.38.32:174][237]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.02.07-09.38.32:175][237]LogAudio: Display: Using built-in audio occlusion.
+[2022.02.07-09.38.32:175][237]LogAudioMixer: Display: Initializing audio mixer.
+[2022.02.07-09.38.32:177][237]LogAudioMixer: Display: 0: FrontLeft
+[2022.02.07-09.38.32:177][237]LogAudioMixer: Display: 1: FrontRight
+[2022.02.07-09.38.32:188][237]LogAudioMixer: Display: Using Audio Device Speakers (2- Redragon Gaming Headset)
+[2022.02.07-09.38.32:188][237]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.02.07-09.38.32:188][237]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.02.07-09.38.32:188][237]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.02.07-09.38.32:188][237]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.02.07-09.38.32:188][237]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.02.07-09.38.32:188][237]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.02.07-09.38.32:203][237]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.02.07-09.38.32:203][237]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.02.07-09.38.32:203][237]LogInit: FAudioDevice initialized.
+[2022.02.07-09.38.32:203][237]LogAudio: Display: Audio Device (ID: 15) registered with world 'TestMap'.
+[2022.02.07-09.38.32:209][237]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2022.02.07-09.38.32:211][237]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TestMap.TestMap up for play (max tick rate 0) at 2022.02.07-17.38.32
+[2022.02.07-09.38.32:211][237]LogWorld: Bringing up level for play took: 0.000913
+[2022.02.07-09.38.32:211][237]LogOnline: OSS: Creating online subsystem instance for: :Context_40
+[2022.02.07-09.38.32:214][237]PIE: Server logged in
+[2022.02.07-09.38.32:215][237]PIE: Play in editor total start time 0.113 seconds.
+[2022.02.07-09.38.57:675][951]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.07-09.38.57:675][951]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_TestMap
+[2022.02.07-09.38.57:675][951]LogWorld: UWorld::CleanupWorld for TestMap, bSessionEnded=true, bCleanupResources=true
+[2022.02.07-09.38.57:676][951]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.07-09.38.57:681][951]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.02.07-09.38.57:685][951]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.07-09.38.57:706][951]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.07-09.38.57:707][951]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.02.07-09.38.57:708][951]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.02.07-09.38.57:726][951]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2022.02.07-09.38.57:746][952]LogPlayLevel: Display: Destroying online subsystem :Context_40
+[2022.02.07-09.38.59:133][ 91]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2022.02.07-09.38.59:145][ 91]LogSavePackage: Moving 'D:/GAME PROJECTS/Pearl of the Orient/Pearl of the Orient/Unreal_Pearl-of-the-Orient/PoTO/Saved/TestMap3203D2044D501214A37D2FAD8EA75A4C.tmp' to 'D:/GAME PROJECTS/Pearl of the Orient/Pearl of the Orient/Unreal_Pearl-of-the-Orient/PoTO/Content/Maps/TestMap.umap'
+[2022.02.07-09.38.59:171][ 91]AssetCheck: New page: Asset Save: TestMap
+[2022.02.07-09.38.59:171][ 91]LogContentValidation: Display: Validating World /Game/Maps/TestMap.TestMap
+[2022.02.07-09.39.39:343][822]LogContentBrowser: Attempting asset rename: BPInterface_CharacterActions -> BPInterface_CharacterAnims
+[2022.02.07-09.39.39:366][822]LogMetaData: Removing '/Game/Blueprints/BPInterface_CharacterAnims.BPInterface_CharacterAnims_C' ref from Metadata '/Game/Blueprints/BPInterface_CharacterActions.PackageMetaData'
+[2022.02.07-09.39.39:366][822]LogMetaData: Removing '/Game/Blueprints/BPInterface_CharacterAnims.SKEL_BPInterface_CharacterAnims_C' ref from Metadata '/Game/Blueprints/BPInterface_CharacterActions.PackageMetaData'
+[2022.02.07-09.39.39:366][822]LogMetaData: Removing '/Game/Blueprints/BPInterface_CharacterAnims.BPInterface_CharacterAnims:Crouch.K2Node_FunctionEntry_0' ref from Metadata '/Game/Blueprints/BPInterface_CharacterActions.PackageMetaData'
+[2022.02.07-09.39.39:366][822]LogMetaData: Removing '/Game/Blueprints/BPInterface_CharacterAnims.SKEL_BPInterface_CharacterAnims_C:Crouch' ref from Metadata '/Game/Blueprints/BPInterface_CharacterActions.PackageMetaData'
+[2022.02.07-09.39.39:366][822]LogMetaData: Removing '/Game/Blueprints/BPInterface_CharacterAnims.BPInterface_CharacterAnims_C:Crouch' ref from Metadata '/Game/Blueprints/BPInterface_CharacterActions.PackageMetaData'
+[2022.02.07-09.39.39:388][822]LogSavePackage: Moving 'D:/GAME PROJECTS/Pearl of the Orient/Pearl of the Orient/Unreal_Pearl-of-the-Orient/PoTO/Saved/BPInterface_CharacterAnims0480E21545BA24115E0353B7288E4A5E.tmp' to 'D:/GAME PROJECTS/Pearl of the Orient/Pearl of the Orient/Unreal_Pearl-of-the-Orient/PoTO/Content/Blueprints/BPInterface_CharacterAnims.uasset'
+[2022.02.07-09.39.39:466][822]LogUObjectHash: Compacting FUObjectHashTables data took   2.09ms
+[2022.02.07-09.39.39:496][822]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2022.02.07-09.39.39:516][822]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2022.02.07-09.39.39:563][822]LogSavePackage: Moving 'D:/GAME PROJECTS/Pearl of the Orient/Pearl of the Orient/Unreal_Pearl-of-the-Orient/PoTO/Saved/BP_BaseCharacter008FBB3F4191D9A9A5C3B6983607E850.tmp' to 'D:/GAME PROJECTS/Pearl of the Orient/Pearl of the Orient/Unreal_Pearl-of-the-Orient/PoTO/Content/Blueprints/BP_BaseCharacter.uasset'
+[2022.02.07-09.39.39:591][822]LogSavePackage: Moving 'D:/GAME PROJECTS/Pearl of the Orient/Pearl of the Orient/Unreal_Pearl-of-the-Orient/PoTO/Saved/AnimBP_CharacterF5EF3A4547BAA4425950E48BF5B90D85.tmp' to 'D:/GAME PROJECTS/Pearl of the Orient/Pearl of the Orient/Unreal_Pearl-of-the-Orient/PoTO/Content/Blueprints/AnimBP_Character.uasset'
+[2022.02.07-09.39.39:665][822]AssetCheck: New page: Asset Save: multiple assets
+[2022.02.07-09.39.39:665][822]LogContentValidation: Display: Validating AnimBlueprint /Game/Blueprints/AnimBP_Character.AnimBP_Character
+[2022.02.07-09.39.39:665][822]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_BaseCharacter.BP_BaseCharacter
+[2022.02.07-09.39.39:665][822]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BPInterface_CharacterAnims.BPInterface_CharacterAnims
+[2022.02.07-09.39.41:627][  1]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2022.02.07-09.39.41:641][  1]LogSavePackage: Moving 'D:/GAME PROJECTS/Pearl of the Orient/Pearl of the Orient/Unreal_Pearl-of-the-Orient/PoTO/Saved/TestMap5E5C495B490C0B64F43E1FA2FE23C1A9.tmp' to 'D:/GAME PROJECTS/Pearl of the Orient/Pearl of the Orient/Unreal_Pearl-of-the-Orient/PoTO/Content/Maps/TestMap.umap'
+[2022.02.07-09.39.41:663][  1]AssetCheck: New page: Asset Save: TestMap
+[2022.02.07-09.39.41:663][  1]LogContentValidation: Display: Validating World /Game/Maps/TestMap.TestMap
+[2022.02.07-09.43.57:766][ 41]LogTemp: Repeating last play command: Selected Viewport
+[2022.02.07-09.43.57:772][ 41]BlueprintLog: New page: Pre-Play auto-recompile
+[2022.02.07-09.43.57:773][ 41]LogPlayLevel: [PlayLevel] Compiling BP_BaseCharacter before play...
+[2022.02.07-09.43.57:807][ 41]LogPlayLevel: [PlayLevel] Compiling AnimBP_Character before play...
+[2022.02.07-09.43.57:853][ 41]LogUObjectHash: Compacting FUObjectHashTables data took   2.17ms
+[2022.02.07-09.43.57:854][ 41]LogPlayLevel: PlayLevel: Blueprint regeneration took 82 ms (2 blueprints)
+[2022.02.07-09.43.57:854][ 41]PIE: New page: PIE session: TestMap (8 Feb 2022, 1:43:57 am)
+[2022.02.07-09.43.57:895][ 41]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_TestMap
+[2022.02.07-09.43.57:905][ 41]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010284s)
+[2022.02.07-09.43.57:907][ 41]LogAIModule: Creating AISystem for world TestMap
+[2022.02.07-09.43.57:907][ 41]LogPlayLevel: PIE: World Init took: (0.001556s)
+[2022.02.07-09.43.57:907][ 41]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TestMap.TestMap to /Game/Maps/UEDPIE_0_TestMap.TestMap (0.012026s)
+[2022.02.07-09.43.57:937][ 41]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2022.02.07-09.43.57:937][ 41]LogAudio: Display: Creating Audio Device:                 Id: 16, Scope: Unique, Realtime: True
+[2022.02.07-09.43.57:937][ 41]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.02.07-09.43.57:937][ 41]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.02.07-09.43.57:937][ 41]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.02.07-09.43.57:937][ 41]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.02.07-09.43.57:937][ 41]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.02.07-09.43.57:937][ 41]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.02.07-09.43.57:937][ 41]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.02.07-09.43.57:937][ 41]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.02.07-09.43.57:938][ 41]LogAudio: Display: Using built-in audio occlusion.
+[2022.02.07-09.43.57:938][ 41]LogAudioMixer: Display: Initializing audio mixer.
+[2022.02.07-09.43.57:940][ 41]LogAudioMixer: Display: 0: FrontLeft
+[2022.02.07-09.43.57:940][ 41]LogAudioMixer: Display: 1: FrontRight
+[2022.02.07-09.43.57:951][ 41]LogAudioMixer: Display: Using Audio Device Speakers (2- Redragon Gaming Headset)
+[2022.02.07-09.43.57:951][ 41]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.02.07-09.43.57:951][ 41]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.02.07-09.43.57:951][ 41]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.02.07-09.43.57:952][ 41]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.02.07-09.43.57:952][ 41]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.02.07-09.43.57:952][ 41]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.02.07-09.43.57:952][ 41]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.02.07-09.43.57:952][ 41]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.02.07-09.43.57:952][ 41]LogInit: FAudioDevice initialized.
+[2022.02.07-09.43.57:952][ 41]LogAudio: Display: Audio Device (ID: 16) registered with world 'TestMap'.
+[2022.02.07-09.43.57:970][ 41]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2022.02.07-09.43.57:972][ 41]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TestMap.TestMap up for play (max tick rate 0) at 2022.02.07-17.43.57
+[2022.02.07-09.43.57:972][ 41]LogWorld: Bringing up level for play took: 0.000729
+[2022.02.07-09.43.57:972][ 41]LogOnline: OSS: Creating online subsystem instance for: :Context_41
+[2022.02.07-09.43.57:975][ 41]PIE: Server logged in
+[2022.02.07-09.43.57:975][ 41]PIE: Play in editor total start time 0.205 seconds.
+[2022.02.07-09.44.02:855][563]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.07-09.44.02:855][563]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_TestMap
+[2022.02.07-09.44.02:855][563]LogWorld: UWorld::CleanupWorld for TestMap, bSessionEnded=true, bCleanupResources=true
+[2022.02.07-09.44.02:856][563]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.07-09.44.02:862][563]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.02.07-09.44.02:865][563]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.07-09.44.02:885][563]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.07-09.44.02:886][563]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.02.07-09.44.02:887][563]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.02.07-09.44.02:905][563]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2022.02.07-09.44.02:924][564]LogPlayLevel: Display: Destroying online subsystem :Context_41
+[2022.02.07-09.45.31:263][176]LogTemp: Repeating last play command: Selected Viewport
+[2022.02.07-09.45.31:278][176]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.02.07-09.45.31:278][176]PIE: New page: PIE session: TestMap (8 Feb 2022, 1:45:31 am)
+[2022.02.07-09.45.31:278][176]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_TestMap
+[2022.02.07-09.45.31:288][176]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010499s)
+[2022.02.07-09.45.31:290][176]LogAIModule: Creating AISystem for world TestMap
+[2022.02.07-09.45.31:290][176]LogPlayLevel: PIE: World Init took: (0.001478s)
+[2022.02.07-09.45.31:290][176]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TestMap.TestMap to /Game/Maps/UEDPIE_0_TestMap.TestMap (0.012130s)
+[2022.02.07-09.45.31:321][176]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2022.02.07-09.45.31:323][176]LogAudio: Display: Creating Audio Device:                 Id: 17, Scope: Unique, Realtime: True
+[2022.02.07-09.45.31:323][176]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.02.07-09.45.31:323][176]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.02.07-09.45.31:323][176]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.02.07-09.45.31:323][176]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.02.07-09.45.31:323][176]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.02.07-09.45.31:323][176]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.02.07-09.45.31:323][176]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.02.07-09.45.31:323][176]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.02.07-09.45.31:323][176]LogAudio: Display: Using built-in audio occlusion.
+[2022.02.07-09.45.31:323][176]LogAudioMixer: Display: Initializing audio mixer.
+[2022.02.07-09.45.31:326][176]LogAudioMixer: Display: 0: FrontLeft
+[2022.02.07-09.45.31:326][176]LogAudioMixer: Display: 1: FrontRight
+[2022.02.07-09.45.31:338][176]LogAudioMixer: Display: Using Audio Device Speakers (2- Redragon Gaming Headset)
+[2022.02.07-09.45.31:338][176]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.02.07-09.45.31:338][176]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.02.07-09.45.31:338][176]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.02.07-09.45.31:338][176]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.02.07-09.45.31:339][176]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.02.07-09.45.31:339][176]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.02.07-09.45.31:352][176]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.02.07-09.45.31:353][176]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.02.07-09.45.31:353][176]LogInit: FAudioDevice initialized.
+[2022.02.07-09.45.31:353][176]LogAudio: Display: Audio Device (ID: 17) registered with world 'TestMap'.
+[2022.02.07-09.45.31:363][176]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2022.02.07-09.45.31:366][176]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TestMap.TestMap up for play (max tick rate 0) at 2022.02.07-17.45.31
+[2022.02.07-09.45.31:372][176]LogWorld: Bringing up level for play took: 0.007785
+[2022.02.07-09.45.31:372][176]LogOnline: OSS: Creating online subsystem instance for: :Context_42
+[2022.02.07-09.45.31:375][176]PIE: Server logged in
+[2022.02.07-09.45.31:376][176]PIE: Play in editor total start time 0.107 seconds.
+[2022.02.07-09.45.48:978][104]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.07-09.45.48:978][104]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_TestMap
+[2022.02.07-09.45.48:978][104]LogWorld: UWorld::CleanupWorld for TestMap, bSessionEnded=true, bCleanupResources=true
+[2022.02.07-09.45.48:978][104]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.07-09.45.48:990][104]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.02.07-09.45.49:025][104]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.07-09.45.49:045][104]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.02.07-09.45.49:045][104]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.02.07-09.45.49:046][104]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.02.07-09.45.49:062][104]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.07-09.45.49:064][104]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2022.02.07-09.45.49:087][105]LogPlayLevel: Display: Destroying online subsystem :Context_42
+[2022.02.07-09.45.58:248][991]Cmd: DELETE
+[2022.02.07-09.45.58:248][991]Cmd: ACTOR DELETE
+[2022.02.07-09.45.58:385][991]LogEditorActor: Deleted Actor: BP_BaseCharacter_C
+[2022.02.07-09.45.58:414][991]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2022.02.07-09.45.58:416][991]LogEditorActor: Deleted 1 Actors (0.053 secs)
+[2022.02.07-09.45.59:406][ 91]LogTemp: Repeating last play command: Selected Viewport
+[2022.02.07-09.45.59:413][ 91]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.02.07-09.45.59:413][ 91]PIE: New page: PIE session: TestMap (8 Feb 2022, 1:45:59 am)
+[2022.02.07-09.45.59:444][ 91]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_TestMap
+[2022.02.07-09.45.59:452][ 91]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007786s)
+[2022.02.07-09.45.59:454][ 91]LogAIModule: Creating AISystem for world TestMap
+[2022.02.07-09.45.59:454][ 91]LogPlayLevel: PIE: World Init took: (0.002167s)
+[2022.02.07-09.45.59:455][ 91]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TestMap.TestMap to /Game/Maps/UEDPIE_0_TestMap.TestMap (0.010163s)
+[2022.02.07-09.45.59:483][ 91]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2022.02.07-09.45.59:484][ 91]LogAudio: Display: Creating Audio Device:                 Id: 18, Scope: Unique, Realtime: True
+[2022.02.07-09.45.59:484][ 91]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.02.07-09.45.59:484][ 91]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.02.07-09.45.59:484][ 91]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.02.07-09.45.59:484][ 91]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.02.07-09.45.59:484][ 91]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.02.07-09.45.59:484][ 91]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.02.07-09.45.59:484][ 91]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.02.07-09.45.59:484][ 91]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.02.07-09.45.59:484][ 91]LogAudio: Display: Using built-in audio occlusion.
+[2022.02.07-09.45.59:484][ 91]LogAudioMixer: Display: Initializing audio mixer.
+[2022.02.07-09.45.59:486][ 91]LogAudioMixer: Display: 0: FrontLeft
+[2022.02.07-09.45.59:486][ 91]LogAudioMixer: Display: 1: FrontRight
+[2022.02.07-09.45.59:496][ 91]LogAudioMixer: Display: Using Audio Device Speakers (2- Redragon Gaming Headset)
+[2022.02.07-09.45.59:496][ 91]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.02.07-09.45.59:496][ 91]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.02.07-09.45.59:496][ 91]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.02.07-09.45.59:497][ 91]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.02.07-09.45.59:497][ 91]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.02.07-09.45.59:497][ 91]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.02.07-09.45.59:511][ 91]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.02.07-09.45.59:511][ 91]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.02.07-09.45.59:511][ 91]LogInit: FAudioDevice initialized.
+[2022.02.07-09.45.59:511][ 91]LogAudio: Display: Audio Device (ID: 18) registered with world 'TestMap'.
+[2022.02.07-09.45.59:517][ 91]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2022.02.07-09.45.59:518][ 91]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TestMap.TestMap up for play (max tick rate 0) at 2022.02.07-17.45.59
+[2022.02.07-09.45.59:518][ 91]LogWorld: Bringing up level for play took: 0.000858
+[2022.02.07-09.45.59:519][ 91]LogOnline: OSS: Creating online subsystem instance for: :Context_43
+[2022.02.07-09.45.59:522][ 91]PIE: Server logged in
+[2022.02.07-09.45.59:522][ 91]PIE: Play in editor total start time 0.112 seconds.
+[2022.02.07-09.46.35:886][991]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.07-09.46.35:886][991]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_TestMap
+[2022.02.07-09.46.35:886][991]LogWorld: UWorld::CleanupWorld for TestMap, bSessionEnded=true, bCleanupResources=true
+[2022.02.07-09.46.35:886][991]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.07-09.46.35:898][991]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.02.07-09.46.35:902][991]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.07-09.46.35:922][991]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.07-09.46.35:922][991]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.02.07-09.46.35:923][991]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.02.07-09.46.35:941][991]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2022.02.07-09.46.35:961][992]LogPlayLevel: Display: Destroying online subsystem :Context_43
+[2022.02.07-09.47.47:509][643]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2022.02.07-09.47.47:522][643]LogSavePackage: Moving 'D:/GAME PROJECTS/Pearl of the Orient/Pearl of the Orient/Unreal_Pearl-of-the-Orient/PoTO/Saved/TestMap26660E6F4AB1E9CE3CA04A9D3D1219CF.tmp' to 'D:/GAME PROJECTS/Pearl of the Orient/Pearl of the Orient/Unreal_Pearl-of-the-Orient/PoTO/Content/Maps/TestMap.umap'
+[2022.02.07-09.47.47:543][643]AssetCheck: New page: Asset Save: TestMap
+[2022.02.07-09.47.47:543][643]LogContentValidation: Display: Validating World /Game/Maps/TestMap.TestMap
+[2022.02.07-09.47.48:562][748]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2022.02.07-09.47.48:574][748]LogSavePackage: Moving 'D:/GAME PROJECTS/Pearl of the Orient/Pearl of the Orient/Unreal_Pearl-of-the-Orient/PoTO/Saved/TestMap817704EA49A0C80D76157D87DD9DCBB5.tmp' to 'D:/GAME PROJECTS/Pearl of the Orient/Pearl of the Orient/Unreal_Pearl-of-the-Orient/PoTO/Content/Maps/TestMap.umap'
+[2022.02.07-09.47.48:592][748]AssetCheck: New page: Asset Save: TestMap
+[2022.02.07-09.47.48:592][748]LogContentValidation: Display: Validating World /Game/Maps/TestMap.TestMap
+[2022.02.07-09.47.48:803][768]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2022.02.07-09.47.48:816][768]LogSavePackage: Moving 'D:/GAME PROJECTS/Pearl of the Orient/Pearl of the Orient/Unreal_Pearl-of-the-Orient/PoTO/Saved/TestMap409683A54FAC0475EBA8F3AC6DEC6152.tmp' to 'D:/GAME PROJECTS/Pearl of the Orient/Pearl of the Orient/Unreal_Pearl-of-the-Orient/PoTO/Content/Maps/TestMap.umap'
+[2022.02.07-09.47.48:836][768]AssetCheck: New page: Asset Save: TestMap
+[2022.02.07-09.47.48:837][768]LogContentValidation: Display: Validating World /Game/Maps/TestMap.TestMap

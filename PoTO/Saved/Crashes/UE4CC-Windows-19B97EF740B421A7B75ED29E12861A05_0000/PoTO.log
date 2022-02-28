@@ -1,0 +1,1472 @@
+﻿Log file open, 02/28/22 12:37:20
+LogInit: LLM is enabled
+LogInit: LLM CsvWriter: off TraceWriter: off
+LogInit: Display: Running engine for game: PoTO
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 8.181827
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +8:00, Platform Override: ''
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin SteamVR
+LogXGEController: Cleaning working directory: C:/Users/Asus/AppData/Local/Temp/UnrealXGEWorkingDir/
+LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.26-CL-15973114
+LogInit: Engine Version: 4.26.2-15973114+++UE4+Release-4.26
+LogInit: Compatible Engine Version: 4.26.0-14830424+++UE4+Release-4.26
+LogInit: Net CL: 14830424
+LogInit: OS: Windows 10 (Release 2009) (), CPU: AMD Ryzen 7 3750H with Radeon Vega Mobile Gfx  , GPU: AMD Radeon(TM) RX Vega 10 Graphics
+LogInit: Compiled (64-bit): Apr 12 2021 06:14:10
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.26
+LogInit: Command Line: 
+LogInit: Base Directory: D:/MyFiles/Softwares/Games/Epic Games/UE_4.26/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 4
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 44
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 12
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 43
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 40
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/MyFiles/School/Repositories/Unreal_Pearl-of-the-Orient/PoTO/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2022.02.28-04.37.29:585][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2022.02.28-04.37.29:585][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2022.02.28-04.37.29:586][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/MyFiles/School/Repositories/Unreal_Pearl-of-the-Orient/PoTO/Saved/Config/Windows/Engine.ini]
+[2022.02.28-04.37.29:586][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2022.02.28-04.37.29:586][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [D:/MyFiles/School/Repositories/Unreal_Pearl-of-the-Orient/PoTO/Saved/Config/Windows/Engine.ini]
+[2022.02.28-04.37.29:586][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/MyFiles/School/Repositories/Unreal_Pearl-of-the-Orient/PoTO/Saved/Config/Windows/Engine.ini]
+[2022.02.28-04.37.29:586][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2022.02.28-04.37.29:586][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2022.02.28-04.37.29:586][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2022.02.28-04.37.29:586][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2022.02.28-04.37.29:586][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2022.02.28-04.37.29:586][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2022.02.28-04.37.29:586][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2022.02.28-04.37.29:586][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2022.02.28-04.37.29:586][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2022.02.28-04.37.29:586][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2022.02.28-04.37.29:586][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2022.02.28-04.37.29:586][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2022.02.28-04.37.29:586][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2022.02.28-04.37.29:586][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2022.02.28-04.37.29:586][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [D:/MyFiles/School/Repositories/Unreal_Pearl-of-the-Orient/PoTO/Saved/Config/Windows/Engine.ini]
+[2022.02.28-04.37.29:586][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2022.02.28-04.37.29:586][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2022.02.28-04.37.29:586][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2022.02.28-04.37.29:586][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2022.02.28-04.37.29:586][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2022.02.28-04.37.29:586][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2022.02.28-04.37.29:587][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2022.02.28-04.37.29:587][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2022.02.28-04.37.29:587][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2022.02.28-04.37.29:587][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2022.02.28-04.37.29:587][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2022.02.28-04.37.29:587][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2022.02.28-04.37.29:587][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2022.02.28-04.37.29:587][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2022.02.28-04.37.29:587][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [D:/MyFiles/School/Repositories/Unreal_Pearl-of-the-Orient/PoTO/Saved/Config/Windows/Engine.ini]
+[2022.02.28-04.37.29:587][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [D:/MyFiles/School/Repositories/Unreal_Pearl-of-the-Orient/PoTO/Saved/Config/Windows/Engine.ini]
+[2022.02.28-04.37.29:672][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/MyFiles/School/Repositories/Unreal_Pearl-of-the-Orient/PoTO/Saved/Config/Windows/Scalability.ini]
+[2022.02.28-04.37.29:672][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2022.02.28-04.37.29:672][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2022.02.28-04.37.29:672][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/MyFiles/School/Repositories/Unreal_Pearl-of-the-Orient/PoTO/Saved/Config/Windows/Scalability.ini]
+[2022.02.28-04.37.29:672][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2022.02.28-04.37.29:672][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/MyFiles/School/Repositories/Unreal_Pearl-of-the-Orient/PoTO/Saved/Config/Windows/Scalability.ini]
+[2022.02.28-04.37.29:673][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2022.02.28-04.37.29:673][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2022.02.28-04.37.29:673][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2022.02.28-04.37.29:673][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2022.02.28-04.37.29:673][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2022.02.28-04.37.29:673][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2022.02.28-04.37.29:673][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2022.02.28-04.37.29:673][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2022.02.28-04.37.29:673][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2022.02.28-04.37.29:673][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2022.02.28-04.37.29:673][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2022.02.28-04.37.29:673][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2022.02.28-04.37.29:673][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2022.02.28-04.37.29:673][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2022.02.28-04.37.29:673][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2022.02.28-04.37.29:673][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2022.02.28-04.37.29:673][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2022.02.28-04.37.29:673][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2022.02.28-04.37.29:673][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/MyFiles/School/Repositories/Unreal_Pearl-of-the-Orient/PoTO/Saved/Config/Windows/Scalability.ini]
+[2022.02.28-04.37.29:673][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2022.02.28-04.37.29:673][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2022.02.28-04.37.29:673][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2022.02.28-04.37.29:673][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2022.02.28-04.37.29:673][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2022.02.28-04.37.29:673][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2022.02.28-04.37.29:673][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2022.02.28-04.37.29:673][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2022.02.28-04.37.29:673][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2022.02.28-04.37.29:673][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2022.02.28-04.37.29:673][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2022.02.28-04.37.29:673][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2022.02.28-04.37.29:673][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2022.02.28-04.37.29:673][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2022.02.28-04.37.29:673][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2022.02.28-04.37.29:674][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2022.02.28-04.37.29:674][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2022.02.28-04.37.29:674][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2022.02.28-04.37.29:674][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2022.02.28-04.37.29:674][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2022.02.28-04.37.29:674][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2022.02.28-04.37.29:674][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2022.02.28-04.37.29:674][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2022.02.28-04.37.29:674][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2022.02.28-04.37.29:674][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2022.02.28-04.37.29:674][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2022.02.28-04.37.29:674][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2022.02.28-04.37.29:674][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2022.02.28-04.37.29:674][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2022.02.28-04.37.29:674][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2022.02.28-04.37.29:674][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/MyFiles/School/Repositories/Unreal_Pearl-of-the-Orient/PoTO/Saved/Config/Windows/Scalability.ini]
+[2022.02.28-04.37.29:674][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2022.02.28-04.37.29:674][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2022.02.28-04.37.29:674][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2022.02.28-04.37.29:674][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2022.02.28-04.37.29:674][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2022.02.28-04.37.29:674][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2022.02.28-04.37.29:674][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2022.02.28-04.37.29:674][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2022.02.28-04.37.29:674][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2022.02.28-04.37.29:674][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/MyFiles/School/Repositories/Unreal_Pearl-of-the-Orient/PoTO/Saved/Config/Windows/Scalability.ini]
+[2022.02.28-04.37.29:674][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2022.02.28-04.37.29:674][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2022.02.28-04.37.29:674][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2022.02.28-04.37.29:674][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2022.02.28-04.37.29:674][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2022.02.28-04.37.29:674][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2022.02.28-04.37.29:674][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2022.02.28-04.37.29:674][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2022.02.28-04.37.29:674][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2022.02.28-04.37.29:674][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2022.02.28-04.37.29:674][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2022.02.28-04.37.29:674][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2022.02.28-04.37.29:675][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2022.02.28-04.37.29:675][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2022.02.28-04.37.29:675][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2022.02.28-04.37.29:675][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2022.02.28-04.37.29:675][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2022.02.28-04.37.29:675][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2022.02.28-04.37.29:675][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2022.02.28-04.37.29:675][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2022.02.28-04.37.29:675][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2022.02.28-04.37.29:675][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2022.02.28-04.37.29:675][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2022.02.28-04.37.29:675][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2022.02.28-04.37.29:675][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2022.02.28-04.37.29:675][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2022.02.28-04.37.29:675][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2022.02.28-04.37.29:675][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/MyFiles/School/Repositories/Unreal_Pearl-of-the-Orient/PoTO/Saved/Config/Windows/Scalability.ini]
+[2022.02.28-04.37.29:675][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2022.02.28-04.37.29:675][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2022.02.28-04.37.29:675][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/MyFiles/School/Repositories/Unreal_Pearl-of-the-Orient/PoTO/Saved/Config/Windows/Scalability.ini]
+[2022.02.28-04.37.29:675][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2022.02.28-04.37.29:675][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2022.02.28-04.37.29:675][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2022.02.28-04.37.29:686][  0]LogInit: Selected Device Profile: [Windows]
+[2022.02.28-04.37.29:692][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2022.02.28-04.37.29:708][  0]LogHAL: Display: Platform has ~ 16 GB [16575537152 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2022.02.28-04.37.29:708][  0]LogInit: Going up to parent DeviceProfile []
+[2022.02.28-04.37.29:716][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/MyFiles/School/Repositories/Unreal_Pearl-of-the-Orient/PoTO/Saved/Config/Windows/Scalability.ini]
+[2022.02.28-04.37.29:716][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2022.02.28-04.37.29:716][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2022.02.28-04.37.29:716][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/MyFiles/School/Repositories/Unreal_Pearl-of-the-Orient/PoTO/Saved/Config/Windows/Scalability.ini]
+[2022.02.28-04.37.29:716][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2022.02.28-04.37.29:716][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/MyFiles/School/Repositories/Unreal_Pearl-of-the-Orient/PoTO/Saved/Config/Windows/Scalability.ini]
+[2022.02.28-04.37.29:717][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2022.02.28-04.37.29:717][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2022.02.28-04.37.29:717][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2022.02.28-04.37.29:717][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2022.02.28-04.37.29:717][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2022.02.28-04.37.29:717][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2022.02.28-04.37.29:717][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2022.02.28-04.37.29:717][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2022.02.28-04.37.29:717][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2022.02.28-04.37.29:717][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2022.02.28-04.37.29:717][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2022.02.28-04.37.29:717][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2022.02.28-04.37.29:717][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2022.02.28-04.37.29:717][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2022.02.28-04.37.29:717][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2022.02.28-04.37.29:717][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2022.02.28-04.37.29:717][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2022.02.28-04.37.29:717][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2022.02.28-04.37.29:717][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/MyFiles/School/Repositories/Unreal_Pearl-of-the-Orient/PoTO/Saved/Config/Windows/Scalability.ini]
+[2022.02.28-04.37.29:717][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2022.02.28-04.37.29:717][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2022.02.28-04.37.29:717][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2022.02.28-04.37.29:717][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2022.02.28-04.37.29:717][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2022.02.28-04.37.29:717][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2022.02.28-04.37.29:717][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2022.02.28-04.37.29:717][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2022.02.28-04.37.29:717][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2022.02.28-04.37.29:717][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2022.02.28-04.37.29:717][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2022.02.28-04.37.29:717][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2022.02.28-04.37.29:717][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2022.02.28-04.37.29:717][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2022.02.28-04.37.29:717][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2022.02.28-04.37.29:717][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2022.02.28-04.37.29:717][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2022.02.28-04.37.29:717][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2022.02.28-04.37.29:717][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2022.02.28-04.37.29:717][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2022.02.28-04.37.29:718][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2022.02.28-04.37.29:718][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2022.02.28-04.37.29:718][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2022.02.28-04.37.29:718][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2022.02.28-04.37.29:718][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2022.02.28-04.37.29:718][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2022.02.28-04.37.29:718][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2022.02.28-04.37.29:718][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2022.02.28-04.37.29:718][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2022.02.28-04.37.29:718][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2022.02.28-04.37.29:718][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/MyFiles/School/Repositories/Unreal_Pearl-of-the-Orient/PoTO/Saved/Config/Windows/Scalability.ini]
+[2022.02.28-04.37.29:718][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2022.02.28-04.37.29:718][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2022.02.28-04.37.29:718][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2022.02.28-04.37.29:718][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2022.02.28-04.37.29:718][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2022.02.28-04.37.29:718][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2022.02.28-04.37.29:718][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2022.02.28-04.37.29:718][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2022.02.28-04.37.29:718][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2022.02.28-04.37.29:718][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/MyFiles/School/Repositories/Unreal_Pearl-of-the-Orient/PoTO/Saved/Config/Windows/Scalability.ini]
+[2022.02.28-04.37.29:718][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2022.02.28-04.37.29:718][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2022.02.28-04.37.29:718][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2022.02.28-04.37.29:718][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2022.02.28-04.37.29:718][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2022.02.28-04.37.29:718][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2022.02.28-04.37.29:718][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2022.02.28-04.37.29:718][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2022.02.28-04.37.29:718][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2022.02.28-04.37.29:718][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2022.02.28-04.37.29:718][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2022.02.28-04.37.29:718][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2022.02.28-04.37.29:718][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2022.02.28-04.37.29:718][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2022.02.28-04.37.29:718][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2022.02.28-04.37.29:719][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2022.02.28-04.37.29:719][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2022.02.28-04.37.29:719][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2022.02.28-04.37.29:719][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2022.02.28-04.37.29:719][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2022.02.28-04.37.29:719][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2022.02.28-04.37.29:719][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2022.02.28-04.37.29:719][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2022.02.28-04.37.29:719][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2022.02.28-04.37.29:719][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2022.02.28-04.37.29:719][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2022.02.28-04.37.29:719][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2022.02.28-04.37.29:719][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/MyFiles/School/Repositories/Unreal_Pearl-of-the-Orient/PoTO/Saved/Config/Windows/Scalability.ini]
+[2022.02.28-04.37.29:719][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2022.02.28-04.37.29:719][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2022.02.28-04.37.29:719][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/MyFiles/School/Repositories/Unreal_Pearl-of-the-Orient/PoTO/Saved/Config/Windows/Scalability.ini]
+[2022.02.28-04.37.29:719][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2022.02.28-04.37.29:719][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2022.02.28-04.37.29:719][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2022.02.28-04.37.29:719][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2022.02.28-04.37.29:755][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2022.02.28-04.37.29:755][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2022.02.28-04.37.29:755][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2022.02.28-04.37.29:755][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/MyFiles/School/Repositories/Unreal_Pearl-of-the-Orient/PoTO/Saved/Config/Windows/Engine.ini]
+[2022.02.28-04.37.29:755][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/MyFiles/School/Repositories/Unreal_Pearl-of-the-Orient/PoTO/Saved/Config/Windows/Editor.ini]
+[2022.02.28-04.37.29:779][  0]LogInit: Computer: KYRILIOS
+[2022.02.28-04.37.29:779][  0]LogInit: User: Asus
+[2022.02.28-04.37.29:779][  0]LogInit: CPU Page size=4096, Cores=4
+[2022.02.28-04.37.29:779][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2022.02.28-04.37.29:780][  0]LogMemory: Memory total: Physical=15.4GB (16GB approx)
+[2022.02.28-04.37.29:780][  0]LogMemory: Platform Memory Stats for Windows
+[2022.02.28-04.37.29:780][  0]LogMemory: Process Physical Memory: 136.22 MB used, 136.22 MB peak
+[2022.02.28-04.37.29:780][  0]LogMemory: Process Virtual Memory: 118.64 MB used, 118.64 MB peak
+[2022.02.28-04.37.29:780][  0]LogMemory: Physical Memory: 5722.33 MB used,  10085.33 MB free, 15807.66 MB total
+[2022.02.28-04.37.29:780][  0]LogMemory: Virtual Memory: 134206936.00 MB used,  10789.95 MB free, 134217728.00 MB total
+[2022.02.28-04.37.29:827][  0]LogWindows: WindowsPlatformFeatures enabled
+[2022.02.28-04.37.31:009][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2022.02.28-04.37.31:032][  0]LogInit: Using OS detected language (en-US).
+[2022.02.28-04.37.31:032][  0]LogInit: Using OS detected locale (en-PH).
+[2022.02.28-04.37.31:359][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2022.02.28-04.37.32:523][  0]LogInit: Setting process to per monitor DPI aware
+[2022.02.28-04.37.32:870][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.02.28-04.37.33:520][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2022.02.28-04.37.33:520][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2022.02.28-04.37.39:835][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2022.02.28-04.37.39:835][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2022.02.28-04.37.39:835][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2022.02.28-04.37.39:835][  0]LogD3D11RHI: D3D11 adapters:
+[2022.02.28-04.37.40:103][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1660 Ti' (Feature Level 11_0)
+[2022.02.28-04.37.40:103][  0]LogD3D11RHI:       5991/0/7903 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2022.02.28-04.37.40:167][  0]LogD3D11RHI:    1. 'AMD Radeon(TM) RX Vega 10 Graphics' (Feature Level 11_0)
+[2022.02.28-04.37.40:167][  0]LogD3D11RHI:       498/0/7903 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1002
+[2022.02.28-04.37.40:170][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2022.02.28-04.37.40:170][  0]LogD3D11RHI:       0/0/7903 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2022.02.28-04.37.40:170][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2022.02.28-04.37.40:182][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2022.02.28-04.37.40:182][  0]LogD3D11RHI:     GPU DeviceId: 0x2191 (for the marketing name, search the web for "GPU Device Id")
+[2022.02.28-04.37.40:182][  0]LogWindows: EnumDisplayDevices:
+[2022.02.28-04.37.40:183][  0]LogWindows:    0. 'AMD Radeon(TM) RX Vega 10 Graphics' (P:1 D:1)
+[2022.02.28-04.37.40:183][  0]LogWindows:    1. 'AMD Radeon(TM) RX Vega 10 Graphics' (P:0 D:0)
+[2022.02.28-04.37.40:183][  0]LogWindows:    2. 'AMD Radeon(TM) RX Vega 10 Graphics' (P:0 D:0)
+[2022.02.28-04.37.40:183][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1660 Ti' (P:0 D:0)
+[2022.02.28-04.37.40:184][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter 
+[2022.02.28-04.37.40:184][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1660 Ti
+[2022.02.28-04.37.40:184][  0]LogD3D11RHI:   Driver Version: 497.29 (internal:30.0.14.9729, unified:497.29)
+[2022.02.28-04.37.40:184][  0]LogD3D11RHI:      Driver Date: 12-15-2021
+[2022.02.28-04.37.40:184][  0]LogRHI: Texture pool is 4193 MB (70% of 5991 MB)
+[2022.02.28-04.37.40:312][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2022.02.28-04.37.40:312][  0]LogD3D11RHI: Async texture creation enabled
+[2022.02.28-04.37.40:312][  0]LogD3D11RHI: Array index from any shader is supported
+[2022.02.28-04.37.40:815][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2022.02.28-04.37.40:828][  0]LogRHI: GeForceNow SDK initialized: 1
+[2022.02.28-04.37.42:129][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2022.02.28-04.37.42:214][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2022.02.28-04.37.42:214][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2022.02.28-04.37.42:214][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2022.02.28-04.37.42:214][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2022.02.28-04.37.42:214][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2022.02.28-04.37.42:214][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2022.02.28-04.37.42:214][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2022.02.28-04.37.42:214][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2022.02.28-04.37.42:214][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2022.02.28-04.37.42:214][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2022.02.28-04.37.42:431][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2022.02.28-04.37.42:432][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2022.02.28-04.37.42:571][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2022.02.28-04.37.42:646][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2022.02.28-04.37.42:709][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2022.02.28-04.37.42:789][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2022.02.28-04.37.42:853][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2022.02.28-04.37.42:923][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2022.02.28-04.37.42:969][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2022.02.28-04.37.43:080][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2022.02.28-04.37.43:080][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2022.02.28-04.37.43:145][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2022.02.28-04.37.43:263][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2022.02.28-04.37.43:311][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2022.02.28-04.37.43:369][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2022.02.28-04.37.43:418][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2022.02.28-04.37.43:418][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2022.02.28-04.37.43:477][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2022.02.28-04.37.43:526][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2022.02.28-04.37.43:572][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2022.02.28-04.37.43:632][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2022.02.28-04.37.43:632][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2022.02.28-04.37.43:956][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2022.02.28-04.37.45:694][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2022.02.28-04.37.45:726][  0]LogShaderCompilers: Guid format shader working directory is -28 characters bigger than the processId version (../../../../../../../School/Repositories/Unreal_Pearl-of-the-Orient/PoTO/Intermediate/Shaders/WorkingDirectory/10664/).
+[2022.02.28-04.37.45:727][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Asus/AppData/Local/Temp/UnrealShaderWorkingDir/1C65A2384B933FB35AD72DAC40504DB2/'.
+[2022.02.28-04.37.45:739][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2022.02.28-04.37.45:739][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2022.02.28-04.37.53:962][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2022.02.28-04.37.54:188][  0]LogDerivedDataCache: Loaded boot cache 0.22s 77MB C:/Users/Asus/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2022.02.28-04.37.54:188][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Asus/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc
+[2022.02.28-04.37.54:189][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../../School/Repositories/Unreal_Pearl-of-the-Orient/PoTO/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2022.02.28-04.37.54:189][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2022.02.28-04.37.54:189][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../../School/Repositories/Unreal_Pearl-of-the-Orient/PoTO/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.02.28-04.37.54:189][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2022.02.28-04.37.54:337][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2022.02.28-04.37.54:337][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.02.28-04.37.54:337][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2022.02.28-04.37.54:488][  0]LogDerivedDataCache: Speed tests for C:/Users/Asus/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.15 seconds
+[2022.02.28-04.37.54:488][  0]LogDerivedDataCache: Display: Performance to C:/Users/Asus/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.33ms. RandomReadSpeed=7.41MBs, RandomWriteSpeed=43.31MBs. Assigned SpeedClass 'Local'
+[2022.02.28-04.37.54:489][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Asus/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2022.02.28-04.37.54:490][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2022.02.28-04.37.54:490][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2022.02.28-04.37.54:707][  0]LogSlate: Using FreeType 2.10.0
+[2022.02.28-04.37.54:852][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2022.02.28-04.37.56:263][  0]LogAssetRegistry: FAssetRegistry took 0.0534 seconds to start up
+[2022.02.28-04.38.00:225][  0]LogInit: Selected Device Profile: [Windows]
+[2022.02.28-04.38.00:225][  0]LogInit: Active device profile: [0000018AD84C9B00][0000018AD6D703C0 49] Windows
+[2022.02.28-04.38.00:225][  0]LogInit: Profiles: [0000018AD84C9B00][0000018AD6D703C0 49] Windows, [0000018AD847E200][0000018AD6D78540 49] WindowsNoEditor, [0000018AD84C9D00][0000018AD6D7C6C0 49] WindowsServer, [0000018AD847CC00][0000018AD6D80840 49] WindowsClient, [0000018AD84C8E00][0000018AD6D849C0 49] IOS, [0000018AD847F300][0000018AD6D88B40 49] iPadAir, [0000018AD84CB000][0000018AD6D8CCC0 49] iPadAir2, [0000018AD8436B00][0000018AD6D94F80 49] IPadPro, [0000018AD8436C00][0000018AD6D90FC0 49] iPadAir3, [0000018AD84C9200][0000018AD6D99140 49] iPadAir4, [0000018AD8436800][0000018AD6D9D2C0 49] iPadMini2, [0000018AD84CB100][0000018AD6DA1440 49] iPadMini3, [0000018AD8435800][0000018AD6DA55C0 49] iPadMini4, [0000018AD84CAA00][0000018AD6D75700 49] iPadMini5, [0000018AD8456400][0000018AD6DAD940 49] iPhone6, [0000018AD8456500][0000018AD6DA9980 49] iPodTouch6, [0000018AD847C200][0000018AD7F9DC00 49] iPhone7, [0000018AD847C500][0000018AD7F95C40 49] iPodTouch7, [0000018AD8457C00][0000018AD7FA0100 49] iPhone5S, [0000018AD847FB00][0000018AD7FA4280 49] iPhone6Plus, [0000018AD8455600][0000018AD7FA8400 49] iPhone6S, [0000018AD847DE00][0000018AD7FAC580 49] iPhone6SPlus, [0000018AD8454700][0000018AD7FB0700 49] iPhone7Plus, [0000018AD847D100][0000018AD7FB4880 49] iPhoneSE, [0000018AD8457400][0000018AD7FB8A00 49] iPhone8, [0000018AD847FC00][0000018AD7FBCB80 49] iPhone8Plus, [0000018AD8454200][0000018AD7FC0D00 49] iPhoneX, [0000018AD847E800][0000018AD7FC4E80 49] iPhoneXS, [0000018AD8456F00][0000018AD7FC9000 49] iPhoneXSMax, [0000018AD847E300][0000018AD7FCD180 49] iPhoneXR, [0000018AD8454D00][0000018AD7FD1300 49] iPhone11, [0000018AD847E500][0000018AD7FD5480 49] iPhone11Pro, [0000018AD8457200][0000018AD7FD9600 49] iPhone11ProMax, [0000018AD847F600][0000018AD7F99740 49] iPhoneSE2, [0000018AD8456D00][0000018AD7FDD880 49] iPhone12Mini, [0000018AD847C100][0000018AD7FE19C0 49] iPhone12, [0000018AD847CA00][0000018AD7FE5B00 49] iPhone12Pro, [0000018AD84CB500][0000018AD7FEDC80 49] iPhone12ProMax, [0000018AD84CA400][0000018AD7FF0140 49] iPadPro105, [0000018AD8455200][0000018AD7FF42C0 49] iPadPro129, [0000018AD84CA000][0000018AD7FF8440 49] iPadPro97, [0000018AD8456100][0000018AD7FFC5C0 49] iPadPro2_129, [0000018AD84C8D00][0000018AD8000740 49] iPad5, [0000018AD8457500][0000018AD80048C0 49] iPad6, [0000018AD84CBF00][0000018AD8008A40 49] iPad7, [0000018AD8457800][0000018AD800CBC0 49] iPad8, [0000018AD847EB00][0000018AD8010D40 49] iPadPro11, [0000018AD8454400][0000018AD8014EC0 49] iPadPro2_11, [0000018AD847CF00][0000018AD8019040 49] iPadPro3_129, [0000018AD8455B00][0000018AD801D1C0 49] iPadPro4_129, [0000018AD847DD00][0000018AD8021340 49] AppleTV, [0000018AD8454600][0000018AD80254C0 49] AppleTV4K, [0000018AD847E000][0000018AD8029640 49] TVOS, [0000018AD8454900][0000018AD802D7C0 49] Mac, [0000018AD847CD00][0000018AD7FE9900 49] MacClient, [0000018AD8454100][0000018AD8031A40 49] MacNoEditor, [0000018AD847DB00][0000018AD8035B80 49] MacServer, [0000018AD8457700][0000018AD803DD00 49] Linux, [0000018AD847EF00][0000018AD80401C0 49] LinuxAArch64, [0000018AD8457100][0000018AD8044340 49] LinuxNoEditor, [0000018AD847F900][0000018AD80484C0 49] LinuxAArch64NoEditor, [0000018AD8455900][0000018AD804C640 49] LinuxClient, [0000018AD847C600][0000018AD80507C0 49] LinuxAArch64Client, [0000018AD8456200][0000018AD8054940 49] LinuxServer, [0000018AD847D500][0000018AD8058AC0 49] LinuxAArch64Server, [0000018AD8457D00][0000018AD805CC40 49] Android, [0000018AD847C300][0000018AD8060DC0 49] Android_Low, [0000018AD8454C00][0000018AD8064F40 49] Android_Mid, [0000018AD847C900][0000018AD80690C0 49] Android_High, [0000018AD8456B00][0000018AD806D240 49] Android_Default, [0000018AD847FD00][0000018AD80713C0 49] Android_Adreno4xx, [0000018AD8454800][0000018AD8075540 49] Android_Adreno5xx_Low, [0000018AD847CE00][0000018AD80796C0 49] Android_Adreno5xx, [0000018AD8454E00][0000018AD807D840 49] Android_Adreno6xx, [0000018AD847D700][0000018AD8039980 49] Android_Adreno6xx_Vulkan, [0000018AD8457A00][0000018AD8081AC0 49] Android_Mali_T6xx, [0000018AD847FA00][0000018AD8085C00 49] Android_Mali_T7xx, [0000018AD8455C00][0000018AD808C0C0 49] Android_Mali_T8xx, [0000018AD847C700][0000018AD8090240 49] Android_Mali_G71, [0000018AD8454B00][0000018AD80943C0 49] Android_Mali_G72, [0000018AD847D200][0000018AD8098540 49] Android_Mali_G72_Vulkan, [0000018AD8455000][0000018AD809C6C0 49] Android_Mali_G76, [0000018AD847D900][0000018AD80A0840 49] Android_Mali_G76_Vulkan, [0000018AD8454300][0000018AD80A49C0 49] Android_Mali_G77, [0000018AD847F100][0000018AD80A8B40 49] Android_Mali_G77_Vulkan, [0000018AD8455300][0000018AD80ACCC0 49] Android_Vulkan_SM5, [0000018AD84C8B00][0000018AD80B0E40 49] Android_PowerVR_G6xxx, [0000018AD8434800][0000018AD80B4FC0 49] Android_PowerVR_GT7xxx, [0000018AD84CAE00][0000018AD80B9140 49] Android_PowerVR_GE8xxx, [0000018AD8436900][0000018AD80BD2C0 49] Android_PowerVR_GM9xxx, [0000018AD84CA200][0000018AD80C1440 49] Android_PowerVR_GM9xxx_Vulkan, [0000018AD8434D00][0000018AD80C55C0 49] Android_TegraK1, [0000018AD84CB300][0000018AD80C9740 49] Android_Unknown_Vulkan, [0000018AD8435400][0000018AD80CD8C0 49] Lumin, [0000018AD84CAC00][0000018AD8089A00 49] Lumin_Desktop, [0000018AD8435B00][0000018AD80D1B40 49] HoloLens, 
+[2022.02.28-04.38.02:960][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2022.02.28-04.38.02:960][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2022.02.28-04.38.02:960][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2022.02.28-04.38.02:960][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2022.02.28-04.38.02:962][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2022.02.28-04.38.03:921][  0]LogNetVersion: PoTO 1.0.0, NetCL: 14830424, EngineNetVer: 16, GameNetVer: 0 (Checksum: 1362065395)
+[2022.02.28-04.38.20:545][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2022.02.28-04.38.20:871][  0]LogPackageLocalizationCache: Processed 22 localized package path(s) for 1 prioritized culture(s) in 0.271979 seconds
+[2022.02.28-04.38.20:901][  0]LogUObjectArray: 16831 objects as part of root set at end of initial load.
+[2022.02.28-04.38.20:901][  0]LogUObjectAllocator: 4209728 out of 0 bytes used by permanent object pool.
+[2022.02.28-04.38.20:901][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2022.02.28-04.38.28:158][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2022.02.28-04.38.28:211][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2022.02.28-04.38.34:578][  0]SourceControl: Source control is disabled
+[2022.02.28-04.38.34:578][  0]SourceControl: Source control is disabled
+[2022.02.28-04.38.34:709][  0]SourceControl: Source control is disabled
+[2022.02.28-04.38.34:784][  0]SourceControl: Source control is disabled
+[2022.02.28-04.38.35:001][  0]SourceControl: Source control is disabled
+[2022.02.28-04.38.35:103][  0]LogUProjectInfo: Found projects:
+[2022.02.28-04.38.37:329][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2022.02.28-04.38.37:634][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.02.28-04.38.37:634][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.02.28-04.38.38:355][  0]LogCollectionManager: Loaded 0 collections in 0.002880 seconds
+[2022.02.28-04.38.38:426][  0]LogFileCache: Scanning file cache for directory 'D:/MyFiles/School/Repositories/Unreal_Pearl-of-the-Orient/PoTO/Saved/Collections/' took 0.02s
+[2022.02.28-04.38.38:426][  0]LogFileCache: Scanning file cache for directory 'D:/MyFiles/School/Repositories/Unreal_Pearl-of-the-Orient/PoTO/Content/Developers/Asus/Collections/' took 0.00s
+[2022.02.28-04.38.38:426][  0]LogFileCache: Scanning file cache for directory 'D:/MyFiles/School/Repositories/Unreal_Pearl-of-the-Orient/PoTO/Content/Collections/' took 0.00s
+[2022.02.28-04.38.38:709][  0]LogOcInput: OculusInput pre-init called
+[2022.02.28-04.38.38:858][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2022.02.28-04.38.38:858][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2022.02.28-04.38.40:138][  0]LogEngine: Initializing Engine...
+[2022.02.28-04.38.40:181][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2022.02.28-04.38.40:192][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2022.02.28-04.38.40:236][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.022 s
+[2022.02.28-04.38.41:351][  0]LogInit: Initializing FReadOnlyCVARCache
+[2022.02.28-04.38.41:839][  0]LogAIModule: Creating AISystem for world Untitled
+[2022.02.28-04.38.41:896][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2022.02.28-04.38.41:987][  0]LogAudio: Display: Audio Device Manager Initialized
+[2022.02.28-04.38.41:987][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2022.02.28-04.38.42:007][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.02.28-04.38.42:007][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.02.28-04.38.42:007][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.02.28-04.38.42:007][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.02.28-04.38.42:007][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.02.28-04.38.42:008][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.02.28-04.38.42:008][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.02.28-04.38.42:008][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.02.28-04.38.42:017][  0]LogAudio: Display: Using built-in audio occlusion.
+[2022.02.28-04.38.42:017][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2022.02.28-04.38.42:269][  0]LogAudioMixer: Display: 0: FrontLeft
+[2022.02.28-04.38.42:269][  0]LogAudioMixer: Display: 1: FrontRight
+[2022.02.28-04.38.42:372][  0]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2022.02.28-04.38.42:440][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.02.28-04.38.42:547][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.02.28-04.38.42:547][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.02.28-04.38.42:564][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.02.28-04.38.42:565][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.02.28-04.38.42:565][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.02.28-04.38.42:566][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.02.28-04.38.42:566][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.02.28-04.38.42:566][  0]LogInit: FAudioDevice initialized.
+[2022.02.28-04.38.42:567][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2022.02.28-04.38.42:587][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2022.02.28-04.38.42:804][  0]LogDerivedDataCache: Saved boot cache 0.22s 77MB C:/Users/Asus/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2022.02.28-04.38.42:805][  0]LogInit: Texture streaming: Enabled
+[2022.02.28-04.38.43:036][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.26.2-15973114+++UE4+Release-4.26
+[2022.02.28-04.38.43:102][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2022.02.28-04.38.43:102][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2022.02.28-04.38.43:151][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2022.02.28-04.38.43:722][  0]LogInit: Transaction tracking system initialized
+[2022.02.28-04.38.44:181][  0]BlueprintLog: New page: Editor Load
+[2022.02.28-04.38.46:082][  0]LocalizationService: Localization service is disabled
+[2022.02.28-04.38.46:785][  0]TimingProfiler: Initialize
+[2022.02.28-04.38.46:787][  0]TimingProfiler: OnSessionChanged
+[2022.02.28-04.38.46:787][  0]LoadingProfiler: Initialize
+[2022.02.28-04.38.46:788][  0]LoadingProfiler: OnSessionChanged
+[2022.02.28-04.38.46:788][  0]NetworkingProfiler: Initialize
+[2022.02.28-04.38.46:789][  0]NetworkingProfiler: OnSessionChanged
+[2022.02.28-04.38.46:789][  0]MemoryProfiler: Initialize
+[2022.02.28-04.38.46:789][  0]MemoryProfiler: OnSessionChanged
+[2022.02.28-04.38.51:803][  0]LogFileCache: Scanning file cache for directory 'D:/MyFiles/School/Repositories/Unreal_Pearl-of-the-Orient/PoTO/Content/' took 0.02s
+[2022.02.28-04.38.51:803][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2022.02.28-04.38.51:803][  0]LogCook: Display: Mobile HDR setting 1
+[2022.02.28-04.38.57:950][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2022.02.28-04.38.58:267][  0]SourceControl: Source control is disabled
+[2022.02.28-04.38.58:287][  0]LogUnrealEdMisc: Loading editor; pre map load, took 218.255
+[2022.02.28-04.38.58:387][  0]Cmd: MAP LOAD FILE="../../../../../../../School/Repositories/Unreal_Pearl-of-the-Orient/PoTO/Content/Maps/MainMenu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.02.28-04.38.58:411][  0]LightingResults: New page: Lighting Build
+[2022.02.28-04.38.58:544][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2022.02.28-04.38.58:614][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.28-04.38.58:732][  0]MapCheck: New page: Map Check
+[2022.02.28-04.38.58:732][  0]LightingResults: New page: Lighting Build
+[2022.02.28-04.38.59:239][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2022.02.28-04.39.03:333][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'MainMenu'.
+[2022.02.28-04.39.03:336][  0]LogAIModule: Creating AISystem for world MainMenu
+[2022.02.28-04.39.03:447][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.02.28-04.39.03:538][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2022.02.28-04.39.03:568][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.02.28-04.39.03:569][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.236ms to complete.
+[2022.02.28-04.39.03:569][  0]LogFileHelpers: Loading map 'MainMenu' took 5.220
+[2022.02.28-04.39.04:477][  0]LogUnrealEdMisc: Total Editor Startup Time, took 224.445
+[2022.02.28-04.39.05:216][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.28-04.39.05:247][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.28-04.39.05:255][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.28-04.39.05:265][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.28-04.39.05:497][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0182 seconds. Added 3601 classes and 859 folders.
+[2022.02.28-04.39.05:570][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2022.02.28-04.39.05:780][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2022.02.28-04.39.05:780][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.28-04.39.05:780][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.02.28-04.39.05:780][  0]LogPakFile: OnPakFileMounted2Time == 0.000011
+[2022.02.28-04.39.05:794][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2022.02.28-04.39.05:794][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.28-04.39.05:794][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2022.02.28-04.39.05:794][  0]LogPakFile: OnPakFileMounted2Time == 0.000017
+[2022.02.28-04.39.05:811][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2022.02.28-04.39.05:811][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.28-04.39.05:811][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2022.02.28-04.39.05:811][  0]LogPakFile: OnPakFileMounted2Time == 0.000022
+[2022.02.28-04.39.05:822][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.02.28-04.39.05:822][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.28-04.39.05:822][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.02.28-04.39.05:822][  0]LogPakFile: OnPakFileMounted2Time == 0.000028
+[2022.02.28-04.39.05:840][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2022.02.28-04.39.05:841][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.28-04.39.05:841][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2022.02.28-04.39.05:841][  0]LogPakFile: OnPakFileMounted2Time == 0.000033
+[2022.02.28-04.39.05:858][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2022.02.28-04.39.05:858][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.28-04.39.05:858][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2022.02.28-04.39.05:858][  0]LogPakFile: OnPakFileMounted2Time == 0.000039
+[2022.02.28-04.39.05:877][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2022.02.28-04.39.05:877][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.28-04.39.05:877][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2022.02.28-04.39.05:877][  0]LogPakFile: OnPakFileMounted2Time == 0.000044
+[2022.02.28-04.39.05:887][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2022.02.28-04.39.05:887][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.28-04.39.05:887][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2022.02.28-04.39.05:887][  0]LogPakFile: OnPakFileMounted2Time == 0.000049
+[2022.02.28-04.39.05:919][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2022.02.28-04.39.05:919][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.28-04.39.05:919][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2022.02.28-04.39.05:920][  0]LogPakFile: OnPakFileMounted2Time == 0.000059
+[2022.02.28-04.39.05:929][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2022.02.28-04.39.05:929][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.28-04.39.05:929][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2022.02.28-04.39.05:929][  0]LogPakFile: OnPakFileMounted2Time == 0.000065
+[2022.02.28-04.39.05:938][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2022.02.28-04.39.05:938][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.28-04.39.05:938][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2022.02.28-04.39.05:938][  0]LogPakFile: OnPakFileMounted2Time == 0.000070
+[2022.02.28-04.39.05:949][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2022.02.28-04.39.05:949][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.28-04.39.05:949][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2022.02.28-04.39.05:949][  0]LogPakFile: OnPakFileMounted2Time == 0.000075
+[2022.02.28-04.39.05:958][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.02.28-04.39.05:958][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.28-04.39.05:958][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.02.28-04.39.05:958][  0]LogPakFile: OnPakFileMounted2Time == 0.000080
+[2022.02.28-04.39.05:980][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2022.02.28-04.39.05:980][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.28-04.39.05:980][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2022.02.28-04.39.05:980][  0]LogPakFile: OnPakFileMounted2Time == 0.000085
+[2022.02.28-04.39.05:990][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2022.02.28-04.39.05:990][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.28-04.39.05:990][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2022.02.28-04.39.05:990][  0]LogPakFile: OnPakFileMounted2Time == 0.000090
+[2022.02.28-04.39.05:999][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2022.02.28-04.39.05:999][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.28-04.39.05:999][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.02.28-04.39.05:999][  0]LogPakFile: OnPakFileMounted2Time == 0.000096
+[2022.02.28-04.39.06:018][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2022.02.28-04.39.06:018][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.28-04.39.06:018][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2022.02.28-04.39.06:018][  0]LogPakFile: OnPakFileMounted2Time == 0.000101
+[2022.02.28-04.39.06:028][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2022.02.28-04.39.06:028][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.28-04.39.06:028][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2022.02.28-04.39.06:028][  0]LogPakFile: OnPakFileMounted2Time == 0.000106
+[2022.02.28-04.39.06:050][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.02.28-04.39.06:050][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.28-04.39.06:050][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.02.28-04.39.06:050][  0]LogPakFile: OnPakFileMounted2Time == 0.000114
+[2022.02.28-04.39.06:064][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.02.28-04.39.06:064][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.28-04.39.06:064][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.02.28-04.39.06:065][  0]LogPakFile: OnPakFileMounted2Time == 0.000121
+[2022.02.28-04.39.06:075][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2022.02.28-04.39.06:075][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.28-04.39.06:075][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.02.28-04.39.06:075][  0]LogPakFile: OnPakFileMounted2Time == 0.000125
+[2022.02.28-04.39.06:096][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2022.02.28-04.39.06:096][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.28-04.39.06:096][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2022.02.28-04.39.06:096][  0]LogPakFile: OnPakFileMounted2Time == 0.000131
+[2022.02.28-04.39.06:125][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2022.02.28-04.39.06:125][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.28-04.39.06:125][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2022.02.28-04.39.06:125][  0]LogPakFile: OnPakFileMounted2Time == 0.000136
+[2022.02.28-04.39.06:146][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2022.02.28-04.39.06:146][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.28-04.39.06:146][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2022.02.28-04.39.06:146][  0]LogPakFile: OnPakFileMounted2Time == 0.000140
+[2022.02.28-04.39.06:157][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.02.28-04.39.06:157][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.28-04.39.06:157][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.02.28-04.39.06:157][  0]LogPakFile: OnPakFileMounted2Time == 0.000147
+[2022.02.28-04.39.06:169][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2022.02.28-04.39.06:169][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.28-04.39.06:169][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2022.02.28-04.39.06:169][  0]LogPakFile: OnPakFileMounted2Time == 0.000153
+[2022.02.28-04.39.07:290][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2022.02.28-04.39.07:388][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SceneOutliner' in 0.0006 seconds. Added 2 classes and 0 folders.
+[2022.02.28-04.39.08:641][  0]LogSlate: Took 0.047955 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2022.02.28-04.39.08:677][  0]LogSlate: Took 0.010397 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2022.02.28-04.39.08:730][  0]LogSlate: Took 0.049164 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2022.02.28-04.39.09:253][  0]LogRenderer: Reallocating scene render targets to support 1552x492 Format 10 NumSamples 1 (Frame:1).
+[2022.02.28-04.39.09:944][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0008 seconds. Added 0 classes and 0 folders.
+[2022.02.28-04.39.09:944][  0]LogLoad: (Engine Initialization) Total time: 229.91 seconds
+[2022.02.28-04.39.09:944][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2022.02.28-04.39.09:945][  0]LogInit: First time updating LLM stats...
+[2022.02.28-04.39.10:381][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2022.02.28-04.39.10:558][  1]LogAssetRegistry: Asset discovery search completed in 74.2981 seconds
+[2022.02.28-04.39.10:568][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000007 seconds (updated 0 objects)
+[2022.02.28-04.39.10:988][  2]LogSlate: Took 0.024387 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.02.28-04.48.43:768][379]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2022.02.28-04.48.43:787][379]LogContentBrowser: Creating deferred item: NewFolder
+[2022.02.28-04.48.48:171][640]LogContentBrowser: Attempting asset rename: NewFolder -> NewFolder
+[2022.02.28-04.48.48:172][640]LogContentBrowser: End creating deferred item NewFolder
+[2022.02.28-04.49.31:607][172]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2022.02.28-04.49.31:618][172]LogContentBrowser: Creating deferred item: NewFolder
+[2022.02.28-04.49.38:556][589]LogContentBrowser: Attempting asset rename: NewFolder -> Polvorin
+[2022.02.28-04.49.38:556][589]LogContentBrowser: End creating deferred item NewFolder
+[2022.02.28-04.50.01:598][ 17]LogSlate: Took 0.000214 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.02.28-04.50.01:639][ 17]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:\MyFiles\Projects\Blender Projects\Projects\POTO\Props\Walls.fbx)
+[2022.02.28-04.50.01:890][ 17]LogFbx: Loading FBX Scene from D:\MyFiles\Projects\Blender Projects\Projects\POTO\Props\Walls.fbx
+[2022.02.28-04.50.01:938][ 17]LogFbx: FBX Scene Loaded Succesfully
+[2022.02.28-04.50.14:340][ 17]LogSlate: Window 'FBX Import Options' being destroyed
+[2022.02.28-04.50.14:607][ 17]LogFbx: Display: Triangulating static mesh Plane.002
+[2022.02.28-04.50.14:709][ 17]LogStaticMesh: Building static mesh Walls...
+[2022.02.28-04.50.14:840][ 17]LogStaticMesh: Built static mesh [0.13s] /Game/Props/Polvorin/Walls.Walls
+[2022.02.28-04.50.15:007][ 17]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2022.02.28-04.50.15:360][ 17]LogSlate: Took 0.039564 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2022.02.28-04.50.17:367][109]LogSlate: Window 'Message Log' being destroyed
+[2022.02.28-04.50.17:373][109]LogSlate: Window 'Message Log' being destroyed
+[2022.02.28-04.50.18:549][168]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2022.02.28-04.50.18:569][168]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/MainMenu' took 0.119
+[2022.02.28-04.50.18:572][168]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Props/Polvorin/Walls] ([1] browsable assets)...
+[2022.02.28-04.50.18:650][168]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Props/Polvorin/Walls.Walls]
+[2022.02.28-04.50.18:650][168]OBJ SavePackage: Finished generating thumbnails for package [/Game/Props/Polvorin/Walls]
+[2022.02.28-04.50.18:887][168]LogSavePackage: Moving '../../../../../../../School/Repositories/Unreal_Pearl-of-the-Orient/PoTO/Saved/Walls_Auto15CF85D614BB7F54960DBFAB0CC9F5451.tmp' to '../../../../../../../School/Repositories/Unreal_Pearl-of-the-Orient/PoTO/Saved/Autosaves/Game/Props/Polvorin/Walls_Auto1.uasset'
+[2022.02.28-04.50.18:905][168]LogFileHelpers: Auto-saving content packages took 0.336
+[2022.02.28-04.50.23:050][411]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Props/Polvorin/Walls.Walls
+[2022.02.28-04.50.26:289][411]LogRenderer: Reallocating scene render targets to support 1552x912 Format 10 NumSamples 1 (Frame:1).
+[2022.02.28-04.50.26:289][411]LogSlate: Took 0.045109 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2022.02.28-04.50.34:792][872]LogAssetEditorSubsystem: Opening Asset editor for Material /Engine/EngineMaterials/WorldGridMaterial.WorldGridMaterial
+[2022.02.28-04.50.34:911][872]LogMaterial: Display: Missing cached shader map for material WorldGridMaterial, compiling. 
+[2022.02.28-04.50.35:652][872]LogMaterial: Display: Missing cached shader map for material WorldGridMaterial, compiling. Is special engine material.
+[2022.02.28-04.50.35:861][872]LogMaterial: Display: Missing cached shader map for material WorldGridMaterial, compiling. Is special engine material.
+[2022.02.28-04.50.35:933][872]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 78
+[2022.02.28-04.50.35:933][872]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 77
+[2022.02.28-04.50.35:933][872]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 76
+[2022.02.28-04.50.35:933][872]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 75
+[2022.02.28-04.50.35:933][872]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_26, compiling. 
+[2022.02.28-04.50.35:940][872]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_27, compiling. 
+[2022.02.28-04.50.35:946][872]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_28, compiling. 
+[2022.02.28-04.50.35:955][872]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_6, compiling. 
+[2022.02.28-04.50.35:963][872]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_29, compiling. 
+[2022.02.28-04.50.38:551][872]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 94
+[2022.02.28-04.50.38:570][872]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 93
+[2022.02.28-04.50.38:712][872]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 92
+[2022.02.28-04.50.38:730][872]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 91
+[2022.02.28-04.50.38:857][872]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 90
+[2022.02.28-04.50.38:986][872]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 89
+[2022.02.28-04.50.39:228][872]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 88
+[2022.02.28-04.50.39:582][872]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 87
+[2022.02.28-04.50.39:707][872]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 86
+[2022.02.28-04.50.40:003][872]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 85
+[2022.02.28-04.50.40:249][872]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 84
+[2022.02.28-04.50.40:284][872]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 83
+[2022.02.28-04.50.40:475][872]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 82
+[2022.02.28-04.50.40:679][872]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 81
+[2022.02.28-04.50.40:819][872]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 80
+[2022.02.28-04.50.40:836][872]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 79
+[2022.02.28-04.50.40:874][872]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 78
+[2022.02.28-04.50.41:079][872]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 77
+[2022.02.28-04.50.41:244][872]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 76
+[2022.02.28-04.50.41:279][872]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 75
+[2022.02.28-04.50.41:385][872]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 74
+[2022.02.28-04.50.41:439][872]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 73
+[2022.02.28-04.50.41:647][872]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 72
+[2022.02.28-04.50.41:844][872]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 71
+[2022.02.28-04.50.41:844][872]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 70
+[2022.02.28-04.50.41:915][872]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 69
+[2022.02.28-04.50.42:020][872]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 68
+[2022.02.28-04.50.42:158][872]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 67
+[2022.02.28-04.50.42:229][872]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 66
+[2022.02.28-04.50.42:402][872]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 65
+[2022.02.28-04.50.42:437][872]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 64
+[2022.02.28-04.50.42:455][872]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 63
+[2022.02.28-04.50.42:576][872]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 62
+[2022.02.28-04.50.42:752][872]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 61
+[2022.02.28-04.50.42:839][872]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 60
+[2022.02.28-04.50.42:871][872]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 59
+[2022.02.28-04.50.43:186][872]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 58
+[2022.02.28-04.50.43:575][872]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 57
+[2022.02.28-04.50.43:770][872]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 56
+[2022.02.28-04.50.43:806][872]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 55
+[2022.02.28-04.50.43:909][872]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 54
+[2022.02.28-04.50.44:124][872]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 53
+[2022.02.28-04.50.44:237][872]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 52
+[2022.02.28-04.50.44:255][872]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 51
+[2022.02.28-04.50.44:358][872]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 50
+[2022.02.28-04.50.44:464][872]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 49
+[2022.02.28-04.50.44:768][872]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 48
+[2022.02.28-04.50.44:842][872]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 47
+[2022.02.28-04.50.44:993][872]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 46
+[2022.02.28-04.50.45:221][872]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 45
+[2022.02.28-04.50.45:257][872]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 44
+[2022.02.28-04.50.45:753][872]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 43
+[2022.02.28-04.50.45:906][872]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 42
+[2022.02.28-04.50.46:011][872]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 41
+[2022.02.28-04.50.46:169][872]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 40
+[2022.02.28-04.50.46:449][872]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 39
+[2022.02.28-04.50.46:596][872]LogSlate: Window 'Warning: Editing Default Material' being destroyed
+[2022.02.28-04.50.46:796][872]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 38
+[2022.02.28-04.50.46:796][872]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 37
+[2022.02.28-04.50.46:901][872]LogSlate: Took 0.038162 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2022.02.28-04.50.47:015][872]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 36
+[2022.02.28-04.50.47:996][873]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 35
+[2022.02.28-04.50.47:996][873]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 34
+[2022.02.28-04.50.47:996][873]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 33
+[2022.02.28-04.50.47:996][873]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 32
+[2022.02.28-04.50.47:996][873]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 31
+[2022.02.28-04.50.47:996][873]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 30
+[2022.02.28-04.50.48:325][876]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 29
+[2022.02.28-04.50.48:423][877]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 28
+[2022.02.28-04.50.48:460][878]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 27
+[2022.02.28-04.50.48:900][883]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 26
+[2022.02.28-04.50.48:900][883]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 25
+[2022.02.28-04.50.49:231][890]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 24
+[2022.02.28-04.50.49:231][890]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 23
+[2022.02.28-04.50.49:372][893]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 22
+[2022.02.28-04.50.49:372][893]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 21
+[2022.02.28-04.50.49:548][898]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 20
+[2022.02.28-04.50.49:742][903]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 19
+[2022.02.28-04.50.49:827][905]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 18
+[2022.02.28-04.50.50:053][910]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 17
+[2022.02.28-04.50.50:186][912]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 16
+[2022.02.28-04.50.50:592][917]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 15
+[2022.02.28-04.50.50:922][922]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 14
+[2022.02.28-04.50.50:922][922]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 13
+[2022.02.28-04.50.50:975][923]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 12
+[2022.02.28-04.50.51:271][927]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 11
+[2022.02.28-04.50.51:293][927]MaterialEditorStats: Base pass shader: 152 instructions
+[2022.02.28-04.50.51:293][927]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 226 instructions
+[2022.02.28-04.50.51:293][927]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2022.02.28-04.50.51:293][927]MaterialEditorStats: Texture samplers: 4/16
+[2022.02.28-04.50.51:293][927]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2022.02.28-04.50.51:293][927]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.02.28-04.50.51:886][935]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 10
+[2022.02.28-04.50.51:936][936]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2022.02.28-04.50.51:937][936]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 8
+[2022.02.28-04.50.52:067][939]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2022.02.28-04.50.52:405][944]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2022.02.28-04.50.52:405][944]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.28-04.50.58:341][267]LogSlate: Window 'Walls' being destroyed
+[2022.02.28-04.50.58:351][267]LogSlate: Window 'Walls' being destroyed
+[2022.02.28-04.50.58:369][267]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2022.02.28-04.50.58:369][267]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.28-04.51.00:741][389]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2022.02.28-04.51.02:084][389]LogSlate: Window 'Delete Assets' being destroyed
+[2022.02.28-04.51.02:269][389]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2022.02.28-04.51.55:040][ 95]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:\MyFiles\Projects\Blender Projects\Projects\POTO\Props\Walls.fbx)
+[2022.02.28-04.51.55:049][ 95]LogFbx: Loading FBX Scene from D:\MyFiles\Projects\Blender Projects\Projects\POTO\Props\Walls.fbx
+[2022.02.28-04.51.55:149][ 95]LogFbx: FBX Scene Loaded Succesfully
+[2022.02.28-04.51.59:633][ 95]LogSlate: Window 'FBX Import Options' being destroyed
+[2022.02.28-04.51.59:790][ 95]LogMaterial: Display: Missing cached shader map for material Walls1, compiling. 
+[2022.02.28-04.51.59:845][ 95]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 12
+[2022.02.28-04.51.59:845][ 95]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2022.02.28-04.51.59:845][ 95]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 4
+[2022.02.28-04.51.59:845][ 95]LogFbx: Display: Triangulating static mesh Plane.002
+[2022.02.28-04.51.59:949][ 95]LogStaticMesh: Building static mesh Walls...
+[2022.02.28-04.51.59:963][ 95]LogStaticMesh: Built static mesh [0.02s] /Game/Props/Polvorin/Walls.Walls
+[2022.02.28-04.51.59:986][ 95]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2022.02.28-04.52.01:405][145]LogEditorViewport: Clicking Background
+[2022.02.28-04.52.01:745][162]LogSlate: Window 'Message Log' being destroyed
+[2022.02.28-04.52.01:760][162]LogSlate: Window 'Message Log' being destroyed
+[2022.02.28-04.52.06:434][264]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Props/Polvorin/Walls.Walls
+[2022.02.28-04.52.22:313][176]LogSlate: Window 'Walls' being destroyed
+[2022.02.28-04.52.22:324][176]LogSlate: Window 'Walls' being destroyed
+[2022.02.28-04.52.22:326][176]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2022.02.28-04.52.22:326][176]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.28-04.52.43:807][360]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\MyFiles\Downloads\TexturesCom_Wall_BlockConcrete4_2x2_1K_height.tif)
+[2022.02.28-04.52.44:628][360]LogTexture: Display: Building textures: TexturesCom_Wall_BlockConcrete4_2x2_1K_height (G8, 1024X1024)
+[2022.02.28-04.52.44:744][360]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\MyFiles\Downloads\TexturesCom_Wall_BlockConcrete4_2x2_1K_normal.tif)
+[2022.02.28-04.52.44:816][360]LogTexture: Display: Building textures: TexturesCom_Wall_BlockConcrete4_2x2_1K_normal (BC5, 1024X1024)
+[2022.02.28-04.52.44:987][360]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\MyFiles\Downloads\TexturesCom_Wall_BlockConcrete4_2x2_1K_albedo.tif)
+[2022.02.28-04.52.45:045][360]LogTexture: Display: Building textures: TexturesCom_Wall_BlockConcrete4_2x2_1K_albedo (AutoDXT, 1024X1024)
+[2022.02.28-04.52.48:882][465]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2022.02.28-04.52.48:902][465]LogContentBrowser: Creating deferred item: NewFolder
+[2022.02.28-04.52.52:433][676]LogContentBrowser: Attempting asset rename: NewFolder -> Window
+[2022.02.28-04.52.52:434][676]LogContentBrowser: End creating deferred item NewFolder
+[2022.02.28-04.53.04:420][115]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Props/Polvorin/Window/Walls1" FILE="../../../../../../../School/Repositories/Unreal_Pearl-of-the-Orient/PoTO/Content/Props/Polvorin/Window/Walls1.uasset" SILENT=true
+[2022.02.28-04.53.04:439][115]LogSavePackage: Moving '../../../../../../../School/Repositories/Unreal_Pearl-of-the-Orient/PoTO/Saved/Walls1D037D45140575E8283F226916916724F.tmp' to '../../../../../../../School/Repositories/Unreal_Pearl-of-the-Orient/PoTO/Content/Props/Polvorin/Window/Walls1.uasset'
+[2022.02.28-04.53.04:453][115]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Props/Polvorin/Window/Walls" FILE="../../../../../../../School/Repositories/Unreal_Pearl-of-the-Orient/PoTO/Content/Props/Polvorin/Window/Walls.uasset" SILENT=true
+[2022.02.28-04.53.04:507][115]LogSavePackage: Moving '../../../../../../../School/Repositories/Unreal_Pearl-of-the-Orient/PoTO/Saved/Walls8F195D044136ECEC616A7BBF0434957C.tmp' to '../../../../../../../School/Repositories/Unreal_Pearl-of-the-Orient/PoTO/Content/Props/Polvorin/Window/Walls.uasset'
+[2022.02.28-04.53.04:924][115]LogSavePackage: Moving '../../../../../../../School/Repositories/Unreal_Pearl-of-the-Orient/PoTO/Saved/TexturesCom_Wall_BlockConcrete4_727C3493482D9E2796EAAF8B5FD2474E.tmp' to '../../../../../../../School/Repositories/Unreal_Pearl-of-the-Orient/PoTO/Content/Props/Polvorin/Window/TexturesCom_Wall_BlockConcrete4_2x2_1K_normal.uasset'
+[2022.02.28-04.53.04:985][115]LogSavePackage: Moving '../../../../../../../School/Repositories/Unreal_Pearl-of-the-Orient/PoTO/Saved/TexturesCom_Wall_BlockConcrete4_C8BF20EF466AA61B54541D9B30A0DBF8.tmp' to '../../../../../../../School/Repositories/Unreal_Pearl-of-the-Orient/PoTO/Content/Props/Polvorin/Window/TexturesCom_Wall_BlockConcrete4_2x2_1K_height.uasset'
+[2022.02.28-04.53.05:899][115]LogSavePackage: Moving '../../../../../../../School/Repositories/Unreal_Pearl-of-the-Orient/PoTO/Saved/TexturesCom_Wall_BlockConcrete4_60A78C654D41B70D2B8722BB32A02AED.tmp' to '../../../../../../../School/Repositories/Unreal_Pearl-of-the-Orient/PoTO/Content/Props/Polvorin/Window/TexturesCom_Wall_BlockConcrete4_2x2_1K_albedo.uasset'
+[2022.02.28-04.53.06:041][115]LogUObjectHash: Compacting FUObjectHashTables data took   2.17ms
+[2022.02.28-04.53.06:059][115]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2022.02.28-04.53.06:068][115]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2022.02.28-04.53.06:076][115]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2022.02.28-04.53.06:084][115]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2022.02.28-04.53.06:107][115]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2022.02.28-04.53.06:115][115]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2022.02.28-04.53.06:226][115]AssetCheck: New page: Asset Save: multiple assets
+[2022.02.28-04.53.06:226][115]LogContentValidation: Display: Validating Texture2D /Game/Props/Polvorin/Window/TexturesCom_Wall_BlockConcrete4_2x2_1K_albedo.TexturesCom_Wall_BlockConcrete4_2x2_1K_albedo
+[2022.02.28-04.53.06:226][115]LogContentValidation: Display: Validating Texture2D /Game/Props/Polvorin/Window/TexturesCom_Wall_BlockConcrete4_2x2_1K_normal.TexturesCom_Wall_BlockConcrete4_2x2_1K_normal
+[2022.02.28-04.53.06:226][115]LogContentValidation: Display: Validating Texture2D /Game/Props/Polvorin/Window/TexturesCom_Wall_BlockConcrete4_2x2_1K_height.TexturesCom_Wall_BlockConcrete4_2x2_1K_height
+[2022.02.28-04.53.06:226][115]LogContentValidation: Display: Validating Material /Game/Props/Polvorin/Window/Walls1.Walls1
+[2022.02.28-04.53.06:227][115]LogContentValidation: Display: Validating StaticMesh /Game/Props/Polvorin/Window/Walls.Walls
+[2022.02.28-04.53.11:370][418]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Props/Polvorin/Window/Walls1.Walls1
+[2022.02.28-04.53.11:372][418]LogMaterial: Display: Missing cached shader map for material Walls1, compiling. 
+[2022.02.28-04.53.11:524][418]LogMaterial: Display: Missing cached shader map for material Walls1, compiling. 
+[2022.02.28-04.53.11:537][418]LogMaterial: Display: Missing cached shader map for material Walls1, compiling. 
+[2022.02.28-04.53.11:550][418]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2022.02.28-04.53.11:550][418]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2022.02.28-04.53.11:550][418]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2022.02.28-04.53.11:550][418]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2022.02.28-04.53.11:557][418]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2022.02.28-04.53.12:634][432]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 9
+[2022.02.28-04.53.12:846][436]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2022.02.28-04.53.12:979][439]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 7
+[2022.02.28-04.53.13:332][445]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2022.02.28-04.53.13:711][454]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 5
+[2022.02.28-04.53.14:213][466]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 4
+[2022.02.28-04.53.14:249][467]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2022.02.28-04.53.14:379][471]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2
+[2022.02.28-04.53.14:633][475]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2022.02.28-04.53.14:748][477]MaterialEditorStats: Base pass shader: 119 instructions
+[2022.02.28-04.53.14:748][477]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 193 instructions
+[2022.02.28-04.53.14:748][477]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2022.02.28-04.53.14:748][477]MaterialEditorStats: Texture samplers: 2/16
+[2022.02.28-04.53.25:071][ 28]LogMaterial: Display: Missing cached shader map for material Walls1, compiling. 
+[2022.02.28-04.53.25:086][ 28]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2022.02.28-04.53.25:216][ 29]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2022.02.28-04.53.25:216][ 29]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2022.02.28-04.53.25:216][ 29]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2022.02.28-04.53.25:216][ 29]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2022.02.28-04.53.25:693][ 37]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2022.02.28-04.53.26:172][ 47]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 4
+[2022.02.28-04.53.26:690][ 60]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2022.02.28-04.53.26:789][ 62]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2022.02.28-04.53.26:846][ 64]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2022.02.28-04.53.27:969][103]MaterialEditorStats: Base pass shader: 119 instructions
+[2022.02.28-04.53.27:969][103]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 193 instructions
+[2022.02.28-04.53.27:969][103]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2022.02.28-04.53.27:969][103]MaterialEditorStats: Texture samplers: 2/16
+[2022.02.28-04.53.37:149][479]LogSlate: Window 'Walls1' being destroyed
+[2022.02.28-04.54.05:847][101]LogSlate: Window 'Content Browser 2' being destroyed
+[2022.02.28-04.54.18:150][824]LogMaterial: Display: Missing cached shader map for material Walls1, compiling. 
+[2022.02.28-04.54.18:160][824]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2022.02.28-04.54.18:172][824]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 13
+[2022.02.28-04.54.18:172][824]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 12
+[2022.02.28-04.54.18:172][824]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 11
+[2022.02.28-04.54.18:172][824]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 10
+[2022.02.28-04.54.18:177][824]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2022.02.28-04.54.18:182][824]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2022.02.28-04.54.18:183][824]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2022.02.28-04.54.19:234][864]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 13
+[2022.02.28-04.54.19:532][876]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 12
+[2022.02.28-04.54.19:639][881]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 11
+[2022.02.28-04.54.19:823][888]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 10
+[2022.02.28-04.54.20:502][905]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 9
+[2022.02.28-04.54.20:566][907]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 8
+[2022.02.28-04.54.20:655][907]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 7
+[2022.02.28-04.54.20:657][907]LogMaterial: Display: Missing cached shader map for material Walls1, compiling. 
+[2022.02.28-04.54.21:390][921]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 15
+[2022.02.28-04.54.21:391][921]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 14
+[2022.02.28-04.54.21:421][922]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 13
+[2022.02.28-04.54.21:532][925]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 12
+[2022.02.28-04.54.22:160][938]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 11
+[2022.02.28-04.54.22:528][940]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 10
+[2022.02.28-04.54.22:529][940]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 9
+[2022.02.28-04.54.22:599][942]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 8
+[2022.02.28-04.54.23:019][943]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2022.02.28-04.54.23:116][944]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 7
+[2022.02.28-04.54.23:400][952]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 6
+[2022.02.28-04.54.23:783][963]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 5
+[2022.02.28-04.54.23:809][964]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 4
+[2022.02.28-04.54.24:077][968]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 3
+[2022.02.28-04.54.24:751][977]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2022.02.28-04.54.24:948][979]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2022.02.28-04.54.26:099][ 27]LogMaterial: Display: Missing cached shader map for material Walls1, compiling. 
+[2022.02.28-04.54.26:116][ 27]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2022.02.28-04.54.26:117][ 27]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2022.02.28-04.54.26:117][ 27]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2022.02.28-04.54.26:117][ 27]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2022.02.28-04.54.26:117][ 27]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2022.02.28-04.54.26:949][ 47]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 9
+[2022.02.28-04.54.27:232][ 54]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 8
+[2022.02.28-04.54.27:431][ 59]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 7
+[2022.02.28-04.54.27:435][ 59]LogMaterial: Display: Missing cached shader map for material Walls1, compiling. 
+[2022.02.28-04.54.27:720][ 70]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 13
+[2022.02.28-04.54.28:206][ 94]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 12
+[2022.02.28-04.54.28:326][ 99]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 11
+[2022.02.28-04.54.28:582][111]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 10
+[2022.02.28-04.54.28:681][116]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2022.02.28-04.54.29:350][134]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 8
+[2022.02.28-04.54.29:451][137]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 7
+[2022.02.28-04.54.29:475][138]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 6
+[2022.02.28-04.54.29:709][148]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 5
+[2022.02.28-04.54.30:482][183]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 4
+[2022.02.28-04.54.30:538][185]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 3
+[2022.02.28-04.54.30:784][196]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2
+[2022.02.28-04.54.30:964][205]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2022.02.28-04.54.32:163][274]MaterialEditorStats: Base pass shader: 120 instructions
+[2022.02.28-04.54.32:163][274]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 194 instructions
+[2022.02.28-04.54.32:164][274]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2022.02.28-04.54.32:164][274]MaterialEditorStats: Texture samplers: 3/16
+[2022.02.28-04.54.32:164][274]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.02.28-04.54.32:164][274]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.02.28-04.54.49:747][314]LogMaterial: Display: Missing cached shader map for material Walls1, compiling. 
+[2022.02.28-04.54.49:755][314]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2022.02.28-04.54.49:766][314]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2022.02.28-04.54.49:766][314]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2022.02.28-04.54.49:766][314]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2022.02.28-04.54.49:766][314]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2022.02.28-04.54.49:772][314]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2022.02.28-04.54.49:778][314]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2022.02.28-04.54.50:370][336]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 13
+[2022.02.28-04.54.50:726][350]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 12
+[2022.02.28-04.54.51:387][378]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 11
+[2022.02.28-04.54.51:468][382]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 10
+[2022.02.28-04.54.51:502][384]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 9
+[2022.02.28-04.54.51:502][384]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 8
+[2022.02.28-04.54.52:403][426]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2022.02.28-04.54.52:481][428]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 6
+[2022.02.28-04.54.52:481][428]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 5
+[2022.02.28-04.54.52:597][434]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 4
+[2022.02.28-04.54.52:743][440]MaterialEditorStats: Base pass shader: 120 instructions
+[2022.02.28-04.54.52:743][440]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 194 instructions
+[2022.02.28-04.54.52:743][440]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2022.02.28-04.54.52:743][440]MaterialEditorStats: Texture samplers: 3/16
+[2022.02.28-04.54.52:743][440]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.02.28-04.54.52:743][440]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.02.28-04.54.53:321][463]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2022.02.28-04.54.53:321][463]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2022.02.28-04.54.53:616][476]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 1
+[2022.02.28-04.54.55:059][554]LogMaterial: Display: Missing cached shader map for material Walls1, compiling. 
+[2022.02.28-04.54.55:079][554]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2022.02.28-04.54.55:087][554]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2022.02.28-04.54.55:087][554]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2022.02.28-04.54.55:087][554]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2022.02.28-04.54.55:087][554]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2022.02.28-04.54.56:090][596]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 9
+[2022.02.28-04.54.56:148][599]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 8
+[2022.02.28-04.54.56:179][601]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 7
+[2022.02.28-04.54.56:730][618]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 6
+[2022.02.28-04.54.56:773][619]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 5
+[2022.02.28-04.54.57:380][648]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 4
+[2022.02.28-04.54.57:817][668]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 3
+[2022.02.28-04.54.57:907][672]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2022.02.28-04.54.57:907][672]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2022.02.28-04.54.57:935][673]MaterialEditorStats: Base pass shader: 126 instructions
+[2022.02.28-04.54.57:935][673]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 200 instructions
+[2022.02.28-04.54.57:935][673]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2022.02.28-04.54.57:935][673]MaterialEditorStats: Texture samplers: 4/16
+[2022.02.28-04.54.57:935][673]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2022.02.28-04.54.57:935][673]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.02.28-04.55.02:483][938]LogMaterialEditor: Saving and Compiling material Walls1
+[2022.02.28-04.55.03:270][938]LogMaterial: Display: Missing cached shader map for material Walls1, compiling. 
+[2022.02.28-04.55.03:324][938]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2022.02.28-04.55.03:325][938]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2022.02.28-04.55.03:325][938]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2022.02.28-04.55.03:325][938]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2022.02.28-04.55.03:337][938]LogMaterial: Display: Missing cached shader map for material Walls1, compiling. 
+[2022.02.28-04.55.03:393][938]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2022.02.28-04.55.03:425][938]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2022.02.28-04.55.04:027][938]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 19
+[2022.02.28-04.55.04:597][938]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 18
+[2022.02.28-04.55.04:597][938]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 17
+[2022.02.28-04.55.04:597][938]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 16
+[2022.02.28-04.55.05:165][938]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 15
+[2022.02.28-04.55.05:165][938]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 14
+[2022.02.28-04.55.05:800][938]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 13
+[2022.02.28-04.55.05:800][938]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 12
+[2022.02.28-04.55.05:800][938]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2022.02.28-04.55.05:891][938]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 5
+[2022.02.28-04.55.05:891][938]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 3
+[2022.02.28-04.55.05:903][938]TextureStreamingBuild: Display: Compiling optional shaders took 2.494 seconds.
+[2022.02.28-04.55.06:001][938]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2022.02.28-04.55.06:749][938]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2
+[2022.02.28-04.55.07:317][938]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 1
+[2022.02.28-04.55.08:273][938]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Props/Polvorin/Window/Walls1" FILE="../../../../../../../School/Repositories/Unreal_Pearl-of-the-Orient/PoTO/Content/Props/Polvorin/Window/Walls1.uasset" SILENT=true
+[2022.02.28-04.55.08:301][938]LogSavePackage: Moving '../../../../../../../School/Repositories/Unreal_Pearl-of-the-Orient/PoTO/Saved/Walls188C55AA14CC1EF268C1049957D8D0199.tmp' to '../../../../../../../School/Repositories/Unreal_Pearl-of-the-Orient/PoTO/Content/Props/Polvorin/Window/Walls1.uasset'
+[2022.02.28-04.55.08:331][938]AssetCheck: New page: Asset Save: Walls1
+[2022.02.28-04.55.08:331][938]LogContentValidation: Display: Validating Material /Game/Props/Polvorin/Window/Walls1.Walls1
+[2022.02.28-04.55.08:332][938]MaterialEditorStats: Base pass shader: 126 instructions
+[2022.02.28-04.55.08:332][938]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 200 instructions
+[2022.02.28-04.55.08:332][938]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2022.02.28-04.55.08:332][938]MaterialEditorStats: Texture samplers: 5/16
+[2022.02.28-04.55.08:332][938]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2022.02.28-04.55.08:332][938]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.02.28-04.55.11:891][144]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Props/Polvorin/Window/Walls.Walls
+[2022.02.28-04.55.26:689][712]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2022.02.28-04.55.52:217][788]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2022.02.28-04.56.28:967][897]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2022.02.28-04.56.43:649][533]LogMaterial: Display: Missing cached shader map for material Walls1, compiling. 
+[2022.02.28-04.56.43:703][534]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2022.02.28-04.56.43:703][534]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2022.02.28-04.56.43:703][534]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2022.02.28-04.56.43:703][534]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2022.02.28-04.56.44:713][573]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2022.02.28-04.56.45:007][588]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 4
+[2022.02.28-04.56.45:256][594]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2022.02.28-04.56.45:536][600]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2022.02.28-04.56.45:890][606]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2022.02.28-04.56.47:016][668]LogMaterial: Display: Missing cached shader map for material Walls1, compiling. 
+[2022.02.28-04.56.47:029][668]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2022.02.28-04.56.47:038][668]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2022.02.28-04.56.47:038][668]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2022.02.28-04.56.47:038][668]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2022.02.28-04.56.47:038][668]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2022.02.28-04.56.47:775][694]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 9
+[2022.02.28-04.56.48:005][700]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 8
+[2022.02.28-04.56.48:281][714]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 7
+[2022.02.28-04.56.48:547][727]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 6
+[2022.02.28-04.56.48:604][730]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 5
+[2022.02.28-04.56.49:005][750]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 4
+[2022.02.28-04.56.49:206][760]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2022.02.28-04.56.49:617][777]LogMaterial: Display: Missing cached shader map for material Walls1, compiling. 
+[2022.02.28-04.56.49:635][777]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2
+[2022.02.28-04.56.49:646][777]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2022.02.28-04.56.49:762][780]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 14
+[2022.02.28-04.56.49:800][782]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 13
+[2022.02.28-04.56.50:200][798]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 12
+[2022.02.28-04.56.50:510][811]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 11
+[2022.02.28-04.56.50:761][818]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 10
+[2022.02.28-04.56.50:790][819]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2022.02.28-04.56.51:493][843]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2022.02.28-04.56.51:533][844]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 7
+[2022.02.28-04.56.51:765][851]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 6
+[2022.02.28-04.56.51:904][856]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2022.02.28-04.56.52:331][874]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 4
+[2022.02.28-04.56.52:558][881]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 3
+[2022.02.28-04.56.52:639][883]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2
+[2022.02.28-04.56.53:003][895]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2022.02.28-04.56.53:202][901]MaterialEditorStats: Base pass shader: 126 instructions
+[2022.02.28-04.56.53:203][901]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 200 instructions
+[2022.02.28-04.56.53:203][901]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2022.02.28-04.56.53:203][901]MaterialEditorStats: Texture samplers: 4/16
+[2022.02.28-04.56.53:203][901]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2022.02.28-04.56.53:203][901]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.02.28-04.56.54:212][950]LogMaterial: Display: Missing cached shader map for material Walls1, compiling. 
+[2022.02.28-04.56.54:224][950]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2022.02.28-04.56.54:224][950]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2022.02.28-04.56.54:224][950]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2022.02.28-04.56.54:224][950]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2022.02.28-04.56.54:226][950]LogMaterial: Display: Missing cached shader map for material Walls1, compiling. 
+[2022.02.28-04.56.55:081][982]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 9
+[2022.02.28-04.56.55:424][992]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 8
+[2022.02.28-04.56.55:536][994]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 7
+[2022.02.28-04.56.55:542][994]LogMaterial: Display: Missing cached shader map for material Walls1, compiling. 
+[2022.02.28-04.56.55:562][994]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2022.02.28-04.56.55:567][994]LogMaterial: Display: Missing cached shader map for material Walls1, compiling. 
+[2022.02.28-04.56.56:086][ 11]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 9
+[2022.02.28-04.56.56:403][ 21]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2022.02.28-04.56.56:671][ 29]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 7
+[2022.02.28-04.56.56:671][ 29]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2022.02.28-04.56.57:514][ 58]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 5
+[2022.02.28-04.56.57:548][ 59]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 4
+[2022.02.28-04.56.57:638][ 62]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 3
+[2022.02.28-04.56.57:783][ 67]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2
+[2022.02.28-04.56.58:364][ 88]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2022.02.28-04.56.59:179][120]MaterialEditorStats: Base pass shader: 127 instructions
+[2022.02.28-04.56.59:179][120]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 201 instructions
+[2022.02.28-04.56.59:179][120]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2022.02.28-04.56.59:179][120]MaterialEditorStats: Texture samplers: 4/16
+[2022.02.28-04.56.59:179][120]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2022.02.28-04.56.59:179][120]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.02.28-04.57.02:172][299]LogMaterialEditor: Saving and Compiling material Walls1
+[2022.02.28-04.57.02:915][299]LogMaterial: Display: Missing cached shader map for material Walls1, compiling. 
+[2022.02.28-04.57.02:975][299]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2022.02.28-04.57.02:975][299]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2022.02.28-04.57.02:975][299]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2022.02.28-04.57.02:975][299]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2022.02.28-04.57.03:024][299]LogMaterial: Display: Missing cached shader map for material Walls1, compiling. 
+[2022.02.28-04.57.03:075][299]LogUObjectHash: Compacting FUObjectHashTables data took   2.83ms
+[2022.02.28-04.57.03:092][299]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2022.02.28-04.57.03:680][299]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 19
+[2022.02.28-04.57.04:245][299]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 18
+[2022.02.28-04.57.04:245][299]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 17
+[2022.02.28-04.57.04:245][299]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 16
+[2022.02.28-04.57.04:826][299]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 15
+[2022.02.28-04.57.04:826][299]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 14
+[2022.02.28-04.57.05:411][299]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 13
+[2022.02.28-04.57.05:411][299]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 12
+[2022.02.28-04.57.05:411][299]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 8
+[2022.02.28-04.57.05:411][299]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 5
+[2022.02.28-04.57.05:449][299]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 3
+[2022.02.28-04.57.05:454][299]TextureStreamingBuild: Display: Compiling optional shaders took 2.376 seconds.
+[2022.02.28-04.57.05:506][299]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2022.02.28-04.57.06:806][299]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2
+[2022.02.28-04.57.07:381][299]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 1
+[2022.02.28-04.57.08:524][299]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Props/Polvorin/Window/Walls1" FILE="../../../../../../../School/Repositories/Unreal_Pearl-of-the-Orient/PoTO/Content/Props/Polvorin/Window/Walls1.uasset" SILENT=true
+[2022.02.28-04.57.08:555][299]LogSavePackage: Moving '../../../../../../../School/Repositories/Unreal_Pearl-of-the-Orient/PoTO/Saved/Walls1545531944F2300D2C9EC96BCB0B4D664.tmp' to '../../../../../../../School/Repositories/Unreal_Pearl-of-the-Orient/PoTO/Content/Props/Polvorin/Window/Walls1.uasset'
+[2022.02.28-04.57.08:582][299]AssetCheck: New page: Asset Save: Walls1
+[2022.02.28-04.57.08:582][299]LogContentValidation: Display: Validating Material /Game/Props/Polvorin/Window/Walls1.Walls1
+[2022.02.28-04.57.08:583][299]MaterialEditorStats: Base pass shader: 127 instructions
+[2022.02.28-04.57.08:583][299]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 201 instructions
+[2022.02.28-04.57.08:583][299]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2022.02.28-04.57.08:583][299]MaterialEditorStats: Texture samplers: 5/16
+[2022.02.28-04.57.08:583][299]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2022.02.28-04.57.08:584][299]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.02.28-04.57.33:887][796]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2022.02.28-04.57.33:901][796]LogContentBrowser: Creating deferred item: NewFolder
+[2022.02.28-04.57.35:939][919]LogContentBrowser: Attempting asset rename: NewFolder -> Doors
+[2022.02.28-04.57.35:940][919]LogContentBrowser: End creating deferred item NewFolder
+[2022.02.28-04.57.39:985][157]LogContentBrowser: Attempting asset rename: Doors -> Door
+[2022.02.28-04.58.39:654][590]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:\MyFiles\Projects\Blender Projects\Projects\POTO\Props\Door.fbx)
+[2022.02.28-04.58.39:665][590]LogFbx: Loading FBX Scene from D:\MyFiles\Projects\Blender Projects\Projects\POTO\Props\Door.fbx
+[2022.02.28-04.58.39:672][590]LogFbx: FBX Scene Loaded Succesfully
+[2022.02.28-04.58.42:907][590]LogSlate: Window 'FBX Import Options' being destroyed
+[2022.02.28-04.58.42:946][590]LogFbx: Display: Triangulating static mesh Plane.001
+[2022.02.28-04.58.42:965][590]LogStaticMesh: Building static mesh Door...
+[2022.02.28-04.58.42:979][590]LogStaticMesh: Built static mesh [0.01s] /Game/Props/Polvorin/Door/Door.Door
+[2022.02.28-04.58.42:989][590]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2022.02.28-04.58.44:606][669]LogSlate: Window 'Message Log' being destroyed
+[2022.02.28-04.58.44:613][669]LogSlate: Window 'Message Log' being destroyed
+[2022.02.28-04.58.47:807][857]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Props/Polvorin/Door/Door.Door
+[2022.02.28-04.59.22:830][347]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2022.02.28-04.59.22:831][347]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.28-04.59.27:270][605]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2022.02.28-04.59.28:408][605]LogSlate: Window 'Delete Assets' being destroyed
+[2022.02.28-04.59.28:485][605]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2022.02.28-04.59.52:828][757]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:\MyFiles\Projects\Blender Projects\Projects\POTO\Props\Door.fbx)
+[2022.02.28-04.59.52:843][757]LogFbx: Loading FBX Scene from D:\MyFiles\Projects\Blender Projects\Projects\POTO\Props\Door.fbx
+[2022.02.28-04.59.52:850][757]LogFbx: FBX Scene Loaded Succesfully
+[2022.02.28-04.59.54:516][757]LogSlate: Window 'FBX Import Options' being destroyed
+[2022.02.28-04.59.54:532][757]LogFbx: Display: Triangulating static mesh Plane.001
+[2022.02.28-04.59.54:555][757]LogStaticMesh: Building static mesh Door...
+[2022.02.28-04.59.54:565][757]LogStaticMesh: Built static mesh [0.01s] /Game/Props/Polvorin/Door/Door.Door
+[2022.02.28-04.59.54:576][757]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2022.02.28-04.59.55:867][819]LogSlate: Window 'Message Log' being destroyed
+[2022.02.28-04.59.55:875][819]LogSlate: Window 'Message Log' being destroyed
+[2022.02.28-04.59.56:991][882]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Props/Polvorin/Door/Door.Door
+[2022.02.28-05.00.19:550][100]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Props/Polvorin/Door/Door" FILE="../../../../../../../School/Repositories/Unreal_Pearl-of-the-Orient/PoTO/Content/Props/Polvorin/Door/Door.uasset" SILENT=true
+[2022.02.28-05.00.19:657][100]LogSavePackage: Moving '../../../../../../../School/Repositories/Unreal_Pearl-of-the-Orient/PoTO/Saved/Door6CE27AC7432BD5E47CF2EEBA43D9509E.tmp' to '../../../../../../../School/Repositories/Unreal_Pearl-of-the-Orient/PoTO/Content/Props/Polvorin/Door/Door.uasset'
+[2022.02.28-05.00.19:676][100]AssetCheck: New page: Asset Save: Door
+[2022.02.28-05.00.19:677][100]LogContentValidation: Display: Validating StaticMesh /Game/Props/Polvorin/Door/Door.Door
+[2022.02.28-05.00.33:007][745]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2022.02.28-05.00.33:026][745]LogContentBrowser: Creating deferred item: NewFolder
+[2022.02.28-05.00.35:284][850]LogContentBrowser: Attempting asset rename: NewFolder -> Walls
+[2022.02.28-05.00.35:285][850]LogContentBrowser: End creating deferred item NewFolder
+[2022.02.28-05.00.39:476][ 31]LogSavePackage: Moving '../../../../../../../School/Repositories/Unreal_Pearl-of-the-Orient/PoTO/Saved/Door5F91524D49B8944DCBCE52BAE8788E2B.tmp' to '../../../../../../../School/Repositories/Unreal_Pearl-of-the-Orient/PoTO/Content/Props/Polvorin/Walls/Door/Door.uasset'
+[2022.02.28-05.00.39:608][ 31]LogUObjectHash: Compacting FUObjectHashTables data took   2.56ms
+[2022.02.28-05.00.39:644][ 31]LogUObjectHash: Compacting FUObjectHashTables data took   2.35ms
+[2022.02.28-05.00.39:655][ 31]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2022.02.28-05.00.39:819][ 31]AssetCheck: New page: Asset Save: Door
+[2022.02.28-05.00.39:819][ 31]LogContentValidation: Display: Validating StaticMesh /Game/Props/Polvorin/Walls/Door/Door.Door
+[2022.02.28-05.00.42:032][127]LogSavePackage: Moving '../../../../../../../School/Repositories/Unreal_Pearl-of-the-Orient/PoTO/Saved/TexturesCom_Wall_BlockConcrete4_43D9911C49CBCA34E682108FDBF389E7.tmp' to '../../../../../../../School/Repositories/Unreal_Pearl-of-the-Orient/PoTO/Content/Props/Polvorin/Walls/Window/TexturesCom_Wall_BlockConcrete4_2x2_1K_albedo.uasset'
+[2022.02.28-05.00.42:176][127]LogSavePackage: Moving '../../../../../../../School/Repositories/Unreal_Pearl-of-the-Orient/PoTO/Saved/TexturesCom_Wall_BlockConcrete4_9DF404B0417759CF3E0FA2A2572FF434.tmp' to '../../../../../../../School/Repositories/Unreal_Pearl-of-the-Orient/PoTO/Content/Props/Polvorin/Walls/Window/TexturesCom_Wall_BlockConcrete4_2x2_1K_normal.uasset'
+[2022.02.28-05.00.42:225][127]LogSavePackage: Moving '../../../../../../../School/Repositories/Unreal_Pearl-of-the-Orient/PoTO/Saved/TexturesCom_Wall_BlockConcrete4_5EAB93ED4ED96B1B13A7B28B54DBE363.tmp' to '../../../../../../../School/Repositories/Unreal_Pearl-of-the-Orient/PoTO/Content/Props/Polvorin/Walls/Window/TexturesCom_Wall_BlockConcrete4_2x2_1K_height.uasset'
+[2022.02.28-05.00.42:291][127]LogSavePackage: Moving '../../../../../../../School/Repositories/Unreal_Pearl-of-the-Orient/PoTO/Saved/Walls11845AA644D90F128D01642B67E31C005.tmp' to '../../../../../../../School/Repositories/Unreal_Pearl-of-the-Orient/PoTO/Content/Props/Polvorin/Walls/Window/Walls1.uasset'
+[2022.02.28-05.00.42:391][127]LogSavePackage: Moving '../../../../../../../School/Repositories/Unreal_Pearl-of-the-Orient/PoTO/Saved/Walls0F0674A8449C774169FC5D93D0E0ADE4.tmp' to '../../../../../../../School/Repositories/Unreal_Pearl-of-the-Orient/PoTO/Content/Props/Polvorin/Walls/Window/Walls.uasset'
+[2022.02.28-05.00.42:527][127]LogUObjectHash: Compacting FUObjectHashTables data took   3.03ms
+[2022.02.28-05.00.42:538][127]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2022.02.28-05.00.42:547][127]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2022.02.28-05.00.42:557][127]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2022.02.28-05.00.42:567][127]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2022.02.28-05.00.42:589][127]LogUObjectHash: Compacting FUObjectHashTables data took   2.21ms
+[2022.02.28-05.00.42:598][127]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2022.02.28-05.00.42:746][127]LogSavePackage: Moving '../../../../../../../School/Repositories/Unreal_Pearl-of-the-Orient/PoTO/Saved/DoorC6C673C046DA229914C6AE9D8FD78E67.tmp' to '../../../../../../../School/Repositories/Unreal_Pearl-of-the-Orient/PoTO/Content/Props/Polvorin/Walls/Door/Door.uasset'
+[2022.02.28-05.00.42:896][127]AssetCheck: New page: Asset Save: multiple assets
+[2022.02.28-05.00.42:896][127]LogContentValidation: Display: Validating StaticMesh /Game/Props/Polvorin/Walls/Door/Door.Door
+[2022.02.28-05.00.42:896][127]LogContentValidation: Display: Validating Texture2D /Game/Props/Polvorin/Walls/Window/TexturesCom_Wall_BlockConcrete4_2x2_1K_albedo.TexturesCom_Wall_BlockConcrete4_2x2_1K_albedo
+[2022.02.28-05.00.42:896][127]LogContentValidation: Display: Validating Texture2D /Game/Props/Polvorin/Walls/Window/TexturesCom_Wall_BlockConcrete4_2x2_1K_normal.TexturesCom_Wall_BlockConcrete4_2x2_1K_normal
+[2022.02.28-05.00.42:896][127]LogContentValidation: Display: Validating Texture2D /Game/Props/Polvorin/Walls/Window/TexturesCom_Wall_BlockConcrete4_2x2_1K_height.TexturesCom_Wall_BlockConcrete4_2x2_1K_height
+[2022.02.28-05.00.42:896][127]LogContentValidation: Display: Validating Material /Game/Props/Polvorin/Walls/Window/Walls1.Walls1
+[2022.02.28-05.00.42:897][127]LogContentValidation: Display: Validating StaticMesh /Game/Props/Polvorin/Walls/Window/Walls.Walls
+[2022.02.28-05.00.47:890][366]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2022.02.28-05.00.47:917][366]LogContentBrowser: Creating deferred item: NewFolder
+[2022.02.28-05.00.50:362][480]LogContentBrowser: Attempting asset rename: NewFolder -> Textures
+[2022.02.28-05.00.50:363][480]LogContentBrowser: End creating deferred item NewFolder
+[2022.02.28-05.01.13:246][656]LogContentBrowser: Attempting asset rename: Textures -> SharedTexture
+[2022.02.28-05.01.24:069][ 79]LogSavePackage: Moving '../../../../../../../School/Repositories/Unreal_Pearl-of-the-Orient/PoTO/Saved/TexturesCom_Wall_BlockConcrete4_48A34C50441F12589DB2E1ADD7147048.tmp' to '../../../../../../../School/Repositories/Unreal_Pearl-of-the-Orient/PoTO/Content/Props/Polvorin/Walls/SharedTexture/TexturesCom_Wall_BlockConcrete4_2x2_1K_normal.uasset'
+[2022.02.28-05.01.24:265][ 79]LogSavePackage: Moving '../../../../../../../School/Repositories/Unreal_Pearl-of-the-Orient/PoTO/Saved/TexturesCom_Wall_BlockConcrete4_7A0E8B8D46B6451A874D04AD2B8936D9.tmp' to '../../../../../../../School/Repositories/Unreal_Pearl-of-the-Orient/PoTO/Content/Props/Polvorin/Walls/SharedTexture/TexturesCom_Wall_BlockConcrete4_2x2_1K_albedo.uasset'
+[2022.02.28-05.01.24:314][ 79]LogSavePackage: Moving '../../../../../../../School/Repositories/Unreal_Pearl-of-the-Orient/PoTO/Saved/TexturesCom_Wall_BlockConcrete4_43DB8EF7414526F7A43D35A348236FCF.tmp' to '../../../../../../../School/Repositories/Unreal_Pearl-of-the-Orient/PoTO/Content/Props/Polvorin/Walls/SharedTexture/TexturesCom_Wall_BlockConcrete4_2x2_1K_height.uasset'
+[2022.02.28-05.01.24:414][ 79]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2022.02.28-05.01.24:423][ 79]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2022.02.28-05.01.24:432][ 79]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2022.02.28-05.01.24:457][ 79]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2022.02.28-05.01.24:465][ 79]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2022.02.28-05.01.24:529][ 79]LogSavePackage: Moving '../../../../../../../School/Repositories/Unreal_Pearl-of-the-Orient/PoTO/Saved/Walls16A092273438AB2294A16C1B66CCCAFE4.tmp' to '../../../../../../../School/Repositories/Unreal_Pearl-of-the-Orient/PoTO/Content/Props/Polvorin/Walls/Window/Walls1.uasset'
+[2022.02.28-05.01.24:627][ 79]AssetCheck: New page: Asset Save: multiple assets
+[2022.02.28-05.01.24:627][ 79]LogContentValidation: Display: Validating Texture2D /Game/Props/Polvorin/Walls/SharedTexture/TexturesCom_Wall_BlockConcrete4_2x2_1K_albedo.TexturesCom_Wall_BlockConcrete4_2x2_1K_albedo
+[2022.02.28-05.01.24:628][ 79]LogContentValidation: Display: Validating Texture2D /Game/Props/Polvorin/Walls/SharedTexture/TexturesCom_Wall_BlockConcrete4_2x2_1K_normal.TexturesCom_Wall_BlockConcrete4_2x2_1K_normal
+[2022.02.28-05.01.24:628][ 79]LogContentValidation: Display: Validating Texture2D /Game/Props/Polvorin/Walls/SharedTexture/TexturesCom_Wall_BlockConcrete4_2x2_1K_height.TexturesCom_Wall_BlockConcrete4_2x2_1K_height
+[2022.02.28-05.01.24:628][ 79]LogContentValidation: Display: Validating Material /Game/Props/Polvorin/Walls/Window/Walls1.Walls1
+[2022.02.28-05.01.30:573][400]LogSavePackage: Moving '../../../../../../../School/Repositories/Unreal_Pearl-of-the-Orient/PoTO/Saved/Walls1AFF3EC5C4DAD886F0E0FA6919613A8F3.tmp' to '../../../../../../../School/Repositories/Unreal_Pearl-of-the-Orient/PoTO/Content/Props/Polvorin/Walls/SharedTexture/Walls1.uasset'
+[2022.02.28-05.01.30:645][400]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2022.02.28-05.01.30:665][400]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2022.02.28-05.01.30:674][400]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2022.02.28-05.01.30:755][400]LogSavePackage: Moving '../../../../../../../School/Repositories/Unreal_Pearl-of-the-Orient/PoTO/Saved/Door5332ED1C48CACEDB64CD50880AD8B151.tmp' to '../../../../../../../School/Repositories/Unreal_Pearl-of-the-Orient/PoTO/Content/Props/Polvorin/Walls/Door/Door.uasset'
+[2022.02.28-05.01.30:822][400]LogSavePackage: Moving '../../../../../../../School/Repositories/Unreal_Pearl-of-the-Orient/PoTO/Saved/Walls6EEA42E64C37370FE631C49F8C67B16B.tmp' to '../../../../../../../School/Repositories/Unreal_Pearl-of-the-Orient/PoTO/Content/Props/Polvorin/Walls/Window/Walls.uasset'
+[2022.02.28-05.01.30:908][400]AssetCheck: New page: Asset Save: multiple assets
+[2022.02.28-05.01.30:908][400]LogContentValidation: Display: Validating StaticMesh /Game/Props/Polvorin/Walls/Door/Door.Door
+[2022.02.28-05.01.30:908][400]LogContentValidation: Display: Validating Material /Game/Props/Polvorin/Walls/SharedTexture/Walls1.Walls1
+[2022.02.28-05.01.30:908][400]LogContentValidation: Display: Validating StaticMesh /Game/Props/Polvorin/Walls/Window/Walls.Walls
+[2022.02.28-05.01.40:811][855]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Props/Polvorin/Walls" FILE="../../../../../../../School/Repositories/Unreal_Pearl-of-the-Orient/PoTO/Content/Props/Polvorin/Walls.uasset" SILENT=true
+[2022.02.28-05.01.40:886][855]LogSavePackage: Moving '../../../../../../../School/Repositories/Unreal_Pearl-of-the-Orient/PoTO/Saved/Walls00D1CD714008F7948D96E8B9201565EF.tmp' to '../../../../../../../School/Repositories/Unreal_Pearl-of-the-Orient/PoTO/Content/Props/Polvorin/Walls.uasset'
+[2022.02.28-05.01.40:962][855]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2022.02.28-05.01.40:982][855]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2022.02.28-05.01.40:990][855]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2022.02.28-05.01.41:083][855]AssetCheck: New page: Asset Save: Walls
+[2022.02.28-05.01.41:083][855]LogContentValidation: Display: Validating StaticMesh /Game/Props/Polvorin/Walls.Walls
+[2022.02.28-05.01.49:264][246]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Props/Polvorin/Door" FILE="../../../../../../../School/Repositories/Unreal_Pearl-of-the-Orient/PoTO/Content/Props/Polvorin/Door.uasset" SILENT=true
+[2022.02.28-05.01.49:311][246]LogSavePackage: Moving '../../../../../../../School/Repositories/Unreal_Pearl-of-the-Orient/PoTO/Saved/DoorDE877D174E5FE73C183FE5A5EB374ACE.tmp' to '../../../../../../../School/Repositories/Unreal_Pearl-of-the-Orient/PoTO/Content/Props/Polvorin/Door.uasset'
+[2022.02.28-05.01.49:385][246]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2022.02.28-05.01.49:401][246]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2022.02.28-05.01.49:408][246]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2022.02.28-05.01.49:487][246]AssetCheck: New page: Asset Save: Door
+[2022.02.28-05.01.49:487][246]LogContentValidation: Display: Validating StaticMesh /Game/Props/Polvorin/Door.Door
+[2022.02.28-05.02.04:006][891]LogSavePackage: Moving '../../../../../../../School/Repositories/Unreal_Pearl-of-the-Orient/PoTO/Saved/TexturesCom_Wall_BlockConcrete4_9536B1B54545C1EC8555BE8B757B06D6.tmp' to '../../../../../../../School/Repositories/Unreal_Pearl-of-the-Orient/PoTO/Content/Props/Polvorin/Walls/SharedTexture/TexturesCom_Wall_BlockConcrete4_2x2_1K_albedo.uasset'
+[2022.02.28-05.02.04:074][891]LogSavePackage: Moving '../../../../../../../School/Repositories/Unreal_Pearl-of-the-Orient/PoTO/Saved/TexturesCom_Wall_BlockConcrete4_EE0DA36A4D6C69CF37B798B5FBADA87A.tmp' to '../../../../../../../School/Repositories/Unreal_Pearl-of-the-Orient/PoTO/Content/Props/Polvorin/Walls/SharedTexture/TexturesCom_Wall_BlockConcrete4_2x2_1K_normal.uasset'
+[2022.02.28-05.02.04:101][891]LogSavePackage: Moving '../../../../../../../School/Repositories/Unreal_Pearl-of-the-Orient/PoTO/Saved/TexturesCom_Wall_BlockConcrete4_E1B8445048CF7DC4F2885D9184BAAA45.tmp' to '../../../../../../../School/Repositories/Unreal_Pearl-of-the-Orient/PoTO/Content/Props/Polvorin/Walls/SharedTexture/TexturesCom_Wall_BlockConcrete4_2x2_1K_height.uasset'
+[2022.02.28-05.02.04:132][891]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2022.02.28-05.02.07:055][891]LogStats: FPlatformStackWalk::StackWalkAndDump -  2.924 s
+[2022.02.28-05.02.07:076][891]LogOutputDevice: Error: === Handled ensure: ===
+[2022.02.28-05.02.07:076][891]LogOutputDevice: Error: 
+[2022.02.28-05.02.07:076][891]LogOutputDevice: Error: Ensure condition failed: !SeenPaths.Contains(NewPath) [File:D:/Build/++UE4/Sync/Engine/Source/Runtime/CoreUObject/Private/Misc/RedirectCollector.cpp] [Line: 222]
+[2022.02.28-05.02.07:076][891]LogOutputDevice: Error: Found circular redirect from /Game/Props/Polvorin/Walls/SharedTexture/TexturesCom_Wall_BlockConcrete4_2x2_1K_albedo.TexturesCom_Wall_BlockConcrete4_2x2_1K_albedo to /Game/Props/Polvorin/Walls/SharedTexture/TexturesCom_Wall_BlockConcrete4_2x2_1K_albedo.TexturesCom_Wall_BlockConcrete4_2x2_1K_albedo! Returning None instead
+[2022.02.28-05.02.07:076][891]LogOutputDevice: Error: Stack: 
+[2022.02.28-05.02.07:076][891]LogOutputDevice: Error: [Callstack] 0x00007ffc62197093 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2022.02.28-05.02.07:076][891]LogOutputDevice: Error: [Callstack] 0x00007ffc61d427e0 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2022.02.28-05.02.07:076][891]LogOutputDevice: Error: [Callstack] 0x00007ffc6207f1a6 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2022.02.28-05.02.07:076][891]LogOutputDevice: Error: [Callstack] 0x00007ffc620982be UE4Editor-CoreUObject.dll!UnknownFunction []
+[2022.02.28-05.02.07:076][891]LogOutputDevice: Error: [Callstack] 0x00007ffc61d77c47 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2022.02.28-05.02.07:077][891]LogOutputDevice: Error: [Callstack] 0x00007ffc44635082 UE4Editor-Core.dll!UnknownFunction []
+[2022.02.28-05.02.07:077][891]LogOutputDevice: Error: [Callstack] 0x00007ffc6208fc33 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2022.02.28-05.02.07:077][891]LogOutputDevice: Error: [Callstack] 0x00007ffc61f8e789 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2022.02.28-05.02.07:077][891]LogOutputDevice: Error: [Callstack] 0x00007ffc61ee57f6 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2022.02.28-05.02.07:077][891]LogOutputDevice: Error: [Callstack] 0x00007ffc62043e37 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2022.02.28-05.02.07:077][891]LogOutputDevice: Error: [Callstack] 0x00007ffc620443b4 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2022.02.28-05.02.07:077][891]LogOutputDevice: Error: [Callstack] 0x00007ffc61ee8543 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2022.02.28-05.02.07:077][891]LogOutputDevice: Error: [Callstack] 0x00007ffc61ee5ffc UE4Editor-CoreUObject.dll!UnknownFunction []
+[2022.02.28-05.02.07:077][891]LogOutputDevice: Error: [Callstack] 0x00007ffc61ee590e UE4Editor-CoreUObject.dll!UnknownFunction []
+[2022.02.28-05.02.07:077][891]LogOutputDevice: Error: [Callstack] 0x00007ffc62043e37 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2022.02.28-05.02.07:077][891]LogOutputDevice: Error: [Callstack] 0x00007ffc61fd9115 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2022.02.28-05.02.07:077][891]LogOutputDevice: Error: [Callstack] 0x00007ffc620443b4 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2022.02.28-05.02.07:077][891]LogOutputDevice: Error: [Callstack] 0x00007ffc61ee8543 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2022.02.28-05.02.07:077][891]LogOutputDevice: Error: [Callstack] 0x00007ffc61ee5ffc UE4Editor-CoreUObject.dll!UnknownFunction []
+[2022.02.28-05.02.07:077][891]LogOutputDevice: Error: [Callstack] 0x00007ffc61fd94a4 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2022.02.28-05.02.07:077][891]LogOutputDevice: Error: [Callstack] 0x00007ffc61fd7a90 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2022.02.28-05.02.07:077][891]LogOutputDevice: Error: [Callstack] 0x00007ffc61fd74fb UE4Editor-CoreUObject.dll!UnknownFunction []
+[2022.02.28-05.02.07:077][891]LogOutputDevice: Error: [Callstack] 0x00007ffc41e2c727 UE4Editor-Engine.dll!UnknownFunction []
+[2022.02.28-05.02.07:077][891]LogOutputDevice: Error: [Callstack] 0x00007ffc62026742 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2022.02.28-05.02.07:077][891]LogOutputDevice: Error: [Callstack] 0x00007ffc620489cb UE4Editor-CoreUObject.dll!UnknownFunction []
+[2022.02.28-05.02.07:077][891]LogOutputDevice: Error: [Callstack] 0x00007ffc6202df5c UE4Editor-CoreUObject.dll!UnknownFunction []
+[2022.02.28-05.02.07:077][891]LogOutputDevice: Error: [Callstack] 0x00007ffc3f7a26be UE4Editor-UnrealEd.dll!UnknownFunction []
+[2022.02.28-05.02.07:077][891]LogOutputDevice: Error: [Callstack] 0x00007ffc3f7a31ae UE4Editor-UnrealEd.dll!UnknownFunction []
+[2022.02.28-05.02.07:077][891]LogOutputDevice: Error: [Callstack] 0x00007ffc3f7de6b2 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2022.02.28-05.02.07:077][891]LogOutputDevice: Error: [Callstack] 0x00007ffc3f7dafec UE4Editor-UnrealEd.dll!UnknownFunction []
+[2022.02.28-05.02.07:077][891]LogOutputDevice: Error: [Callstack] 0x00007ffc4005db77 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2022.02.28-05.02.07:077][891]LogOutputDevice: Error: [Callstack] 0x00007ffc3fada5c3 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2022.02.28-05.02.07:077][891]LogOutputDevice: Error: [Callstack] 0x00007ffc3fad8edd UE4Editor-UnrealEd.dll!UnknownFunction []
+[2022.02.28-05.02.07:077][891]LogOutputDevice: Error: [Callstack] 0x00007ffc3fb01f80 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2022.02.28-05.02.07:077][891]LogOutputDevice: Error: [Callstack] 0x00007ffc3458e137 UE4Editor-AssetTools.dll!UnknownFunction []
+[2022.02.28-05.02.07:077][891]LogOutputDevice: Error: [Callstack] 0x00007ffc3452fd9a UE4Editor-AssetTools.dll!UnknownFunction []
+[2022.02.28-05.02.07:077][891]LogOutputDevice: Error: [Callstack] 0x00007ffc345a8b02 UE4Editor-AssetTools.dll!UnknownFunction []
+[2022.02.28-05.02.07:077][891]LogOutputDevice: Error: [Callstack] 0x00007ffc34574a02 UE4Editor-AssetTools.dll!UnknownFunction []
+[2022.02.28-05.02.07:077][891]LogOutputDevice: Error: [Callstack] 0x00007ffc3457516e UE4Editor-AssetTools.dll!UnknownFunction []
+[2022.02.28-05.02.07:077][891]LogOutputDevice: Error: [Callstack] 0x00007ffc21465fa3 UE4Editor-ContentBrowserAssetDataSource.dll!UnknownFunction []
+[2022.02.28-05.02.07:077][891]LogOutputDevice: Error: [Callstack] 0x00007ffc21466276 UE4Editor-ContentBrowserAssetDataSource.dll!UnknownFunction []
+[2022.02.28-05.02.07:077][891]LogOutputDevice: Error: [Callstack] 0x00007ffc21427d60 UE4Editor-ContentBrowserAssetDataSource.dll!UnknownFunction []
+[2022.02.28-05.02.07:077][891]LogOutputDevice: Error: [Callstack] 0x00007ffc3515a52f UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2022.02.28-05.02.07:077][891]LogOutputDevice: Error: [Callstack] 0x00007ffc3519550b UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2022.02.28-05.02.07:077][891]LogOutputDevice: Error: [Callstack] 0x00007ffc351f1ccd UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2022.02.28-05.02.07:077][891]LogOutputDevice: Error: [Callstack] 0x00007ffc6136ee15 UE4Editor-Slate.dll!UnknownFunction []
+[2022.02.28-05.02.07:077][891]LogOutputDevice: Error: [Callstack] 0x00007ffc61375600 UE4Editor-Slate.dll!UnknownFunction []
+[2022.02.28-05.02.07:077][891]LogOutputDevice: Error: [Callstack] 0x00007ffc6134b807 UE4Editor-Slate.dll!UnknownFunction []
+[2022.02.28-05.02.07:077][891]LogOutputDevice: Error: [Callstack] 0x00007ffc613e859e UE4Editor-Slate.dll!UnknownFunction []
+[2022.02.28-05.02.07:077][891]LogOutputDevice: Error: [Callstack] 0x00007ffc6140071e UE4Editor-Slate.dll!UnknownFunction []
+[2022.02.28-05.02.07:078][891]LogOutputDevice: Error: [Callstack] 0x00007ffc61376d75 UE4Editor-Slate.dll!UnknownFunction []
+[2022.02.28-05.02.07:078][891]LogOutputDevice: Error: [Callstack] 0x00007ffc612446be UE4Editor-Slate.dll!UnknownFunction []
+[2022.02.28-05.02.07:078][891]LogOutputDevice: Error: [Callstack] 0x00007ffc612c7f14 UE4Editor-Slate.dll!UnknownFunction []
+[2022.02.28-05.02.07:078][891]LogOutputDevice: Error: [Callstack] 0x00007ffc612b0337 UE4Editor-Slate.dll!UnknownFunction []
+[2022.02.28-05.02.07:078][891]LogOutputDevice: Error: [Callstack] 0x00007ffc612a3632 UE4Editor-Slate.dll!UnknownFunction []
+[2022.02.28-05.02.07:078][891]LogOutputDevice: Error: [Callstack] 0x00007ffc79f7bcb5 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2022.02.28-05.02.07:078][891]LogOutputDevice: Error: [Callstack] 0x00007ffc79f69197 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2022.02.28-05.02.07:078][891]LogOutputDevice: Error: [Callstack] 0x00007ffc79f7e389 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2022.02.28-05.02.07:078][891]LogOutputDevice: Error: [Callstack] 0x00007ffc79f64310 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2022.02.28-05.02.07:078][891]LogOutputDevice: Error: [Callstack] 0x00007ffcde291c4c USER32.dll!UnknownFunction []
+[2022.02.28-05.02.07:078][891]LogOutputDevice: Error: [Callstack] 0x00007ffcde290ea6 USER32.dll!UnknownFunction []
+[2022.02.28-05.02.07:078][891]LogOutputDevice: Error: [Callstack] 0x00007ffc79f7f914 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2022.02.28-05.02.07:078][891]LogOutputDevice: Error: [Callstack] 0x00007ff735108848 UE4Editor.exe!UnknownFunction []
+[2022.02.28-05.02.07:078][891]LogOutputDevice: Error: [Callstack] 0x00007ff73512117c UE4Editor.exe!UnknownFunction []
+[2022.02.28-05.02.07:078][891]LogOutputDevice: Error: [Callstack] 0x00007ff73512125a UE4Editor.exe!UnknownFunction []
+[2022.02.28-05.02.07:078][891]LogOutputDevice: Error: [Callstack] 0x00007ff7351352bd UE4Editor.exe!UnknownFunction []
+[2022.02.28-05.02.07:078][891]LogOutputDevice: Error: [Callstack] 0x00007ff735137fea UE4Editor.exe!UnknownFunction []
+[2022.02.28-05.02.07:078][891]LogOutputDevice: Error: [Callstack] 0x00007ffcdf5654e0 KERNEL32.DLL!UnknownFunction []
+[2022.02.28-05.02.07:078][891]LogOutputDevice: Error: [Callstack] 0x00007ffce038485b ntdll.dll!UnknownFunction []
+[2022.02.28-05.02.07:078][891]LogOutputDevice: Error: 

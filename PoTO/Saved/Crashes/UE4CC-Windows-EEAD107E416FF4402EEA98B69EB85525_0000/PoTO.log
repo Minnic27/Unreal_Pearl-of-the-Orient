@@ -1,0 +1,1337 @@
+﻿Log file open, 03/07/22 20:36:58
+LogInit: LLM is enabled
+LogInit: LLM CsvWriter: off TraceWriter: off
+LogInit: Display: Running engine for game: PoTO
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.345378
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +8:00, Platform Override: ''
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin GPULightmass
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin SteamVR
+LogXGEController: Cleaning working directory: C:/Users/Asus/AppData/Local/Temp/UnrealXGEWorkingDir/
+LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogGPULightmass: GPULightmass module is loaded
+LogInit: Build: ++UE4+Release-4.26-CL-15973114
+LogInit: Engine Version: 4.26.2-15973114+++UE4+Release-4.26
+LogInit: Compatible Engine Version: 4.26.0-14830424+++UE4+Release-4.26
+LogInit: Net CL: 14830424
+LogInit: OS: Windows 10 (Release 2009) (), CPU: AMD Ryzen 7 3750H with Radeon Vega Mobile Gfx  , GPU: AMD Radeon(TM) RX Vega 10 Graphics
+LogInit: Compiled (64-bit): Apr 12 2021 06:14:10
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.26
+LogInit: Command Line: 
+LogInit: Base Directory: D:/MyFiles/Softwares/Games/Epic Games/UE_4.26/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 4
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 44
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 12
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 43
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 40
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/MyFiles/School/Repositories/Unreal_Pearl-of-the-Orient/PoTO/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2022.03.07-12.36.59:563][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2022.03.07-12.36.59:563][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2022.03.07-12.36.59:563][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/MyFiles/School/Repositories/Unreal_Pearl-of-the-Orient/PoTO/Saved/Config/Windows/Engine.ini]
+[2022.03.07-12.36.59:563][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2022.03.07-12.36.59:563][  0]LogConfig: Setting CVar [[r.SkinCache.CompileShaders:1]]
+[2022.03.07-12.36.59:563][  0]LogConfig: Setting CVar [[r.RayTracing:1]]
+[2022.03.07-12.36.59:563][  0]LogConfig: Setting CVar [[r.VirtualTextures:1]]
+[2022.03.07-12.36.59:563][  0]LogConfig: Setting CVar [[r.VirtualTexturedLightmaps:1]]
+[2022.03.07-12.36.59:563][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [D:/MyFiles/School/Repositories/Unreal_Pearl-of-the-Orient/PoTO/Saved/Config/Windows/Engine.ini]
+[2022.03.07-12.36.59:563][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/MyFiles/School/Repositories/Unreal_Pearl-of-the-Orient/PoTO/Saved/Config/Windows/Engine.ini]
+[2022.03.07-12.36.59:563][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2022.03.07-12.36.59:563][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2022.03.07-12.36.59:563][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2022.03.07-12.36.59:563][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2022.03.07-12.36.59:563][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2022.03.07-12.36.59:563][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2022.03.07-12.36.59:563][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2022.03.07-12.36.59:563][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2022.03.07-12.36.59:563][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2022.03.07-12.36.59:563][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2022.03.07-12.36.59:563][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2022.03.07-12.36.59:563][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2022.03.07-12.36.59:563][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2022.03.07-12.36.59:563][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2022.03.07-12.36.59:563][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [D:/MyFiles/School/Repositories/Unreal_Pearl-of-the-Orient/PoTO/Saved/Config/Windows/Engine.ini]
+[2022.03.07-12.36.59:563][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2022.03.07-12.36.59:563][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2022.03.07-12.36.59:563][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2022.03.07-12.36.59:563][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2022.03.07-12.36.59:563][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2022.03.07-12.36.59:564][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2022.03.07-12.36.59:564][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2022.03.07-12.36.59:564][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2022.03.07-12.36.59:564][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2022.03.07-12.36.59:564][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2022.03.07-12.36.59:564][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2022.03.07-12.36.59:564][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2022.03.07-12.36.59:564][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2022.03.07-12.36.59:564][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2022.03.07-12.36.59:564][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [D:/MyFiles/School/Repositories/Unreal_Pearl-of-the-Orient/PoTO/Saved/Config/Windows/Engine.ini]
+[2022.03.07-12.36.59:564][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [D:/MyFiles/School/Repositories/Unreal_Pearl-of-the-Orient/PoTO/Saved/Config/Windows/Engine.ini]
+[2022.03.07-12.36.59:570][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/MyFiles/School/Repositories/Unreal_Pearl-of-the-Orient/PoTO/Saved/Config/Windows/Scalability.ini]
+[2022.03.07-12.36.59:570][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2022.03.07-12.36.59:570][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2022.03.07-12.36.59:570][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/MyFiles/School/Repositories/Unreal_Pearl-of-the-Orient/PoTO/Saved/Config/Windows/Scalability.ini]
+[2022.03.07-12.36.59:570][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2022.03.07-12.36.59:570][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/MyFiles/School/Repositories/Unreal_Pearl-of-the-Orient/PoTO/Saved/Config/Windows/Scalability.ini]
+[2022.03.07-12.36.59:570][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2022.03.07-12.36.59:570][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2022.03.07-12.36.59:570][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2022.03.07-12.36.59:570][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2022.03.07-12.36.59:570][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2022.03.07-12.36.59:570][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2022.03.07-12.36.59:570][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2022.03.07-12.36.59:570][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2022.03.07-12.36.59:570][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2022.03.07-12.36.59:570][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2022.03.07-12.36.59:570][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2022.03.07-12.36.59:570][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2022.03.07-12.36.59:570][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2022.03.07-12.36.59:570][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2022.03.07-12.36.59:570][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2022.03.07-12.36.59:570][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2022.03.07-12.36.59:570][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2022.03.07-12.36.59:570][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2022.03.07-12.36.59:570][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/MyFiles/School/Repositories/Unreal_Pearl-of-the-Orient/PoTO/Saved/Config/Windows/Scalability.ini]
+[2022.03.07-12.36.59:570][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2022.03.07-12.36.59:570][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2022.03.07-12.36.59:570][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2022.03.07-12.36.59:570][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2022.03.07-12.36.59:570][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2022.03.07-12.36.59:570][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2022.03.07-12.36.59:570][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2022.03.07-12.36.59:570][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2022.03.07-12.36.59:570][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2022.03.07-12.36.59:570][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2022.03.07-12.36.59:571][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2022.03.07-12.36.59:571][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2022.03.07-12.36.59:571][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2022.03.07-12.36.59:571][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2022.03.07-12.36.59:571][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2022.03.07-12.36.59:571][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2022.03.07-12.36.59:571][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2022.03.07-12.36.59:571][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2022.03.07-12.36.59:571][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2022.03.07-12.36.59:571][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2022.03.07-12.36.59:571][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2022.03.07-12.36.59:571][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2022.03.07-12.36.59:571][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2022.03.07-12.36.59:571][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2022.03.07-12.36.59:571][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2022.03.07-12.36.59:571][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2022.03.07-12.36.59:571][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2022.03.07-12.36.59:571][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2022.03.07-12.36.59:571][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2022.03.07-12.36.59:571][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2022.03.07-12.36.59:571][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/MyFiles/School/Repositories/Unreal_Pearl-of-the-Orient/PoTO/Saved/Config/Windows/Scalability.ini]
+[2022.03.07-12.36.59:571][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2022.03.07-12.36.59:571][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2022.03.07-12.36.59:571][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2022.03.07-12.36.59:571][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2022.03.07-12.36.59:571][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2022.03.07-12.36.59:571][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2022.03.07-12.36.59:571][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2022.03.07-12.36.59:571][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2022.03.07-12.36.59:571][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2022.03.07-12.36.59:571][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/MyFiles/School/Repositories/Unreal_Pearl-of-the-Orient/PoTO/Saved/Config/Windows/Scalability.ini]
+[2022.03.07-12.36.59:571][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2022.03.07-12.36.59:571][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2022.03.07-12.36.59:571][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2022.03.07-12.36.59:571][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2022.03.07-12.36.59:571][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2022.03.07-12.36.59:571][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2022.03.07-12.36.59:571][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2022.03.07-12.36.59:571][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2022.03.07-12.36.59:571][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2022.03.07-12.36.59:571][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2022.03.07-12.36.59:571][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2022.03.07-12.36.59:571][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2022.03.07-12.36.59:571][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2022.03.07-12.36.59:571][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2022.03.07-12.36.59:571][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2022.03.07-12.36.59:571][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2022.03.07-12.36.59:571][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2022.03.07-12.36.59:571][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2022.03.07-12.36.59:571][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2022.03.07-12.36.59:571][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2022.03.07-12.36.59:571][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2022.03.07-12.36.59:571][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2022.03.07-12.36.59:571][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2022.03.07-12.36.59:571][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2022.03.07-12.36.59:571][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2022.03.07-12.36.59:571][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2022.03.07-12.36.59:571][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2022.03.07-12.36.59:571][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/MyFiles/School/Repositories/Unreal_Pearl-of-the-Orient/PoTO/Saved/Config/Windows/Scalability.ini]
+[2022.03.07-12.36.59:571][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2022.03.07-12.36.59:571][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2022.03.07-12.36.59:571][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/MyFiles/School/Repositories/Unreal_Pearl-of-the-Orient/PoTO/Saved/Config/Windows/Scalability.ini]
+[2022.03.07-12.36.59:572][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2022.03.07-12.36.59:572][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2022.03.07-12.36.59:572][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2022.03.07-12.36.59:572][  0]LogInit: Selected Device Profile: [Windows]
+[2022.03.07-12.36.59:572][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2022.03.07-12.36.59:572][  0]LogHAL: Display: Platform has ~ 16 GB [16575537152 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2022.03.07-12.36.59:572][  0]LogInit: Going up to parent DeviceProfile []
+[2022.03.07-12.36.59:572][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@2] File [D:/MyFiles/School/Repositories/Unreal_Pearl-of-the-Orient/PoTO/Saved/Config/Windows/Scalability.ini]
+[2022.03.07-12.36.59:572][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2022.03.07-12.36.59:572][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:0.8]]
+[2022.03.07-12.36.59:572][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@2] File [D:/MyFiles/School/Repositories/Unreal_Pearl-of-the-Orient/PoTO/Saved/Config/Windows/Scalability.ini]
+[2022.03.07-12.36.59:572][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:3]]
+[2022.03.07-12.36.59:572][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@0] File [D:/MyFiles/School/Repositories/Unreal_Pearl-of-the-Orient/PoTO/Saved/Config/Windows/Scalability.ini]
+[2022.03.07-12.36.59:572][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:0]]
+[2022.03.07-12.36.59:572][  0]LogConfig: Setting CVar [[r.ShadowQuality:0]]
+[2022.03.07-12.36.59:572][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:1]]
+[2022.03.07-12.36.59:572][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:512]]
+[2022.03.07-12.36.59:572][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:512]]
+[2022.03.07-12.36.59:572][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.06]]
+[2022.03.07-12.36.59:572][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:0.6]]
+[2022.03.07-12.36.59:572][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:0]]
+[2022.03.07-12.36.59:572][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:0.5]]
+[2022.03.07-12.36.59:572][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:0]]
+[2022.03.07-12.36.59:572][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:0]]
+[2022.03.07-12.36.59:572][  0]LogConfig: Setting CVar [[r.VolumetricFog:0]]
+[2022.03.07-12.36.59:572][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:0]]
+[2022.03.07-12.36.59:572][  0]LogConfig: Setting CVar [[r.CapsuleShadows:0]]
+[2022.03.07-12.36.59:572][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@2] File [D:/MyFiles/School/Repositories/Unreal_Pearl-of-the-Orient/PoTO/Saved/Config/Windows/Scalability.ini]
+[2022.03.07-12.36.59:572][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:3]]
+[2022.03.07-12.36.59:572][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.6]]
+[2022.03.07-12.36.59:572][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2022.03.07-12.36.59:572][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2022.03.07-12.36.59:572][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.5]]
+[2022.03.07-12.36.59:572][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2022.03.07-12.36.59:572][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2022.03.07-12.36.59:572][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2022.03.07-12.36.59:572][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2022.03.07-12.36.59:572][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2022.03.07-12.36.59:572][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2022.03.07-12.36.59:572][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:3]]
+[2022.03.07-12.36.59:572][  0]LogConfig: Setting CVar [[r.Upscale.Quality:2]]
+[2022.03.07-12.36.59:572][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2022.03.07-12.36.59:572][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2022.03.07-12.36.59:572][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:0.8]]
+[2022.03.07-12.36.59:572][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2022.03.07-12.36.59:572][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:0        ; lower gathering accumulator quality]]
+[2022.03.07-12.36.59:572][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:2          ; Max3x3 postfilering method]]
+[2022.03.07-12.36.59:572][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2022.03.07-12.36.59:572][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2022.03.07-12.36.59:572][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2022.03.07-12.36.59:573][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:1    ; no background occlusion]]
+[2022.03.07-12.36.59:573][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:0      ; no bokeh simulation when scattering]]
+[2022.03.07-12.36.59:573][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.04        ; only a maximum of 4% of scattered bokeh]]
+[2022.03.07-12.36.59:573][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:0                ; no slight out of focus]]
+[2022.03.07-12.36.59:573][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:0                ; faster temporal accumulation]]
+[2022.03.07-12.36.59:573][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.012   ; required because of AccumulatorQuality=0]]
+[2022.03.07-12.36.59:573][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.012   ; required because of AccumulatorQuality=0]]
+[2022.03.07-12.36.59:573][  0]LogConfig: Applying CVar settings from Section [TextureQuality@0] File [D:/MyFiles/School/Repositories/Unreal_Pearl-of-the-Orient/PoTO/Saved/Config/Windows/Scalability.ini]
+[2022.03.07-12.36.59:573][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:16]]
+[2022.03.07-12.36.59:573][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:1]]
+[2022.03.07-12.36.59:573][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:1]]
+[2022.03.07-12.36.59:573][  0]LogConfig: Setting CVar [[r.Streaming.Boost:0.3]]
+[2022.03.07-12.36.59:573][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:0]]
+[2022.03.07-12.36.59:573][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:4]]
+[2022.03.07-12.36.59:573][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:1]]
+[2022.03.07-12.36.59:573][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:400]]
+[2022.03.07-12.36.59:573][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2022.03.07-12.36.59:573][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@2] File [D:/MyFiles/School/Repositories/Unreal_Pearl-of-the-Orient/PoTO/Saved/Config/Windows/Scalability.ini]
+[2022.03.07-12.36.59:573][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:48]]
+[2022.03.07-12.36.59:573][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2022.03.07-12.36.59:573][  0]LogConfig: Setting CVar [[r.SSR.Quality:2]]
+[2022.03.07-12.36.59:573][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:1]]
+[2022.03.07-12.36.59:573][  0]LogConfig: Setting CVar [[r.SceneColorFormat:3]]
+[2022.03.07-12.36.59:573][  0]LogConfig: Setting CVar [[r.DetailMode:1]]
+[2022.03.07-12.36.59:573][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2022.03.07-12.36.59:573][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2022.03.07-12.36.59:573][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2022.03.07-12.36.59:573][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2022.03.07-12.36.59:573][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:1]]
+[2022.03.07-12.36.59:573][  0]LogConfig: Setting CVar [[r.SSS.Quality:-1]]
+[2022.03.07-12.36.59:573][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2022.03.07-12.36.59:573][  0]LogConfig: Setting CVar [[r.SSGI.Quality:2]]
+[2022.03.07-12.36.59:573][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:0.5]]
+[2022.03.07-12.36.59:573][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:1]]
+[2022.03.07-12.36.59:573][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2022.03.07-12.36.59:573][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:2]]
+[2022.03.07-12.36.59:573][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2022.03.07-12.36.59:573][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2022.03.07-12.36.59:573][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2022.03.07-12.36.59:573][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:64.0]]
+[2022.03.07-12.36.59:573][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2022.03.07-12.36.59:573][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:64.0]]
+[2022.03.07-12.36.59:573][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2022.03.07-12.36.59:573][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2022.03.07-12.36.59:573][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2022.03.07-12.36.59:573][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@0] File [D:/MyFiles/School/Repositories/Unreal_Pearl-of-the-Orient/PoTO/Saved/Config/Windows/Scalability.ini]
+[2022.03.07-12.36.59:573][  0]LogConfig: Setting CVar [[foliage.DensityScale:0]]
+[2022.03.07-12.36.59:573][  0]LogConfig: Setting CVar [[grass.DensityScale:0]]
+[2022.03.07-12.36.59:573][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@2] File [D:/MyFiles/School/Repositories/Unreal_Pearl-of-the-Orient/PoTO/Saved/Config/Windows/Scalability.ini]
+[2022.03.07-12.36.59:573][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2022.03.07-12.36.59:573][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2022.03.07-12.36.59:573][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2022.03.07-12.36.59:573][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2022.03.07-12.36.59:573][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2022.03.07-12.36.59:573][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2022.03.07-12.36.59:574][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2022.03.07-12.36.59:574][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/MyFiles/School/Repositories/Unreal_Pearl-of-the-Orient/PoTO/Saved/Config/Windows/Engine.ini]
+[2022.03.07-12.36.59:574][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/MyFiles/School/Repositories/Unreal_Pearl-of-the-Orient/PoTO/Saved/Config/Windows/Editor.ini]
+[2022.03.07-12.36.59:574][  0]LogInit: Computer: KYRILIOS
+[2022.03.07-12.36.59:574][  0]LogInit: User: Asus
+[2022.03.07-12.36.59:574][  0]LogInit: CPU Page size=4096, Cores=4
+[2022.03.07-12.36.59:574][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2022.03.07-12.36.59:574][  0]LogMemory: Memory total: Physical=15.4GB (16GB approx)
+[2022.03.07-12.36.59:574][  0]LogMemory: Platform Memory Stats for Windows
+[2022.03.07-12.36.59:574][  0]LogMemory: Process Physical Memory: 139.23 MB used, 139.23 MB peak
+[2022.03.07-12.36.59:574][  0]LogMemory: Process Virtual Memory: 157.59 MB used, 157.59 MB peak
+[2022.03.07-12.36.59:574][  0]LogMemory: Physical Memory: 6883.51 MB used,  8924.15 MB free, 15807.66 MB total
+[2022.03.07-12.36.59:574][  0]LogMemory: Virtual Memory: 134209136.00 MB used,  8589.38 MB free, 134217728.00 MB total
+[2022.03.07-12.36.59:581][  0]LogWindows: WindowsPlatformFeatures enabled
+[2022.03.07-12.36.59:635][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2022.03.07-12.36.59:639][  0]LogInit: Using OS detected language (en-US).
+[2022.03.07-12.36.59:639][  0]LogInit: Using OS detected locale (en-PH).
+[2022.03.07-12.36.59:642][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2022.03.07-12.36.59:889][  0]LogInit: Setting process to per monitor DPI aware
+[2022.03.07-12.36.59:907][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.03.07-12.36.59:977][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2022.03.07-12.36.59:977][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2022.03.07-12.37.00:154][  0]LogD3D12RHI: Aftermath initialized
+[2022.03.07-12.37.00:154][  0]LogD3D12RHI: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
+[2022.03.07-12.37.00:210][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2022.03.07-12.37.00:409][  0]LogD3D12RHI: Found D3D12 adapter 0: NVIDIA GeForce GTX 1660 Ti (Max supported Feature Level 12_1)
+[2022.03.07-12.37.00:409][  0]LogD3D12RHI: Adapter has 5991MB of dedicated video memory, 0MB of dedicated system memory, and 7903MB of shared system memory, 1 output[s]
+[2022.03.07-12.37.00:515][  0]LogD3D12RHI: Found D3D12 adapter 1: AMD Radeon(TM) RX Vega 10 Graphics (Max supported Feature Level 12_1)
+[2022.03.07-12.37.00:516][  0]LogD3D12RHI: Adapter has 497MB of dedicated video memory, 0MB of dedicated system memory, and 7903MB of shared system memory, 0 output[s]
+[2022.03.07-12.37.00:530][  0]LogD3D12RHI: Found D3D12 adapter 2: Microsoft Basic Render Driver (Max supported Feature Level 12_1)
+[2022.03.07-12.37.00:530][  0]LogD3D12RHI: Adapter has 0MB of dedicated video memory, 0MB of dedicated system memory, and 7903MB of shared system memory, 0 output[s]
+[2022.03.07-12.37.00:530][  0]LogD3D12RHI: Forcing D3D12.AsyncDeferredDeletion=0 as a workaround for a deadlock.
+[2022.03.07-12.37.00:530][  0]LogD3D12RHI: Chosen D3D12 Adapter Id = 0
+[2022.03.07-12.37.00:547][  0]LogD3D12RHI: InitD3DDevice: -D3DDebug = off -D3D12GPUValidation = off
+[2022.03.07-12.37.00:547][  0]LogD3D12RHI: Emitting draw events for PIX profiling.
+[2022.03.07-12.37.00:660][  0]LogD3D12RHI: The system supports ID3D12Device1.
+[2022.03.07-12.37.00:660][  0]LogD3D12RHI: The system supports ID3D12Device2.
+[2022.03.07-12.37.00:660][  0]LogD3D12RHI: The system supports ID3D12Device5.
+[2022.03.07-12.37.00:661][  0]LogD3D12RHI: The system supports ID3D12Device7.
+[2022.03.07-12.37.00:661][  0]LogD3D12RHI: D3D12 ray tracing 1.0 is supported.
+[2022.03.07-12.37.00:748][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for 3D Queue 0
+[2022.03.07-12.37.00:760][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for Copy Queue 0
+[2022.03.07-12.37.00:796][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for Compute Queue 0
+[2022.03.07-12.37.00:805][  0]LogD3D12RHI: Display: Not using pipeline state disk cache per r.D3D12.PSO.DiskCache=0
+[2022.03.07-12.37.00:805][  0]LogD3D12RHI: Display: Not using driver-optimized pipeline state disk cache per r.D3D12.PSO.DriverOptimizedDiskCache=0
+[2022.03.07-12.37.00:807][  0]LogD3D12RHI:     GPU DeviceId: 0x2191 (for the marketing name, search the web for "GPU Device Id")
+[2022.03.07-12.37.00:807][  0]LogWindows: EnumDisplayDevices:
+[2022.03.07-12.37.00:807][  0]LogWindows:    0. 'AMD Radeon(TM) RX Vega 10 Graphics' (P:1 D:1)
+[2022.03.07-12.37.00:808][  0]LogWindows:    1. 'AMD Radeon(TM) RX Vega 10 Graphics' (P:0 D:0)
+[2022.03.07-12.37.00:808][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1660 Ti' (P:0 D:0)
+[2022.03.07-12.37.00:808][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter 
+[2022.03.07-12.37.00:809][  0]LogD3D12RHI:     Adapter Name: NVIDIA GeForce GTX 1660 Ti
+[2022.03.07-12.37.00:809][  0]LogD3D12RHI:   Driver Version: 497.29 (internal:30.0.14.9729, unified:497.29)
+[2022.03.07-12.37.00:809][  0]LogD3D12RHI:      Driver Date: 12-15-2021
+[2022.03.07-12.37.00:809][  0]LogRHI: Texture pool is 3290 MB (70% of 4700 MB)
+[2022.03.07-12.37.00:809][  0]LogD3D12RHI: Async texture creation enabled
+[2022.03.07-12.37.00:809][  0]LogD3D12RHI: RHI has support for 64 bit atomics
+[2022.03.07-12.37.01:211][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2022.03.07-12.37.01:239][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2022.03.07-12.37.01:239][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2022.03.07-12.37.01:239][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2022.03.07-12.37.01:239][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2022.03.07-12.37.01:239][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2022.03.07-12.37.01:239][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2022.03.07-12.37.01:239][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2022.03.07-12.37.01:239][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2022.03.07-12.37.01:240][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2022.03.07-12.37.01:240][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2022.03.07-12.37.01:266][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2022.03.07-12.37.01:266][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2022.03.07-12.37.01:277][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2022.03.07-12.37.01:286][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2022.03.07-12.37.01:296][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2022.03.07-12.37.01:305][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2022.03.07-12.37.01:314][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2022.03.07-12.37.01:323][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2022.03.07-12.37.01:333][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2022.03.07-12.37.01:361][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2022.03.07-12.37.01:361][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2022.03.07-12.37.01:370][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2022.03.07-12.37.01:380][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2022.03.07-12.37.01:391][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2022.03.07-12.37.01:405][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2022.03.07-12.37.01:425][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2022.03.07-12.37.01:425][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2022.03.07-12.37.01:439][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2022.03.07-12.37.01:450][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2022.03.07-12.37.01:461][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2022.03.07-12.37.01:473][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2022.03.07-12.37.01:473][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2022.03.07-12.37.01:484][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2022.03.07-12.37.01:576][  0]LogRHI: GeForceNow SDK initialized: 1
+[2022.03.07-12.37.01:576][  0]LogRendererCore: Ray tracing is enabled for the editor. Reason: r.RayTracing=1.
+[2022.03.07-12.37.01:576][  0]LogShaderCompilers: Guid format shader working directory is -28 characters bigger than the processId version (../../../../../../../School/Repositories/Unreal_Pearl-of-the-Orient/PoTO/Intermediate/Shaders/WorkingDirectory/18740/).
+[2022.03.07-12.37.01:576][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Asus/AppData/Local/Temp/UnrealShaderWorkingDir/DB35E3DC480F2998F20B2B9FEAE4ABA7/'.
+[2022.03.07-12.37.01:576][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2022.03.07-12.37.01:576][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2022.03.07-12.37.02:694][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2022.03.07-12.37.02:789][  0]LogDerivedDataCache: Loaded boot cache 0.10s 111MB C:/Users/Asus/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2022.03.07-12.37.02:789][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Asus/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc
+[2022.03.07-12.37.02:789][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../../School/Repositories/Unreal_Pearl-of-the-Orient/PoTO/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2022.03.07-12.37.02:789][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2022.03.07-12.37.02:789][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../../School/Repositories/Unreal_Pearl-of-the-Orient/PoTO/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.03.07-12.37.02:789][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2022.03.07-12.37.02:810][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2022.03.07-12.37.02:810][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.03.07-12.37.02:810][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2022.03.07-12.37.02:856][  0]LogDerivedDataCache: Speed tests for C:/Users/Asus/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.05 seconds
+[2022.03.07-12.37.02:856][  0]LogDerivedDataCache: Display: Performance to C:/Users/Asus/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.05ms. RandomReadSpeed=876.48MBs, RandomWriteSpeed=21.20MBs. Assigned SpeedClass 'Local'
+[2022.03.07-12.37.02:857][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Asus/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2022.03.07-12.37.02:857][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2022.03.07-12.37.02:857][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2022.03.07-12.37.02:962][  0]LogSlate: Using FreeType 2.10.0
+[2022.03.07-12.37.02:963][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2022.03.07-12.37.02:999][  0]LogAssetRegistry: FAssetRegistry took 0.0041 seconds to start up
+[2022.03.07-12.37.03:394][  0]LogInit: Selected Device Profile: [Windows]
+[2022.03.07-12.37.03:394][  0]LogInit: Active device profile: [000001EEE89A7800][000001EEE9208BC0 49] Windows
+[2022.03.07-12.37.03:394][  0]LogInit: Profiles: [000001EEE89A7800][000001EEE9208BC0 49] Windows, [000001EEE8998900][000001EEE9210D40 49] WindowsNoEditor, [000001EEE89A4900][000001EEE9214EC0 49] WindowsServer, [000001EEE899B200][000001EEE9219040 49] WindowsClient, [000001EEE89A7000][000001EEE921D1C0 49] IOS, [000001EEE8999200][000001EEE9221340 49] iPadAir, [000001EEE89A5100][000001EEE92254C0 49] iPadAir2, [000001EEE894CC00][000001EEE922D780 49] IPadPro, [000001EEE894CD00][000001EEE92297C0 49] iPadAir3, [000001EEE89A6B00][000001EEE9231940 49] iPadAir4, [000001EEE894FD00][000001EEE9235AC0 49] iPadMini2, [000001EEE89A5500][000001EEE9239C40 49] iPadMini3, [000001EEE894E000][000001EEE923C100 49] iPadMini4, [000001EEE89A7900][000001EEE9240280 49] iPadMini5, [000001EEE8998C00][000001EEE920C500 49] iPhone6, [000001EEE899BF00][000001EEE9244540 49] iPodTouch6, [000001EEE894E600][000001EEE924C780 49] iPhone7, [000001EEE8943F00][000001EEE92487C0 49] iPodTouch7, [000001EEE899AD00][000001EEE9250900 49] iPhone5S, [000001EEE8940F00][000001EEE9258A80 49] iPhone6Plus, [000001EEE899AE00][000001EEE925CC00 49] iPhone6S, [000001EEE8942C00][000001EEE9260D80 49] iPhone6SPlus, [000001EEE899BE00][000001EEE9264F00 49] iPhone7Plus, [000001EEE8941600][000001EEE9269080 49] iPhoneSE, [000001EEE899BB00][000001EEE926D200 49] iPhone8, [000001EEE8943E00][000001EEE9271380 49] iPhone8Plus, [000001EEE8999C00][000001EEE9275500 49] iPhoneX, [000001EEE8940D00][000001EEE9279680 49] iPhoneXS, [000001EEE899B400][000001EEE927D800 49] iPhoneXSMax, [000001EEE8942F00][000001EEE9281980 49] iPhoneXR, [000001EEE899A500][000001EEE9285B00 49] iPhone11, [000001EEE8942300][000001EEE9289C80 49] iPhone11Pro, [000001EEE8998D00][000001EEE928C140 49] iPhone11ProMax, [000001EEE8942B00][000001EEE92902C0 49] iPhoneSE2, [000001EEE8999100][000001EEE9294440 49] iPhone12Mini, [000001EEE8941300][000001EEE9254580 49] iPhone12, [000001EEE8998500][000001EEE92986C0 49] iPhone12Pro, [000001EEE8942800][000001EEE929C800 49] iPhone12ProMax, [000001EEE899AB00][000001EEE92A0940 49] iPadPro105, [000001EEE8943900][000001EEE92A8AC0 49] iPadPro129, [000001EEE8999E00][000001EEE92ACC40 49] iPadPro97, [000001EEE8941400][000001EEE92B0DC0 49] iPadPro2_129, [000001EEE899AC00][000001EEE92B4F40 49] iPad5, [000001EEE8940600][000001EEE92B90C0 49] iPad6, [000001EEE8999400][000001EEE92BD240 49] iPad7, [000001EEE8942700][000001EEE92C13C0 49] iPad8, [000001EEE8999F00][000001EEE92C5540 49] iPadPro11, [000001EEE8940800][000001EEE92C96C0 49] iPadPro2_11, [000001EEE899A600][000001EEE92CD840 49] iPadPro3_129, [000001EEE8941C00][000001EEE92D19C0 49] iPadPro4_129, [000001EEE899B000][000001EEE92E1B40 49] AppleTV, [000001EEE8943600][000001EEE92E5CC0 49] AppleTV4K, [000001EEE899B300][000001EEE92E8180 49] TVOS, [000001EEE8940700][000001EEE92EC300 49] Mac, [000001EEE8998600][000001EEE92F0480 49] MacClient, [000001EEE8941900][000001EEE92F4600 49] MacNoEditor, [000001EEE899BD00][000001EEE92A4740 49] MacServer, [000001EEE8940500][000001EEE92F8880 49] Linux, [000001EEE899BC00][000001EEE92FC9C0 49] LinuxAArch64, [000001EEE8942600][000001EEE9304B40 49] LinuxNoEditor, [000001EEE8999300][000001EEE9308CC0 49] LinuxAArch64NoEditor, [000001EEE8942500][000001EEE930CE40 49] LinuxClient, [000001EEE8998300][000001EEE9310FC0 49] LinuxAArch64Client, [000001EEE8942000][000001EEE9315140 49] LinuxServer, [000001EEE8A15600][000001EEE93192C0 49] LinuxAArch64Server, [000001EEE894FA00][000001EEE931D440 49] Android, [000001EEE8A15300][000001EEE93215C0 49] Android_Low, [000001EEE894C100][000001EEE9325740 49] Android_Mid, [000001EEE8A15700][000001EEE93298C0 49] Android_High, [000001EEE894D000][000001EEE932DA40 49] Android_Default, [000001EEE8A15000][000001EEE9331BC0 49] Android_Adreno4xx, [000001EEE894C500][000001EEE9335D40 49] Android_Adreno5xx_Low, [000001EEE8A14C00][000001EEE9338200 49] Android_Adreno5xx, [000001EEE894E800][000001EEE933C380 49] Android_Adreno6xx, [000001EEE8A14A00][000001EEE9340500 49] Android_Adreno6xx_Vulkan, [000001EEE894FC00][000001EEE9344680 49] Android_Mali_T6xx, [000001EEE8A15A00][000001EEE93007C0 49] Android_Mali_T7xx, [000001EEE894F300][000001EEE9348900 49] Android_Mali_T8xx, [000001EEE8A14700][000001EEE934CA40 49] Android_Mali_G71, [000001EEE894CF00][000001EEE9350B80 49] Android_Mali_G72, [000001EEE8A15F00][000001EEE9358D00 49] Android_Mali_G72_Vulkan, [000001EEE894D800][000001EEE935CE80 49] Android_Mali_G76, [000001EEE8A14600][000001EEE9361000 49] Android_Mali_G76_Vulkan, [000001EEE894DB00][000001EEE9365180 49] Android_Mali_G77, [000001EEE8A14100][000001EEE9369300 49] Android_Mali_G77_Vulkan, [000001EEE894DD00][000001EEE936D480 49] Android_Vulkan_SM5, [000001EEE8943D00][000001EEE9371600 49] Android_PowerVR_G6xxx, [000001EEE8998E00][000001EEE9375780 49] Android_PowerVR_GT7xxx, [000001EEE8943400][000001EEE9379900 49] Android_PowerVR_GE8xxx, [000001EEE8998100][000001EEE937DA80 49] Android_PowerVR_GM9xxx, [000001EEE8940900][000001EEE9381C00 49] Android_PowerVR_GM9xxx_Vulkan, [000001EEE8998400][000001EEE93840C0 49] Android_TegraK1, [000001EEE8942E00][000001EEE9388240 49] Android_Unknown_Vulkan, [000001EEE899AF00][000001EEE938C3C0 49] Lumin, [000001EEE8942200][000001EEE9390540 49] Lumin_Desktop, [000001EEE899A900][000001EEE93946C0 49] HoloLens, 
+[2022.03.07-12.37.03:566][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2022.03.07-12.37.03:566][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2022.03.07-12.37.03:566][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2022.03.07-12.37.03:566][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2022.03.07-12.37.03:566][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2022.03.07-12.37.03:736][  0]LogNetVersion: PoTO 1.0.0, NetCL: 14830424, EngineNetVer: 16, GameNetVer: 0 (Checksum: 1362065395)
+[2022.03.07-12.37.04:299][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2022.03.07-12.37.04:718][  0]LogPackageLocalizationCache: Processed 23 localized package path(s) for 1 prioritized culture(s) in 0.418632 seconds
+[2022.03.07-12.37.04:726][  0]LogUObjectArray: 16848 objects as part of root set at end of initial load.
+[2022.03.07-12.37.04:726][  0]LogUObjectAllocator: 4214768 out of 0 bytes used by permanent object pool.
+[2022.03.07-12.37.04:726][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2022.03.07-12.37.04:877][  0]LogD3D12RHI: Creating RTPSO with 3 shaders (0 cached, 3 new) took 16.70 ms. Compile time 3.20 ms, link time 13.47 ms.
+[2022.03.07-12.37.05:223][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2022.03.07-12.37.05:229][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2022.03.07-12.37.05:430][  0]SourceControl: Source control is disabled
+[2022.03.07-12.37.05:430][  0]SourceControl: Source control is disabled
+[2022.03.07-12.37.05:436][  0]SourceControl: Source control is disabled
+[2022.03.07-12.37.05:440][  0]SourceControl: Source control is disabled
+[2022.03.07-12.37.05:456][  0]SourceControl: Source control is disabled
+[2022.03.07-12.37.05:460][  0]LogUProjectInfo: Found projects:
+[2022.03.07-12.37.05:526][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2022.03.07-12.37.05:551][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.03.07-12.37.05:551][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.03.07-12.37.05:751][  0]LogCollectionManager: Loaded 0 collections in 0.001624 seconds
+[2022.03.07-12.37.05:778][  0]LogFileCache: Scanning file cache for directory 'D:/MyFiles/School/Repositories/Unreal_Pearl-of-the-Orient/PoTO/Saved/Collections/' took 0.00s
+[2022.03.07-12.37.05:778][  0]LogFileCache: Scanning file cache for directory 'D:/MyFiles/School/Repositories/Unreal_Pearl-of-the-Orient/PoTO/Content/Developers/Asus/Collections/' took 0.00s
+[2022.03.07-12.37.05:778][  0]LogFileCache: Scanning file cache for directory 'D:/MyFiles/School/Repositories/Unreal_Pearl-of-the-Orient/PoTO/Content/Collections/' took 0.00s
+[2022.03.07-12.37.05:778][  0]LogOcInput: OculusInput pre-init called
+[2022.03.07-12.37.05:789][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2022.03.07-12.37.05:789][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2022.03.07-12.37.05:846][  0]LogEngine: Initializing Engine...
+[2022.03.07-12.37.05:847][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2022.03.07-12.37.05:847][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2022.03.07-12.37.05:848][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2022.03.07-12.37.05:990][  0]LogInit: Initializing FReadOnlyCVARCache
+[2022.03.07-12.37.06:000][  0]LogAIModule: Creating AISystem for world Untitled
+[2022.03.07-12.37.06:001][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2022.03.07-12.37.06:006][  0]LogAudio: Display: Audio Device Manager Initialized
+[2022.03.07-12.37.06:006][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2022.03.07-12.37.06:006][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.07-12.37.06:006][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.07-12.37.06:006][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.07-12.37.06:006][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.07-12.37.06:006][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.03.07-12.37.06:006][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.03.07-12.37.06:006][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.03.07-12.37.06:006][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.07-12.37.06:008][  0]LogAudio: Display: Using built-in audio occlusion.
+[2022.03.07-12.37.06:008][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.07-12.37.06:019][  0]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.07-12.37.06:019][  0]LogAudioMixer: Display: 1: FrontRight
+[2022.03.07-12.37.06:113][  0]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2022.03.07-12.37.06:116][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.03.07-12.37.06:121][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.03.07-12.37.06:121][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.03.07-12.37.06:123][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.03.07-12.37.06:123][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.03.07-12.37.06:123][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.03.07-12.37.06:124][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.03.07-12.37.06:124][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.03.07-12.37.06:124][  0]LogInit: FAudioDevice initialized.
+[2022.03.07-12.37.06:124][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2022.03.07-12.37.06:124][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2022.03.07-12.37.06:390][  0]LogDerivedDataCache: Saved boot cache 0.27s 92MB C:/Users/Asus/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2022.03.07-12.37.06:393][  0]LogInit: Texture streaming: Enabled
+[2022.03.07-12.37.06:410][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.26.2-15973114+++UE4+Release-4.26
+[2022.03.07-12.37.06:414][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2022.03.07-12.37.06:414][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2022.03.07-12.37.06:415][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2022.03.07-12.37.06:572][  0]LogInit: Transaction tracking system initialized
+[2022.03.07-12.37.06:600][  0]BlueprintLog: New page: Editor Load
+[2022.03.07-12.37.06:681][  0]LocalizationService: Localization service is disabled
+[2022.03.07-12.37.06:708][  0]TimingProfiler: Initialize
+[2022.03.07-12.37.06:708][  0]TimingProfiler: OnSessionChanged
+[2022.03.07-12.37.06:708][  0]LoadingProfiler: Initialize
+[2022.03.07-12.37.06:708][  0]LoadingProfiler: OnSessionChanged
+[2022.03.07-12.37.06:708][  0]NetworkingProfiler: Initialize
+[2022.03.07-12.37.06:708][  0]NetworkingProfiler: OnSessionChanged
+[2022.03.07-12.37.06:708][  0]MemoryProfiler: Initialize
+[2022.03.07-12.37.06:708][  0]MemoryProfiler: OnSessionChanged
+[2022.03.07-12.37.07:292][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2022.03.07-12.37.07:292][  0]LogCook: Display: Mobile HDR setting 1
+[2022.03.07-12.37.07:475][  0]LogFileCache: Scanning file cache for directory 'D:/MyFiles/School/Repositories/Unreal_Pearl-of-the-Orient/PoTO/Content/' took 0.02s
+[2022.03.07-12.37.07:663][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2022.03.07-12.37.07:666][  0]SourceControl: Source control is disabled
+[2022.03.07-12.37.07:667][  0]LogUnrealEdMisc: Loading editor; pre map load, took 11.788
+[2022.03.07-12.37.07:667][  0]Cmd: MAP LOAD FILE="../../../../../../../School/Repositories/Unreal_Pearl-of-the-Orient/PoTO/Content/Maps/MainMenu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.03.07-12.37.07:667][  0]LightingResults: New page: Lighting Build
+[2022.03.07-12.37.07:668][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2022.03.07-12.37.07:668][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.07-12.37.07:668][  0]MapCheck: New page: Map Check
+[2022.03.07-12.37.07:668][  0]LightingResults: New page: Lighting Build
+[2022.03.07-12.37.07:676][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2022.03.07-12.37.07:831][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'MainMenu'.
+[2022.03.07-12.37.07:832][  0]LogAIModule: Creating AISystem for world MainMenu
+[2022.03.07-12.37.07:833][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.03.07-12.37.07:841][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2022.03.07-12.37.07:841][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.03.07-12.37.07:841][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.119ms to complete.
+[2022.03.07-12.37.07:841][  0]LogFileHelpers: Loading map 'MainMenu' took 0.174
+[2022.03.07-12.37.07:843][  0]LogUnrealEdMisc: Total Editor Startup Time, took 11.964
+[2022.03.07-12.37.08:205][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.07-12.37.08:213][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.07-12.37.08:222][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.07-12.37.08:232][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.07-12.37.08:251][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0132 seconds. Added 3604 classes and 862 folders.
+[2022.03.07-12.37.08:254][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2022.03.07-12.37.08:255][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2022.03.07-12.37.08:255][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.07-12.37.08:255][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.03.07-12.37.08:255][  0]LogPakFile: OnPakFileMounted2Time == 0.000009
+[2022.03.07-12.37.08:256][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2022.03.07-12.37.08:256][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.07-12.37.08:256][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2022.03.07-12.37.08:256][  0]LogPakFile: OnPakFileMounted2Time == 0.000011
+[2022.03.07-12.37.08:256][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2022.03.07-12.37.08:256][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.07-12.37.08:256][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2022.03.07-12.37.08:256][  0]LogPakFile: OnPakFileMounted2Time == 0.000013
+[2022.03.07-12.37.08:257][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.03.07-12.37.08:257][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.07-12.37.08:257][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.03.07-12.37.08:257][  0]LogPakFile: OnPakFileMounted2Time == 0.000014
+[2022.03.07-12.37.08:257][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2022.03.07-12.37.08:258][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.07-12.37.08:258][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2022.03.07-12.37.08:258][  0]LogPakFile: OnPakFileMounted2Time == 0.000016
+[2022.03.07-12.37.08:258][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2022.03.07-12.37.08:258][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.07-12.37.08:258][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2022.03.07-12.37.08:258][  0]LogPakFile: OnPakFileMounted2Time == 0.000018
+[2022.03.07-12.37.08:259][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2022.03.07-12.37.08:259][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.07-12.37.08:259][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2022.03.07-12.37.08:259][  0]LogPakFile: OnPakFileMounted2Time == 0.000019
+[2022.03.07-12.37.08:259][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2022.03.07-12.37.08:259][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.07-12.37.08:259][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2022.03.07-12.37.08:259][  0]LogPakFile: OnPakFileMounted2Time == 0.000021
+[2022.03.07-12.37.08:260][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2022.03.07-12.37.08:260][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.07-12.37.08:260][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2022.03.07-12.37.08:260][  0]LogPakFile: OnPakFileMounted2Time == 0.000026
+[2022.03.07-12.37.08:261][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2022.03.07-12.37.08:261][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.07-12.37.08:261][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2022.03.07-12.37.08:261][  0]LogPakFile: OnPakFileMounted2Time == 0.000029
+[2022.03.07-12.37.08:261][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2022.03.07-12.37.08:261][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.07-12.37.08:261][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2022.03.07-12.37.08:261][  0]LogPakFile: OnPakFileMounted2Time == 0.000031
+[2022.03.07-12.37.08:262][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2022.03.07-12.37.08:262][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.07-12.37.08:262][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2022.03.07-12.37.08:262][  0]LogPakFile: OnPakFileMounted2Time == 0.000032
+[2022.03.07-12.37.08:262][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.03.07-12.37.08:263][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.07-12.37.08:263][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.03.07-12.37.08:263][  0]LogPakFile: OnPakFileMounted2Time == 0.000033
+[2022.03.07-12.37.08:263][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2022.03.07-12.37.08:263][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.07-12.37.08:263][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2022.03.07-12.37.08:263][  0]LogPakFile: OnPakFileMounted2Time == 0.000035
+[2022.03.07-12.37.08:264][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2022.03.07-12.37.08:264][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.07-12.37.08:264][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2022.03.07-12.37.08:264][  0]LogPakFile: OnPakFileMounted2Time == 0.000037
+[2022.03.07-12.37.08:264][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2022.03.07-12.37.08:264][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.07-12.37.08:264][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.03.07-12.37.08:264][  0]LogPakFile: OnPakFileMounted2Time == 0.000038
+[2022.03.07-12.37.08:265][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2022.03.07-12.37.08:265][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.07-12.37.08:265][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2022.03.07-12.37.08:265][  0]LogPakFile: OnPakFileMounted2Time == 0.000041
+[2022.03.07-12.37.08:265][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2022.03.07-12.37.08:265][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.07-12.37.08:265][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2022.03.07-12.37.08:265][  0]LogPakFile: OnPakFileMounted2Time == 0.000042
+[2022.03.07-12.37.08:266][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.03.07-12.37.08:266][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.07-12.37.08:266][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.03.07-12.37.08:266][  0]LogPakFile: OnPakFileMounted2Time == 0.000044
+[2022.03.07-12.37.08:267][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.03.07-12.37.08:267][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.07-12.37.08:267][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.03.07-12.37.08:267][  0]LogPakFile: OnPakFileMounted2Time == 0.000046
+[2022.03.07-12.37.08:267][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2022.03.07-12.37.08:267][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.07-12.37.08:267][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.03.07-12.37.08:267][  0]LogPakFile: OnPakFileMounted2Time == 0.000047
+[2022.03.07-12.37.08:268][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2022.03.07-12.37.08:268][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.07-12.37.08:268][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2022.03.07-12.37.08:268][  0]LogPakFile: OnPakFileMounted2Time == 0.000050
+[2022.03.07-12.37.08:269][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2022.03.07-12.37.08:269][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.07-12.37.08:269][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2022.03.07-12.37.08:269][  0]LogPakFile: OnPakFileMounted2Time == 0.000054
+[2022.03.07-12.37.08:269][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2022.03.07-12.37.08:269][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.07-12.37.08:269][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2022.03.07-12.37.08:269][  0]LogPakFile: OnPakFileMounted2Time == 0.000058
+[2022.03.07-12.37.08:270][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.03.07-12.37.08:270][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.07-12.37.08:270][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.03.07-12.37.08:270][  0]LogPakFile: OnPakFileMounted2Time == 0.000061
+[2022.03.07-12.37.08:271][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2022.03.07-12.37.08:271][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.07-12.37.08:271][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2022.03.07-12.37.08:271][  0]LogPakFile: OnPakFileMounted2Time == 0.000063
+[2022.03.07-12.37.08:426][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2022.03.07-12.37.08:428][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 2 classes and 0 folders.
+[2022.03.07-12.37.08:446][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WorldBrowser' in 0.0003 seconds. Added 2 classes and 3 folders.
+[2022.03.07-12.37.08:661][  0]LogSlate: Took 0.000235 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2022.03.07-12.37.08:666][  0]LogSlate: Took 0.000165 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2022.03.07-12.37.08:669][  0]LogSlate: Took 0.000274 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2022.03.07-12.37.08:744][  0]LogRenderer: Reallocating scene render targets to support 1696x404 Format 9 NumSamples 1 (Frame:1).
+[2022.03.07-12.37.09:132][  0]LogD3D12RHI: Creating RTPSO with 126 shaders (0 cached, 126 new) took 352.66 ms. Compile time 338.75 ms, link time 13.58 ms.
+[2022.03.07-12.37.09:170][  0]LogD3D12RHI: Creating RT View Heap with 250000 entries
+[2022.03.07-12.37.09:186][  0]LogD3D12RHI: Creating RT Sampler Heap with 2048 entries
+[2022.03.07-12.37.11:296][  0]LogD3D12RHI: Creating RTPSO with 10 shaders (0 cached, 10 new) took 2108.31 ms. Compile time 26.89 ms, link time 2081.37 ms.
+[2022.03.07-12.37.11:296][  0]LogD3D12RHI: Creating RT View Heap with 250000 entries
+[2022.03.07-12.37.11:315][  0]LogD3D12RHI: Creating RT Sampler Heap with 2048 entries
+[2022.03.07-12.37.11:516][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2022.03.07-12.37.11:516][  0]LogLoad: (Engine Initialization) Total time: 15.64 seconds
+[2022.03.07-12.37.11:516][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2022.03.07-12.37.11:516][  0]LogInit: First time updating LLM stats...
+[2022.03.07-12.37.11:573][  0]LogAssetRegistry: Asset discovery search completed in 8.5757 seconds
+[2022.03.07-12.37.11:575][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000004 seconds (updated 0 objects)
+[2022.03.07-12.37.11:626][  0]LogContentStreaming: Texture pool size now 400 MB
+[2022.03.07-12.37.11:690][  2]LogSlate: Took 0.000205 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.03.07-12.38.22:118][889]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2022.03.07-12.38.22:161][889]LogSlate: Took 0.000165 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.03.07-12.38.22:362][889]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/Main/1/MainMap.MainMap
+[2022.03.07-12.38.22:362][889]Cmd: MAP LOAD FILE="../../../../../../../School/Repositories/Unreal_Pearl-of-the-Orient/PoTO/Content/Maps/Main/1/MainMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.03.07-12.38.22:362][889]LightingResults: New page: Lighting Build
+[2022.03.07-12.38.22:362][889]LoadErrors: New page: Loading map: MainMap.umap
+[2022.03.07-12.38.22:391][889]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2022.03.07-12.38.22:392][889]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.07-12.38.22:392][889]MapCheck: New page: Map Check
+[2022.03.07-12.38.22:392][889]LightingResults: New page: Lighting Build
+[2022.03.07-12.38.22:397][889]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.03.07-12.38.22:399][889]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2022.03.07-12.38.22:400][889]LogAudio: Display: Audio Device (ID: 1) registered with world 'MainMap'.
+[2022.03.07-12.38.22:475][889]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.03.07-12.38.22:475][889]LogAIModule: Creating AISystem for world MainMap
+[2022.03.07-12.38.22:485][889]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2022.03.07-12.38.22:537][889]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.03.07-12.38.22:537][889]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.106ms to complete.
+[2022.03.07-12.38.22:537][889]LogFileHelpers: Loading map 'MainMap' took 0.176
+[2022.03.07-12.38.22:629][892]LogD3D12RHI: Creating RTPSO with 132 shaders (127 cached, 5 new) took 31.36 ms. Compile time 21.53 ms, link time 8.58 ms.
+[2022.03.07-12.38.32:554][602]LogD3D12RHI: Creating RTPSO with 158 shaders (132 cached, 26 new) took 106.23 ms. Compile time 67.34 ms, link time 38.35 ms.
+[2022.03.07-12.38.38:951][864]LogRenderer: Reallocating scene render targets to support 1696x408 Format 9 NumSamples 1 (Frame:763).
+[2022.03.07-12.38.39:022][865]LogRenderer: Reallocating scene render targets to support 1696x420 Format 9 NumSamples 1 (Frame:765).
+[2022.03.07-12.38.39:096][866]LogRenderer: Reallocating scene render targets to support 1696x488 Format 9 NumSamples 1 (Frame:767).
+[2022.03.07-12.38.39:178][867]LogRenderer: Reallocating scene render targets to support 1696x568 Format 9 NumSamples 1 (Frame:769).
+[2022.03.07-12.38.39:261][868]LogRenderer: Reallocating scene render targets to support 1696x692 Format 9 NumSamples 1 (Frame:771).
+[2022.03.07-12.38.39:335][869]LogRenderer: Reallocating scene render targets to support 1696x808 Format 9 NumSamples 1 (Frame:773).
+[2022.03.07-12.38.39:410][870]LogRenderer: Reallocating scene render targets to support 1696x860 Format 9 NumSamples 1 (Frame:775).
+[2022.03.07-12.38.39:484][871]LogRenderer: Reallocating scene render targets to support 1696x888 Format 9 NumSamples 1 (Frame:777).
+[2022.03.07-12.38.44:620][107]LogLandscape: Warning: Shader FVLMVoxelizationGS unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.03.07-12.38.44:620][107]LogLandscape: Warning: Shader FVLMVoxelizationVS unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.03.07-12.38.44:620][107]LogLandscape: Warning: Shader FLightmapGBufferPS unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.03.07-12.38.44:620][107]LogLandscape: Warning: Shader FVLMVoxelizationPS unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.03.07-12.38.44:620][107]LogLandscape: Warning: Shader TLightmapMaterialCHS<false> unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.03.07-12.38.44:620][107]LogLandscape: Warning: Shader FLightmapGBufferVS unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.03.07-12.38.44:622][107]LogLandscape: Warning: Shader FVLMVoxelizationGS unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.03.07-12.38.44:622][107]LogLandscape: Warning: Shader FVLMVoxelizationVS unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.03.07-12.38.44:622][107]LogLandscape: Warning: Shader FLightmapGBufferPS unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.03.07-12.38.44:622][107]LogLandscape: Warning: Shader FVLMVoxelizationPS unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.03.07-12.38.44:622][107]LogLandscape: Warning: Shader TLightmapMaterialCHS<false> unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.03.07-12.38.44:622][107]LogLandscape: Warning: Shader FLightmapGBufferVS unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.03.07-12.38.44:623][107]LogLandscape: Warning: Shader FVLMVoxelizationGS unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.03.07-12.38.44:623][107]LogLandscape: Warning: Shader FVLMVoxelizationVS unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.03.07-12.38.44:623][107]LogLandscape: Warning: Shader FLightmapGBufferPS unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.03.07-12.38.44:623][107]LogLandscape: Warning: Shader FVLMVoxelizationPS unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.03.07-12.38.44:623][107]LogLandscape: Warning: Shader TLightmapMaterialCHS<false> unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.03.07-12.38.44:623][107]LogLandscape: Warning: Shader FLightmapGBufferVS unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.03.07-12.38.44:623][107]LogLandscape: Warning: Shader FVLMVoxelizationGS unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.03.07-12.38.44:623][107]LogLandscape: Warning: Shader FVLMVoxelizationVS unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.03.07-12.38.44:623][107]LogLandscape: Warning: Shader FLightmapGBufferPS unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.03.07-12.38.44:623][107]LogLandscape: Warning: Shader FVLMVoxelizationPS unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.03.07-12.38.44:623][107]LogLandscape: Warning: Shader TLightmapMaterialCHS<false> unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.03.07-12.38.44:623][107]LogLandscape: Warning: Shader FLightmapGBufferVS unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.03.07-12.38.44:631][107]LogLandscape: Warning: Shader FVLMVoxelizationGS unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.03.07-12.38.44:631][107]LogLandscape: Warning: Shader FVLMVoxelizationVS unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.03.07-12.38.44:631][107]LogLandscape: Warning: Shader FLightmapGBufferPS unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.03.07-12.38.44:631][107]LogLandscape: Warning: Shader FVLMVoxelizationPS unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.03.07-12.38.44:631][107]LogLandscape: Warning: Shader TLightmapMaterialCHS<false> unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.03.07-12.38.44:631][107]LogLandscape: Warning: Shader FLightmapGBufferVS unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.03.07-12.38.44:633][107]LogLandscape: Warning: Shader FVLMVoxelizationGS unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.03.07-12.38.44:633][107]LogLandscape: Warning: Shader FVLMVoxelizationVS unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.03.07-12.38.44:633][107]LogLandscape: Warning: Shader FLightmapGBufferPS unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.03.07-12.38.44:633][107]LogLandscape: Warning: Shader FVLMVoxelizationPS unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.03.07-12.38.44:633][107]LogLandscape: Warning: Shader TLightmapMaterialCHS<false> unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.03.07-12.38.44:633][107]LogLandscape: Warning: Shader FLightmapGBufferVS unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.03.07-12.38.44:633][107]LogLandscape: Warning: Shader FVLMVoxelizationGS unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.03.07-12.38.44:633][107]LogLandscape: Warning: Shader FVLMVoxelizationVS unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.03.07-12.38.44:633][107]LogLandscape: Warning: Shader FLightmapGBufferPS unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.03.07-12.38.44:633][107]LogLandscape: Warning: Shader FVLMVoxelizationPS unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.03.07-12.38.44:633][107]LogLandscape: Warning: Shader TLightmapMaterialCHS<false> unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.03.07-12.38.44:633][107]LogLandscape: Warning: Shader FLightmapGBufferVS unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.03.07-12.38.44:634][107]LogLandscape: Warning: Shader FVLMVoxelizationGS unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.03.07-12.38.44:634][107]LogLandscape: Warning: Shader FVLMVoxelizationVS unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.03.07-12.38.44:634][107]LogLandscape: Warning: Shader FLightmapGBufferPS unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.03.07-12.38.44:634][107]LogLandscape: Warning: Shader FVLMVoxelizationPS unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.03.07-12.38.44:634][107]LogLandscape: Warning: Shader TLightmapMaterialCHS<false> unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.03.07-12.38.44:634][107]LogLandscape: Warning: Shader FLightmapGBufferVS unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.03.07-12.38.44:635][107]LogLandscape: Warning: Shader FVLMVoxelizationGS unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.03.07-12.38.44:635][107]LogLandscape: Warning: Shader FVLMVoxelizationVS unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.03.07-12.38.44:635][107]LogLandscape: Warning: Shader FLightmapGBufferPS unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.03.07-12.38.44:635][107]LogLandscape: Warning: Shader FVLMVoxelizationPS unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.03.07-12.38.44:635][107]LogLandscape: Warning: Shader TLightmapMaterialCHS<false> unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.03.07-12.38.44:635][107]LogLandscape: Warning: Shader FLightmapGBufferVS unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.03.07-12.38.44:637][107]LogLandscape: Warning: Shader FVLMVoxelizationGS unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.03.07-12.38.44:637][107]LogLandscape: Warning: Shader FVLMVoxelizationVS unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.03.07-12.38.44:637][107]LogLandscape: Warning: Shader FLightmapGBufferPS unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.03.07-12.38.44:637][107]LogLandscape: Warning: Shader FVLMVoxelizationPS unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.03.07-12.38.44:637][107]LogLandscape: Warning: Shader TLightmapMaterialCHS<false> unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.03.07-12.38.44:637][107]LogLandscape: Warning: Shader FLightmapGBufferVS unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.03.07-12.38.44:638][107]LogLandscape: Warning: Shader FVLMVoxelizationGS unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.03.07-12.38.44:638][107]LogLandscape: Warning: Shader FVLMVoxelizationVS unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.03.07-12.38.44:638][107]LogLandscape: Warning: Shader FLightmapGBufferPS unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.03.07-12.38.44:638][107]LogLandscape: Warning: Shader FVLMVoxelizationPS unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.03.07-12.38.44:638][107]LogLandscape: Warning: Shader TLightmapMaterialCHS<false> unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.03.07-12.38.44:638][107]LogLandscape: Warning: Shader FLightmapGBufferVS unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.03.07-12.38.44:638][107]LogLandscape: Warning: Shader FVLMVoxelizationGS unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.03.07-12.38.44:638][107]LogLandscape: Warning: Shader FVLMVoxelizationVS unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.03.07-12.38.44:638][107]LogLandscape: Warning: Shader FLightmapGBufferPS unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.03.07-12.38.44:638][107]LogLandscape: Warning: Shader FVLMVoxelizationPS unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.03.07-12.38.44:638][107]LogLandscape: Warning: Shader TLightmapMaterialCHS<false> unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.03.07-12.38.44:638][107]LogLandscape: Warning: Shader FLightmapGBufferVS unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.03.07-12.38.44:640][107]LogLandscape: Warning: Shader FVLMVoxelizationGS unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.03.07-12.38.44:640][107]LogLandscape: Warning: Shader FVLMVoxelizationVS unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.03.07-12.38.44:640][107]LogLandscape: Warning: Shader FLightmapGBufferPS unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.03.07-12.38.44:640][107]LogLandscape: Warning: Shader FVLMVoxelizationPS unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.03.07-12.38.44:640][107]LogLandscape: Warning: Shader TLightmapMaterialCHS<false> unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.03.07-12.38.44:640][107]LogLandscape: Warning: Shader FLightmapGBufferVS unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.03.07-12.38.44:642][107]LogLandscape: Warning: Shader FVLMVoxelizationGS unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.03.07-12.38.44:642][107]LogLandscape: Warning: Shader FVLMVoxelizationVS unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.03.07-12.38.44:642][107]LogLandscape: Warning: Shader FLightmapGBufferPS unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.03.07-12.38.44:642][107]LogLandscape: Warning: Shader FVLMVoxelizationPS unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.03.07-12.38.44:642][107]LogLandscape: Warning: Shader TLightmapMaterialCHS<false> unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.03.07-12.38.44:643][107]LogLandscape: Warning: Shader FLightmapGBufferVS unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.03.07-12.38.44:643][107]LogLandscape: Warning: Shader FVLMVoxelizationGS unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.03.07-12.38.44:643][107]LogLandscape: Warning: Shader FVLMVoxelizationVS unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.03.07-12.38.44:643][107]LogLandscape: Warning: Shader FLightmapGBufferPS unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.03.07-12.38.44:643][107]LogLandscape: Warning: Shader FVLMVoxelizationPS unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.03.07-12.38.44:643][107]LogLandscape: Warning: Shader TLightmapMaterialCHS<false> unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.03.07-12.38.44:643][107]LogLandscape: Warning: Shader FLightmapGBufferVS unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.03.07-12.38.44:643][107]LogLandscape: Warning: Shader FVLMVoxelizationGS unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.03.07-12.38.44:643][107]LogLandscape: Warning: Shader FVLMVoxelizationVS unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.03.07-12.38.44:643][107]LogLandscape: Warning: Shader FLightmapGBufferPS unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.03.07-12.38.44:643][107]LogLandscape: Warning: Shader FVLMVoxelizationPS unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.03.07-12.38.44:643][107]LogLandscape: Warning: Shader TLightmapMaterialCHS<false> unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.03.07-12.38.44:643][107]LogLandscape: Warning: Shader FLightmapGBufferVS unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.03.07-12.38.44:645][107]LogLandscape: Warning: Shader FVLMVoxelizationGS unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.03.07-12.38.44:645][107]LogLandscape: Warning: Shader FVLMVoxelizationVS unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.03.07-12.38.44:645][107]LogLandscape: Warning: Shader FLightmapGBufferPS unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.03.07-12.38.44:645][107]LogLandscape: Warning: Shader FVLMVoxelizationPS unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.03.07-12.38.44:645][107]LogLandscape: Warning: Shader TLightmapMaterialCHS<false> unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.03.07-12.38.44:645][107]LogLandscape: Warning: Shader FLightmapGBufferVS unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.03.07-12.38.44:647][107]LogLandscape: Warning: Shader FVLMVoxelizationGS unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.03.07-12.38.44:647][107]LogLandscape: Warning: Shader FVLMVoxelizationVS unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.03.07-12.38.44:647][107]LogLandscape: Warning: Shader FLightmapGBufferPS unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.03.07-12.38.44:647][107]LogLandscape: Warning: Shader FVLMVoxelizationPS unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.03.07-12.38.44:647][107]LogLandscape: Warning: Shader TLightmapMaterialCHS<false> unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.03.07-12.38.44:647][107]LogLandscape: Warning: Shader FLightmapGBufferVS unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.03.07-12.38.44:648][107]LogLandscape: Warning: Shader FVLMVoxelizationGS unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.03.07-12.38.44:648][107]LogLandscape: Warning: Shader FVLMVoxelizationVS unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.03.07-12.38.44:648][107]LogLandscape: Warning: Shader FLightmapGBufferPS unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.03.07-12.38.44:648][107]LogLandscape: Warning: Shader FVLMVoxelizationPS unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.03.07-12.38.44:648][107]LogLandscape: Warning: Shader TLightmapMaterialCHS<false> unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.03.07-12.38.44:648][107]LogLandscape: Warning: Shader FLightmapGBufferVS unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.03.07-12.38.44:648][107]LogLandscape: Warning: Shader FVLMVoxelizationGS unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.03.07-12.38.44:648][107]LogLandscape: Warning: Shader FVLMVoxelizationVS unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.03.07-12.38.44:648][107]LogLandscape: Warning: Shader FLightmapGBufferPS unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.03.07-12.38.44:648][107]LogLandscape: Warning: Shader FVLMVoxelizationPS unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.03.07-12.38.44:648][107]LogLandscape: Warning: Shader TLightmapMaterialCHS<false> unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.03.07-12.38.44:648][107]LogLandscape: Warning: Shader FLightmapGBufferVS unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.03.07-12.38.44:651][107]LogTexture: Display: Building textures: Texture2D_2 (G8, 128X128)
+[2022.03.07-12.38.44:754][107]LogSlate: Took 0.009612 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2022.03.07-12.38.58:247][564]LogSlate: Window 'Create New Landscape Layer Info Object' being destroyed
+[2022.03.07-12.38.58:323][564]LogTexture: Display: Building textures: Texture2D_1 (BGRA8, 16X16)
+[2022.03.07-12.38.58:349][564]LogTexture: Display: Building textures: Texture2D_2 (BGRA8, 16X16)
+[2022.03.07-12.38.58:373][564]LogTexture: Display: Building textures: Texture2D_3 (BGRA8, 16X16)
+[2022.03.07-12.38.58:398][564]LogTexture: Display: Building textures: Texture2D_4 (BGRA8, 16X16)
+[2022.03.07-12.38.58:423][564]LogTexture: Display: Building textures: Texture2D_5 (BGRA8, 16X16)
+[2022.03.07-12.38.58:450][564]LogTexture: Display: Building textures: Texture2D_6 (BGRA8, 16X16)
+[2022.03.07-12.38.58:473][564]LogTexture: Display: Building textures: Texture2D_7 (BGRA8, 16X16)
+[2022.03.07-12.38.58:492][564]LogTexture: Display: Building textures: Texture2D_8 (BGRA8, 16X16)
+[2022.03.07-12.38.58:517][564]LogTexture: Display: Building textures: Texture2D_9 (BGRA8, 16X16)
+[2022.03.07-12.38.58:533][564]LogTexture: Display: Building textures: Texture2D_10 (BGRA8, 16X16)
+[2022.03.07-12.38.58:559][564]LogTexture: Display: Building textures: Texture2D_11 (BGRA8, 16X16)
+[2022.03.07-12.38.58:575][564]LogTexture: Display: Building textures: Texture2D_12 (BGRA8, 16X16)
+[2022.03.07-12.38.58:600][564]LogTexture: Display: Building textures: Texture2D_13 (BGRA8, 16X16)
+[2022.03.07-12.38.58:618][564]LogTexture: Display: Building textures: Texture2D_14 (BGRA8, 16X16)
+[2022.03.07-12.38.58:635][564]LogTexture: Display: Building textures: Texture2D_15 (BGRA8, 16X16)
+[2022.03.07-12.38.58:660][564]LogTexture: Display: Building textures: Texture2D_16 (BGRA8, 16X16)
+[2022.03.07-12.38.58:730][564]LogTexture: Display: Building textures: Texture2D_1 (BGRA8, 16X16)
+[2022.03.07-12.38.58:746][564]LogTexture: Display: Building textures: Texture2D_2 (BGRA8, 16X16)
+[2022.03.07-12.38.58:772][564]LogTexture: Display: Building textures: Texture2D_3 (BGRA8, 16X16)
+[2022.03.07-12.38.58:797][564]LogTexture: Display: Building textures: Texture2D_4 (BGRA8, 16X16)
+[2022.03.07-12.38.58:813][564]LogTexture: Display: Building textures: Texture2D_5 (BGRA8, 16X16)
+[2022.03.07-12.38.58:838][564]LogTexture: Display: Building textures: Texture2D_6 (BGRA8, 16X16)
+[2022.03.07-12.38.58:863][564]LogTexture: Display: Building textures: Texture2D_7 (BGRA8, 16X16)
+[2022.03.07-12.38.58:888][564]LogTexture: Display: Building textures: Texture2D_8 (BGRA8, 16X16)
+[2022.03.07-12.38.58:914][564]LogTexture: Display: Building textures: Texture2D_9 (BGRA8, 16X16)
+[2022.03.07-12.38.58:930][564]LogTexture: Display: Building textures: Texture2D_10 (BGRA8, 16X16)
+[2022.03.07-12.38.58:947][564]LogTexture: Display: Building textures: Texture2D_11 (BGRA8, 16X16)
+[2022.03.07-12.38.58:971][564]LogTexture: Display: Building textures: Texture2D_12 (BGRA8, 16X16)
+[2022.03.07-12.38.58:996][564]LogTexture: Display: Building textures: Texture2D_13 (BGRA8, 16X16)
+[2022.03.07-12.38.59:011][564]LogTexture: Display: Building textures: Texture2D_14 (BGRA8, 16X16)
+[2022.03.07-12.38.59:037][564]LogTexture: Display: Building textures: Texture2D_15 (BGRA8, 16X16)
+[2022.03.07-12.38.59:054][564]LogTexture: Display: Building textures: Texture2D_16 (BGRA8, 16X16)
+[2022.03.07-12.38.59:119][564]LogTexture: Display: Building textures: Texture2D_1 (BGRA8, 16X16)
+[2022.03.07-12.38.59:146][564]LogTexture: Display: Building textures: Texture2D_2 (BGRA8, 16X16)
+[2022.03.07-12.38.59:162][564]LogTexture: Display: Building textures: Texture2D_3 (BGRA8, 16X16)
+[2022.03.07-12.38.59:189][564]LogTexture: Display: Building textures: Texture2D_4 (BGRA8, 16X16)
+[2022.03.07-12.38.59:208][564]LogTexture: Display: Building textures: Texture2D_5 (BGRA8, 16X16)
+[2022.03.07-12.38.59:225][564]LogTexture: Display: Building textures: Texture2D_6 (BGRA8, 16X16)
+[2022.03.07-12.38.59:254][564]LogTexture: Display: Building textures: Texture2D_7 (BGRA8, 16X16)
+[2022.03.07-12.38.59:273][564]LogTexture: Display: Building textures: Texture2D_8 (BGRA8, 16X16)
+[2022.03.07-12.38.59:300][564]LogTexture: Display: Building textures: Texture2D_9 (BGRA8, 16X16)
+[2022.03.07-12.38.59:318][564]LogTexture: Display: Building textures: Texture2D_10 (BGRA8, 16X16)
+[2022.03.07-12.38.59:337][564]LogTexture: Display: Building textures: Texture2D_11 (BGRA8, 16X16)
+[2022.03.07-12.38.59:487][564]LogTexture: Display: Building textures: Texture2D_4 (BGRA8, 16X16)
+[2022.03.07-12.38.59:505][564]LogTexture: Display: Building textures: Texture2D_6 (BGRA8, 16X16)
+[2022.03.07-12.38.59:543][564]LogTexture: Display: Building textures: Texture2D_1 (BGRA8, 16X16)
+[2022.03.07-12.38.59:571][564]LogTexture: Display: Building textures: Texture2D_2 (BGRA8, 16X16)
+[2022.03.07-12.38.59:589][564]LogTexture: Display: Building textures: Texture2D_3 (BGRA8, 16X16)
+[2022.03.07-12.38.59:606][564]LogTexture: Display: Building textures: Texture2D_4 (BGRA8, 16X16)
+[2022.03.07-12.38.59:633][564]LogTexture: Display: Building textures: Texture2D_5 (BGRA8, 16X16)
+[2022.03.07-12.38.59:651][564]LogTexture: Display: Building textures: Texture2D_6 (BGRA8, 16X16)
+[2022.03.07-12.38.59:680][564]LogTexture: Display: Building textures: Texture2D_7 (BGRA8, 16X16)
+[2022.03.07-12.38.59:700][564]LogTexture: Display: Building textures: Texture2D_8 (BGRA8, 16X16)
+[2022.03.07-12.38.59:720][564]LogTexture: Display: Building textures: Texture2D_9 (BGRA8, 16X16)
+[2022.03.07-12.38.59:740][564]LogTexture: Display: Building textures: Texture2D_10 (BGRA8, 16X16)
+[2022.03.07-12.38.59:759][564]LogTexture: Display: Building textures: Texture2D_11 (BGRA8, 16X16)
+[2022.03.07-12.38.59:789][564]LogTexture: Display: Building textures: Texture2D_12 (BGRA8, 16X16)
+[2022.03.07-12.38.59:808][564]LogTexture: Display: Building textures: Texture2D_13 (BGRA8, 16X16)
+[2022.03.07-12.38.59:838][564]LogTexture: Display: Building textures: Texture2D_14 (BGRA8, 16X16)
+[2022.03.07-12.38.59:857][564]LogTexture: Display: Building textures: Texture2D_15 (BGRA8, 16X16)
+[2022.03.07-12.39.00:192][564]LogTexture: Display: Building textures: Texture2D_2 (BGRA8, 16X16)
+[2022.03.07-12.39.00:222][564]LogTexture: Display: Building textures: Texture2D_4 (BGRA8, 16X16)
+[2022.03.07-12.39.00:685][564]LogTexture: Display: Building textures: Texture2D_2 (BGRA8, 16X16)
+[2022.03.07-12.39.00:705][564]LogTexture: Display: Building textures: Texture2D_4 (BGRA8, 16X16)
+[2022.03.07-12.39.00:728][564]LogTexture: Display: Building textures: Texture2D_5 (BGRA8, 16X16)
+[2022.03.07-12.39.00:959][564]LogTexture: Display: Building textures: Texture2D_1 (BGRA8, 16X16)
+[2022.03.07-12.39.01:115][564]LogTexture: Display: Building textures: Texture2D_2 (BGRA8, 16X16)
+[2022.03.07-12.39.01:138][564]LogTexture: Display: Building textures: Texture2D_3 (BGRA8, 16X16)
+[2022.03.07-12.39.01:161][564]LogTexture: Display: Building textures: Texture2D_4 (BGRA8, 16X16)
+[2022.03.07-12.39.01:183][564]LogTexture: Display: Building textures: Texture2D_5 (BGRA8, 16X16)
+[2022.03.07-12.39.01:216][564]LogTexture: Display: Building textures: Texture2D_6 (BGRA8, 16X16)
+[2022.03.07-12.39.01:242][564]LogTexture: Display: Building textures: Texture2D_7 (BGRA8, 16X16)
+[2022.03.07-12.39.01:266][564]LogTexture: Display: Building textures: Texture2D_1 (BGRA8, 16X16)
+[2022.03.07-12.39.01:292][564]LogTexture: Display: Building textures: Texture2D_2 (BGRA8, 16X16)
+[2022.03.07-12.39.01:316][564]LogTexture: Display: Building textures: Texture2D_3 (BGRA8, 16X16)
+[2022.03.07-12.39.01:340][564]LogTexture: Display: Building textures: Texture2D_4 (BGRA8, 16X16)
+[2022.03.07-12.39.01:362][564]LogTexture: Display: Building textures: Texture2D_5 (BGRA8, 16X16)
+[2022.03.07-12.39.01:385][564]LogTexture: Display: Building textures: Texture2D_6 (BGRA8, 16X16)
+[2022.03.07-12.39.01:407][564]LogTexture: Display: Building textures: Texture2D_7 (BGRA8, 16X16)
+[2022.03.07-12.39.01:431][564]LogTexture: Display: Building textures: Texture2D_8 (BGRA8, 16X16)
+[2022.03.07-12.39.01:454][564]LogTexture: Display: Building textures: Texture2D_9 (BGRA8, 16X16)
+[2022.03.07-12.39.01:479][564]LogTexture: Display: Building textures: Texture2D_10 (BGRA8, 16X16)
+[2022.03.07-12.39.01:502][564]LogTexture: Display: Building textures: Texture2D_11 (BGRA8, 16X16)
+[2022.03.07-12.39.01:522][564]LogTexture: Display: Building textures: Texture2D_12 (BGRA8, 16X16)
+[2022.03.07-12.39.01:543][564]LogTexture: Display: Building textures: Texture2D_13 (BGRA8, 16X16)
+[2022.03.07-12.39.01:564][564]LogTexture: Display: Building textures: Texture2D_14 (BGRA8, 16X16)
+[2022.03.07-12.39.01:594][564]LogTexture: Display: Building textures: Texture2D_15 (BGRA8, 16X16)
+[2022.03.07-12.39.01:616][564]LogTexture: Display: Building textures: Texture2D_16 (BGRA8, 16X16)
+[2022.03.07-12.39.01:648][564]LogTexture: Display: Building textures: Texture2D_1 (BGRA8, 16X16)
+[2022.03.07-12.39.01:673][564]LogTexture: Display: Building textures: Texture2D_2 (BGRA8, 16X16)
+[2022.03.07-12.39.01:695][564]LogTexture: Display: Building textures: Texture2D_3 (BGRA8, 16X16)
+[2022.03.07-12.39.01:718][564]LogTexture: Display: Building textures: Texture2D_4 (BGRA8, 16X16)
+[2022.03.07-12.39.01:740][564]LogTexture: Display: Building textures: Texture2D_5 (BGRA8, 16X16)
+[2022.03.07-12.39.01:762][564]LogTexture: Display: Building textures: Texture2D_6 (BGRA8, 16X16)
+[2022.03.07-12.39.01:782][564]LogTexture: Display: Building textures: Texture2D_7 (BGRA8, 16X16)
+[2022.03.07-12.39.01:807][564]LogTexture: Display: Building textures: Texture2D_8 (BGRA8, 16X16)
+[2022.03.07-12.39.01:829][564]LogTexture: Display: Building textures: Texture2D_9 (BGRA8, 16X16)
+[2022.03.07-12.39.01:852][564]LogTexture: Display: Building textures: Texture2D_10 (BGRA8, 16X16)
+[2022.03.07-12.39.01:875][564]LogTexture: Display: Building textures: Texture2D_11 (BGRA8, 16X16)
+[2022.03.07-12.39.01:897][564]LogTexture: Display: Building textures: Texture2D_12 (BGRA8, 16X16)
+[2022.03.07-12.39.01:919][564]LogTexture: Display: Building textures: Texture2D_13 (BGRA8, 16X16)
+[2022.03.07-12.39.01:941][564]LogTexture: Display: Building textures: Texture2D_14 (BGRA8, 16X16)
+[2022.03.07-12.39.01:975][564]LogTexture: Display: Building textures: Texture2D_15 (BGRA8, 16X16)
+[2022.03.07-12.39.01:998][564]LogTexture: Display: Building textures: Texture2D_16 (BGRA8, 16X16)
+[2022.03.07-12.39.02:375][564]LogEditorViewport: Clicking on Actor (context menu): InstancedFoliageActor (InstancedFoliageActor)
+[2022.03.07-12.39.02:612][565]LogD3D12RHI: Creating RTPSO with 159 shaders (158 cached, 1 new) took 18.27 ms. Compile time 10.55 ms, link time 7.30 ms.
+[2022.03.07-12.39.56:362][ 75]LogD3D12RHI: Creating RTPSO with 155 shaders (155 cached, 0 new) took 11.93 ms. Compile time 0.03 ms, link time 11.39 ms.
+[2022.03.07-12.39.59:714][197]LogActorComponent: UnregisterComponent: (/Engine/Transient.SphereBrushComponent) Not registered. Aborting.
+[2022.03.07-12.40.02:105][291]LogTexture: Display: Building textures: Texture2D_10 (BGRA8, 16X16)
+[2022.03.07-12.40.02:173][294]LogD3D12RHI: Creating RTPSO with 160 shaders (159 cached, 1 new) took 14.11 ms. Compile time 8.09 ms, link time 5.65 ms.
+[2022.03.07-12.40.02:351][301]LogTexture: Display: Building textures: Texture2D_11 (BGRA8, 16X16)
+[2022.03.07-12.40.03:503][351]LogTexture: Display: Building textures: Texture2D_12 (BGRA8, 16X16)
+[2022.03.07-12.40.11:165][679]LogTexture: Display: Building textures: Texture2D_13 (BGRA8, 16X16)
+[2022.03.07-12.40.12:027][716]LogTexture: Display: Building textures: Texture2D_14 (BGRA8, 16X16)
+[2022.03.07-12.40.17:054][933]LogTexture: Display: Building textures: Texture2D_15 (BGRA8, 16X16)
+[2022.03.07-12.40.17:067][933]LogTexture: Display: Building textures: Texture2D_2 (BGRA8, 16X16)
+[2022.03.07-12.40.17:104][933]LogTexture: Display: Building textures: Texture2D_3 (BGRA8, 16X16)
+[2022.03.07-12.40.17:112][933]LogTexture: Display: Building textures: Texture2D_16 (BGRA8, 16X16)
+[2022.03.07-12.40.17:134][933]LogTexture: Display: Building textures: Texture2D_6 (BGRA8, 16X16)
+[2022.03.07-12.40.17:147][933]LogTexture: Display: Building textures: Texture2D_12 (BGRA8, 16X16)
+[2022.03.07-12.40.17:165][933]LogTexture: Display: Building textures: Texture2D_15 (BGRA8, 16X16)
+[2022.03.07-12.40.17:180][933]LogTexture: Display: Building textures: Texture2D_17 (BGRA8, 16X16)
+[2022.03.07-12.40.17:249][936]LogD3D12RHI: Creating RTPSO with 161 shaders (160 cached, 1 new) took 18.56 ms. Compile time 10.35 ms, link time 7.63 ms.
+[2022.03.07-12.40.17:468][942]LogTexture: Display: Building textures: Texture2D_4 (BGRA8, 16X16)
+[2022.03.07-12.40.17:503][942]LogTexture: Display: Building textures: Texture2D_7 (BGRA8, 16X16)
+[2022.03.07-12.40.17:692][947]LogTexture: Display: Building textures: Texture2D_5 (BGRA8, 16X16)
+[2022.03.07-12.40.19:792][ 26]LogTexture: Display: Building textures: Texture2D_8 (BGRA8, 16X16)
+[2022.03.07-12.40.19:825][ 26]LogTexture: Display: Building textures: Texture2D_9 (BGRA8, 16X16)
+[2022.03.07-12.40.22:285][123]Cmd: TRANSACTION UNDO
+[2022.03.07-12.40.22:285][123]LogEditorTransaction: Undo Landscape Editing: Paint
+[2022.03.07-12.40.22:995][123]LogTexture: Display: Building textures: Texture2D_7 (BGRA8, 16X16)
+[2022.03.07-12.40.22:999][123]LogTexture: Display: Building textures: Texture2D_6 (BGRA8, 16X16)
+[2022.03.07-12.40.23:002][123]LogTexture: Display: Building textures: Texture2D_36 (BGRA8, 16X16)
+[2022.03.07-12.40.23:007][123]LogTexture: Display: Building textures: Texture2D_22 (BGRA8, 16X16)
+[2022.03.07-12.40.23:011][123]LogTexture: Display: Building textures: Texture2D_5 (BGRA8, 16X16)
+[2022.03.07-12.40.23:015][123]LogTexture: Display: Building textures: Texture2D_4 (BGRA8, 16X16)
+[2022.03.07-12.40.23:019][123]LogTexture: Display: Building textures: Texture2D_3 (BGRA8, 16X16)
+[2022.03.07-12.40.23:027][123]LogTexture: Display: Building textures: Texture2D_37 (BGRA8, 16X16)
+[2022.03.07-12.40.23:031][123]LogTexture: Display: Building textures: Texture2D_18 (BGRA8, 16X16)
+[2022.03.07-12.40.23:035][123]LogTexture: Display: Building textures: Texture2D_36 (BGRA8, 16X16)
+[2022.03.07-12.40.23:038][123]LogTexture: Display: Building textures: Texture2D_10 (BGRA8, 16X16)
+[2022.03.07-12.40.23:042][123]LogTexture: Display: Building textures: Texture2D_15 (BGRA8, 16X16)
+[2022.03.07-12.40.23:046][123]LogTexture: Display: Building textures: Texture2D_14 (BGRA8, 16X16)
+[2022.03.07-12.40.23:049][123]LogTexture: Display: Building textures: Texture2D_13 (BGRA8, 16X16)
+[2022.03.07-12.40.23:053][123]LogTexture: Display: Building textures: Texture2D_6 (BGRA8, 16X16)
+[2022.03.07-12.40.23:064][123]LogTexture: Display: Building textures: Texture2D_3 (BGRA8, 16X16)
+[2022.03.07-12.40.23:068][123]LogTexture: Display: Building textures: Texture2D_2 (BGRA8, 16X16)
+[2022.03.07-12.40.23:072][123]LogTexture: Display: Building textures: Texture2D_1 (BGRA8, 16X16)
+[2022.03.07-12.40.23:075][123]LogTexture: Display: Building textures: Texture2D_21 (BGRA8, 16X16)
+[2022.03.07-12.40.23:079][123]LogTexture: Display: Building textures: Texture2D_34 (BGRA8, 16X16)
+[2022.03.07-12.40.23:083][123]LogTexture: Display: Building textures: Texture2D_19 (BGRA8, 16X16)
+[2022.03.07-12.40.23:091][123]LogTexture: Display: Building textures: Texture2D_14 (BGRA8, 16X16)
+[2022.03.07-12.40.23:105][123]LogTexture: Display: Building textures: Texture2D_35 (BGRA8, 16X16)
+[2022.03.07-12.40.23:116][123]LogTexture: Display: Building textures: Texture2D_16 (BGRA8, 16X16)
+[2022.03.07-12.40.23:124][123]LogTexture: Display: Building textures: Texture2D_13 (BGRA8, 16X16)
+[2022.03.07-12.40.23:130][123]LogTexture: Display: Building textures: Texture2D_28 (BGRA8, 16X16)
+[2022.03.07-12.40.23:142][123]LogTexture: Display: Building textures: Texture2D_1 (BGRA8, 16X16)
+[2022.03.07-12.40.23:150][123]LogTexture: Display: Building textures: Texture2D_14 (BGRA8, 16X16)
+[2022.03.07-12.40.23:153][123]LogTexture: Display: Building textures: Texture2D_8 (BGRA8, 16X16)
+[2022.03.07-12.40.23:156][123]LogTexture: Display: Building textures: Texture2D_26 (BGRA8, 16X16)
+[2022.03.07-12.40.23:159][123]LogTexture: Display: Building textures: Texture2D_31 (BGRA8, 16X16)
+[2022.03.07-12.40.23:163][123]LogTexture: Display: Building textures: Texture2D_19 (BGRA8, 16X16)
+[2022.03.07-12.40.23:166][123]LogTexture: Display: Building textures: Texture2D_13 (BGRA8, 16X16)
+[2022.03.07-12.40.23:170][123]LogTexture: Display: Building textures: Texture2D_11 (BGRA8, 16X16)
+[2022.03.07-12.40.23:174][123]LogTexture: Display: Building textures: Texture2D_18 (BGRA8, 16X16)
+[2022.03.07-12.40.23:178][123]LogTexture: Display: Building textures: Texture2D_14 (BGRA8, 16X16)
+[2022.03.07-12.40.23:181][123]LogTexture: Display: Building textures: Texture2D_5 (BGRA8, 16X16)
+[2022.03.07-12.40.23:185][123]LogTexture: Display: Building textures: Texture2D_25 (BGRA8, 16X16)
+[2022.03.07-12.40.23:188][123]LogTexture: Display: Building textures: Texture2D_13 (BGRA8, 16X16)
+[2022.03.07-12.40.23:192][123]LogTexture: Display: Building textures: Texture2D_12 (BGRA8, 16X16)
+[2022.03.07-12.40.23:196][123]LogTexture: Display: Building textures: Texture2D_11 (BGRA8, 16X16)
+[2022.03.07-12.40.23:199][123]LogTexture: Display: Building textures: Texture2D_10 (BGRA8, 16X16)
+[2022.03.07-12.40.23:203][123]LogTexture: Display: Building textures: Texture2D_2 (BGRA8, 16X16)
+[2022.03.07-12.40.23:206][123]LogTexture: Display: Building textures: Texture2D_9 (BGRA8, 16X16)
+[2022.03.07-12.40.23:211][123]LogTexture: Display: Building textures: Texture2D_15 (BGRA8, 16X16)
+[2022.03.07-12.40.23:214][123]LogTexture: Display: Building textures: Texture2D_3 (BGRA8, 16X16)
+[2022.03.07-12.40.23:218][123]LogTexture: Display: Building textures: Texture2D_20 (BGRA8, 16X16)
+[2022.03.07-12.40.23:222][123]LogTexture: Display: Building textures: Texture2D_19 (BGRA8, 16X16)
+[2022.03.07-12.40.23:227][123]LogTexture: Display: Building textures: Texture2D_18 (BGRA8, 16X16)
+[2022.03.07-12.40.23:232][123]LogTexture: Display: Building textures: Texture2D_8 (BGRA8, 16X16)
+[2022.03.07-12.40.23:237][123]LogTexture: Display: Building textures: Texture2D_7 (BGRA8, 16X16)
+[2022.03.07-12.40.23:241][123]LogTexture: Display: Building textures: Texture2D_27 (BGRA8, 16X16)
+[2022.03.07-12.40.23:245][123]LogTexture: Display: Building textures: Texture2D_6 (BGRA8, 16X16)
+[2022.03.07-12.40.23:248][123]LogTexture: Display: Building textures: Texture2D_4 (BGRA8, 16X16)
+[2022.03.07-12.40.23:253][123]LogTexture: Display: Building textures: Texture2D_26 (BGRA8, 16X16)
+[2022.03.07-12.40.23:256][123]LogTexture: Display: Building textures: Texture2D_1 (BGRA8, 16X16)
+[2022.03.07-12.40.23:260][123]LogTexture: Display: Building textures: Texture2D_21 (BGRA8, 16X16)
+[2022.03.07-12.40.23:264][123]LogTexture: Display: Building textures: Texture2D_17 (BGRA8, 16X16)
+[2022.03.07-12.40.23:268][123]LogTexture: Display: Building textures: Texture2D_37 (BGRA8, 16X16)
+[2022.03.07-12.40.23:284][123]LogLandscape: Warning: Shader FVLMVoxelizationGS unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.03.07-12.40.23:284][123]LogLandscape: Warning: Shader FVLMVoxelizationVS unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.03.07-12.40.23:284][123]LogLandscape: Warning: Shader FLightmapGBufferPS unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.03.07-12.40.23:284][123]LogLandscape: Warning: Shader FVLMVoxelizationPS unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.03.07-12.40.23:284][123]LogLandscape: Warning: Shader TLightmapMaterialCHS<false> unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.03.07-12.40.23:284][123]LogLandscape: Warning: Shader FLightmapGBufferVS unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.03.07-12.40.23:285][123]LogLandscape: Warning: Shader FVLMVoxelizationGS unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.03.07-12.40.23:285][123]LogLandscape: Warning: Shader FVLMVoxelizationVS unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.03.07-12.40.23:285][123]LogLandscape: Warning: Shader FLightmapGBufferPS unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.03.07-12.40.23:285][123]LogLandscape: Warning: Shader FVLMVoxelizationPS unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.03.07-12.40.23:285][123]LogLandscape: Warning: Shader TLightmapMaterialCHS<false> unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.03.07-12.40.23:285][123]LogLandscape: Warning: Shader FLightmapGBufferVS unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.03.07-12.40.23:286][123]LogLandscape: Warning: Shader FVLMVoxelizationGS unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.03.07-12.40.23:286][123]LogLandscape: Warning: Shader FVLMVoxelizationVS unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.03.07-12.40.23:286][123]LogLandscape: Warning: Shader FLightmapGBufferPS unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.03.07-12.40.23:286][123]LogLandscape: Warning: Shader FVLMVoxelizationPS unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.03.07-12.40.23:286][123]LogLandscape: Warning: Shader TLightmapMaterialCHS<false> unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.03.07-12.40.23:286][123]LogLandscape: Warning: Shader FLightmapGBufferVS unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.03.07-12.40.23:286][123]LogLandscape: Warning: Shader FVLMVoxelizationGS unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.03.07-12.40.23:286][123]LogLandscape: Warning: Shader FVLMVoxelizationVS unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.03.07-12.40.23:286][123]LogLandscape: Warning: Shader FLightmapGBufferPS unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.03.07-12.40.23:286][123]LogLandscape: Warning: Shader FVLMVoxelizationPS unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.03.07-12.40.23:286][123]LogLandscape: Warning: Shader TLightmapMaterialCHS<false> unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.03.07-12.40.23:286][123]LogLandscape: Warning: Shader FLightmapGBufferVS unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.03.07-12.40.23:290][123]LogLandscape: Warning: Shader FVLMVoxelizationGS unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.03.07-12.40.23:290][123]LogLandscape: Warning: Shader FVLMVoxelizationVS unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.03.07-12.40.23:290][123]LogLandscape: Warning: Shader FLightmapGBufferPS unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.03.07-12.40.23:290][123]LogLandscape: Warning: Shader FVLMVoxelizationPS unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.03.07-12.40.23:290][123]LogLandscape: Warning: Shader TLightmapMaterialCHS<false> unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.03.07-12.40.23:290][123]LogLandscape: Warning: Shader FLightmapGBufferVS unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.03.07-12.40.23:290][123]LogLandscape: Warning: Shader FVLMVoxelizationGS unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.03.07-12.40.23:290][123]LogLandscape: Warning: Shader FVLMVoxelizationVS unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.03.07-12.40.23:290][123]LogLandscape: Warning: Shader FLightmapGBufferPS unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.03.07-12.40.23:290][123]LogLandscape: Warning: Shader FVLMVoxelizationPS unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.03.07-12.40.23:290][123]LogLandscape: Warning: Shader TLightmapMaterialCHS<false> unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.03.07-12.40.23:290][123]LogLandscape: Warning: Shader FLightmapGBufferVS unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.03.07-12.40.23:291][123]LogLandscape: Warning: Shader FVLMVoxelizationGS unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.03.07-12.40.23:291][123]LogLandscape: Warning: Shader FVLMVoxelizationVS unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.03.07-12.40.23:291][123]LogLandscape: Warning: Shader FLightmapGBufferPS unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.03.07-12.40.23:291][123]LogLandscape: Warning: Shader FVLMVoxelizationPS unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.03.07-12.40.23:291][123]LogLandscape: Warning: Shader TLightmapMaterialCHS<false> unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.03.07-12.40.23:291][123]LogLandscape: Warning: Shader FLightmapGBufferVS unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.03.07-12.40.23:291][123]LogLandscape: Warning: Shader FVLMVoxelizationGS unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.03.07-12.40.23:291][123]LogLandscape: Warning: Shader FVLMVoxelizationVS unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.03.07-12.40.23:291][123]LogLandscape: Warning: Shader FLightmapGBufferPS unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.03.07-12.40.23:291][123]LogLandscape: Warning: Shader FVLMVoxelizationPS unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.03.07-12.40.23:291][123]LogLandscape: Warning: Shader TLightmapMaterialCHS<false> unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.03.07-12.40.23:291][123]LogLandscape: Warning: Shader FLightmapGBufferVS unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.03.07-12.40.23:293][123]LogLandscape: Warning: Shader FVLMVoxelizationGS unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.03.07-12.40.23:294][123]LogLandscape: Warning: Shader FVLMVoxelizationVS unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.03.07-12.40.23:294][123]LogLandscape: Warning: Shader FLightmapGBufferPS unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.03.07-12.40.23:294][123]LogLandscape: Warning: Shader FVLMVoxelizationPS unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.03.07-12.40.23:294][123]LogLandscape: Warning: Shader TLightmapMaterialCHS<false> unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.03.07-12.40.23:294][123]LogLandscape: Warning: Shader FLightmapGBufferVS unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.03.07-12.40.23:294][123]LogLandscape: Warning: Shader FVLMVoxelizationGS unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.03.07-12.40.23:294][123]LogLandscape: Warning: Shader FVLMVoxelizationVS unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.03.07-12.40.23:294][123]LogLandscape: Warning: Shader FLightmapGBufferPS unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.03.07-12.40.23:294][123]LogLandscape: Warning: Shader FVLMVoxelizationPS unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.03.07-12.40.23:294][123]LogLandscape: Warning: Shader TLightmapMaterialCHS<false> unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.03.07-12.40.23:294][123]LogLandscape: Warning: Shader FLightmapGBufferVS unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.03.07-12.40.23:295][123]LogLandscape: Warning: Shader FVLMVoxelizationGS unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.03.07-12.40.23:295][123]LogLandscape: Warning: Shader FVLMVoxelizationVS unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.03.07-12.40.23:295][123]LogLandscape: Warning: Shader FLightmapGBufferPS unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.03.07-12.40.23:295][123]LogLandscape: Warning: Shader FVLMVoxelizationPS unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.03.07-12.40.23:295][123]LogLandscape: Warning: Shader TLightmapMaterialCHS<false> unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.03.07-12.40.23:295][123]LogLandscape: Warning: Shader FLightmapGBufferVS unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.03.07-12.40.23:295][123]LogLandscape: Warning: Shader FVLMVoxelizationGS unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.03.07-12.40.23:295][123]LogLandscape: Warning: Shader FVLMVoxelizationVS unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.03.07-12.40.23:295][123]LogLandscape: Warning: Shader FLightmapGBufferPS unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.03.07-12.40.23:295][123]LogLandscape: Warning: Shader FVLMVoxelizationPS unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.03.07-12.40.23:295][123]LogLandscape: Warning: Shader TLightmapMaterialCHS<false> unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.03.07-12.40.23:295][123]LogLandscape: Warning: Shader FLightmapGBufferVS unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.03.07-12.40.23:297][123]LogLandscape: Warning: Shader FVLMVoxelizationGS unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.03.07-12.40.23:297][123]LogLandscape: Warning: Shader FVLMVoxelizationVS unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.03.07-12.40.23:297][123]LogLandscape: Warning: Shader FLightmapGBufferPS unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.03.07-12.40.23:297][123]LogLandscape: Warning: Shader FVLMVoxelizationPS unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.03.07-12.40.23:297][123]LogLandscape: Warning: Shader TLightmapMaterialCHS<false> unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.03.07-12.40.23:297][123]LogLandscape: Warning: Shader FLightmapGBufferVS unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.03.07-12.40.23:297][123]LogLandscape: Warning: Shader FVLMVoxelizationGS unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.03.07-12.40.23:297][123]LogLandscape: Warning: Shader FVLMVoxelizationVS unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.03.07-12.40.23:297][123]LogLandscape: Warning: Shader FLightmapGBufferPS unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.03.07-12.40.23:297][123]LogLandscape: Warning: Shader FVLMVoxelizationPS unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.03.07-12.40.23:297][123]LogLandscape: Warning: Shader TLightmapMaterialCHS<false> unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.03.07-12.40.23:297][123]LogLandscape: Warning: Shader FLightmapGBufferVS unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.03.07-12.40.23:298][123]LogLandscape: Warning: Shader FVLMVoxelizationGS unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.03.07-12.40.23:298][123]LogLandscape: Warning: Shader FVLMVoxelizationVS unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.03.07-12.40.23:298][123]LogLandscape: Warning: Shader FLightmapGBufferPS unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.03.07-12.40.23:298][123]LogLandscape: Warning: Shader FVLMVoxelizationPS unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.03.07-12.40.23:298][123]LogLandscape: Warning: Shader TLightmapMaterialCHS<false> unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.03.07-12.40.23:298][123]LogLandscape: Warning: Shader FLightmapGBufferVS unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.03.07-12.40.23:298][123]LogLandscape: Warning: Shader FVLMVoxelizationGS unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.03.07-12.40.23:298][123]LogLandscape: Warning: Shader FVLMVoxelizationVS unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.03.07-12.40.23:298][123]LogLandscape: Warning: Shader FLightmapGBufferPS unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.03.07-12.40.23:298][123]LogLandscape: Warning: Shader FVLMVoxelizationPS unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.03.07-12.40.23:298][123]LogLandscape: Warning: Shader TLightmapMaterialCHS<false> unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.03.07-12.40.23:298][123]LogLandscape: Warning: Shader FLightmapGBufferVS unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.03.07-12.40.23:301][123]LogLandscape: Warning: Shader FVLMVoxelizationGS unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.03.07-12.40.23:301][123]LogLandscape: Warning: Shader FVLMVoxelizationVS unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.03.07-12.40.23:301][123]LogLandscape: Warning: Shader FLightmapGBufferPS unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.03.07-12.40.23:301][123]LogLandscape: Warning: Shader FVLMVoxelizationPS unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.03.07-12.40.23:301][123]LogLandscape: Warning: Shader TLightmapMaterialCHS<false> unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.03.07-12.40.23:301][123]LogLandscape: Warning: Shader FLightmapGBufferVS unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.03.07-12.40.23:301][123]LogLandscape: Warning: Shader FVLMVoxelizationGS unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.03.07-12.40.23:301][123]LogLandscape: Warning: Shader FVLMVoxelizationVS unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.03.07-12.40.23:301][123]LogLandscape: Warning: Shader FLightmapGBufferPS unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.03.07-12.40.23:301][123]LogLandscape: Warning: Shader FVLMVoxelizationPS unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.03.07-12.40.23:301][123]LogLandscape: Warning: Shader TLightmapMaterialCHS<false> unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.03.07-12.40.23:301][123]LogLandscape: Warning: Shader FLightmapGBufferVS unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.03.07-12.40.23:302][123]LogLandscape: Warning: Shader FVLMVoxelizationGS unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.03.07-12.40.23:302][123]LogLandscape: Warning: Shader FVLMVoxelizationVS unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.03.07-12.40.23:302][123]LogLandscape: Warning: Shader FLightmapGBufferPS unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.03.07-12.40.23:302][123]LogLandscape: Warning: Shader FVLMVoxelizationPS unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.03.07-12.40.23:302][123]LogLandscape: Warning: Shader TLightmapMaterialCHS<false> unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.03.07-12.40.23:302][123]LogLandscape: Warning: Shader FLightmapGBufferVS unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.03.07-12.40.23:302][123]LogLandscape: Warning: Shader FVLMVoxelizationGS unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.03.07-12.40.23:302][123]LogLandscape: Warning: Shader FVLMVoxelizationVS unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.03.07-12.40.23:302][123]LogLandscape: Warning: Shader FLightmapGBufferPS unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.03.07-12.40.23:302][123]LogLandscape: Warning: Shader FVLMVoxelizationPS unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.03.07-12.40.23:302][123]LogLandscape: Warning: Shader TLightmapMaterialCHS<false> unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.03.07-12.40.23:302][123]LogLandscape: Warning: Shader FLightmapGBufferVS unknown by landscape thumbnail material, please add to either AllowedShaderTypes or ExcludedShaderTypes
+[2022.03.07-12.40.28:385][333]LogTexture: Display: Building textures: Texture2D_22 (BGRA8, 16X16)
+[2022.03.07-12.40.28:426][333]LogTexture: Display: Building textures: Texture2D_23 (BGRA8, 16X16)
+[2022.03.07-12.40.28:449][333]LogTexture: Display: Building textures: Texture2D_20 (BGRA8, 16X16)
+[2022.03.07-12.40.28:464][333]LogTexture: Display: Building textures: Texture2D_21 (BGRA8, 16X16)
+[2022.03.07-12.40.28:479][333]LogTexture: Display: Building textures: Texture2D_22 (BGRA8, 16X16)
+[2022.03.07-12.40.29:377][363]LogTexture: Display: Building textures: Texture2D_6 (BGRA8, 16X16)
+[2022.03.07-12.40.29:386][363]LogTexture: Display: Building textures: Texture2D_10 (BGRA8, 16X16)
+[2022.03.07-12.40.29:614][371]LogTexture: Display: Building textures: Texture2D_11 (BGRA8, 16X16)
+[2022.03.07-12.40.29:667][372]LogTexture: Display: Building textures: Texture2D_12 (BGRA8, 16X16)
+[2022.03.07-12.40.34:580][574]LogD3D12RHI: Creating RTPSO with 164 shaders (161 cached, 3 new) took 17.72 ms. Compile time 11.21 ms, link time 6.07 ms.
+[2022.03.07-12.40.34:817][582]LogD3D12RHI: Creating RTPSO with 166 shaders (164 cached, 2 new) took 19.02 ms. Compile time 11.15 ms, link time 7.41 ms.
+[2022.03.07-12.40.35:345][600]LogD3D12RHI: Creating RTPSO with 169 shaders (166 cached, 3 new) took 19.60 ms. Compile time 12.92 ms, link time 6.24 ms.
+[2022.03.07-12.40.39:487][742]LogTexture: Display: Building textures: Texture2D_16 (BGRA8, 16X16)
+[2022.03.07-12.40.39:513][742]LogTexture: Display: Building textures: Texture2D_17 (BGRA8, 16X16)
+[2022.03.07-12.40.39:559][745]LogD3D12RHI: Creating RTPSO with 170 shaders (169 cached, 1 new) took 14.54 ms. Compile time 8.19 ms, link time 5.93 ms.
+[2022.03.07-12.40.40:619][785]LogTexture: Display: Building textures: Texture2D_11 (BGRA8, 16X16)
+[2022.03.07-12.40.43:049][863]LogTexture: Display: Building textures: Texture2D_12 (BGRA8, 16X16)
+[2022.03.07-12.40.43:058][863]LogTexture: Display: Building textures: Texture2D_13 (BGRA8, 16X16)
+[2022.03.07-12.40.43:110][864]LogTexture: Display: Building textures: Texture2D_14 (BGRA8, 16X16)
+[2022.03.07-12.40.44:218][906]LogTexture: Display: Building textures: Texture2D_15 (BGRA8, 16X16)
+[2022.03.07-12.40.49:007][ 83]LogD3D12RHI: Creating RTPSO with 171 shaders (170 cached, 1 new) took 19.36 ms. Compile time 11.64 ms, link time 7.23 ms.
+[2022.03.07-12.41.08:061][790]LogTexture: Display: Building textures: Texture2D_18 (BGRA8, 16X16)
+[2022.03.07-12.41.08:726][815]LogTexture: Display: Building textures: Texture2D_19 (BGRA8, 16X16)
+[2022.03.07-12.41.52:379][405]LogD3D12RHI: Creating RTPSO with 172 shaders (171 cached, 1 new) took 17.09 ms. Compile time 9.34 ms, link time 7.33 ms.
+[2022.03.07-12.41.52:947][424]LogD3D12RHI: Creating RTPSO with 173 shaders (172 cached, 1 new) took 15.84 ms. Compile time 8.59 ms, link time 6.83 ms.
+[2022.03.07-12.42.03:102][832]LogTexture: Display: Building textures: Texture2D_20 (BGRA8, 16X16)
+[2022.03.07-12.42.03:203][833]LogTexture: Display: Building textures: Texture2D_24 (BGRA8, 16X16)
+[2022.03.07-12.42.03:217][833]LogTexture: Display: Building textures: Texture2D_25 (BGRA8, 16X16)
+[2022.03.07-12.42.03:226][833]LogTexture: Display: Building textures: Texture2D_26 (BGRA8, 16X16)
+[2022.03.07-12.42.03:265][834]LogTexture: Display: Building textures: Texture2D_27 (BGRA8, 16X16)
+[2022.03.07-12.42.03:282][834]LogTexture: Display: Building textures: Texture2D_28 (BGRA8, 16X16)
+[2022.03.07-12.42.04:949][882]LogD3D12RHI: Creating RTPSO with 174 shaders (173 cached, 1 new) took 15.46 ms. Compile time 8.63 ms, link time 6.36 ms.
+[2022.03.07-12.42.05:859][906]LogD3D12RHI: Creating RTPSO with 175 shaders (174 cached, 1 new) took 14.21 ms. Compile time 7.03 ms, link time 6.80 ms.
+[2022.03.07-12.42.05:967][906]LogTexture: Display: Building textures: Texture2D_5 (BGRA8, 16X16)
+[2022.03.07-12.42.05:984][906]LogTexture: Display: Building textures: Texture2D_12 (BGRA8, 16X16)
+[2022.03.07-12.42.05:998][906]LogTexture: Display: Building textures: Texture2D_13 (BGRA8, 16X16)
+[2022.03.07-12.42.06:062][907]LogD3D12RHI: Creating RTPSO with 176 shaders (175 cached, 1 new) took 19.37 ms. Compile time 9.96 ms, link time 8.96 ms.
+[2022.03.07-12.42.06:150][908]LogTexture: Display: Building textures: Texture2D_14 (BGRA8, 16X16)
+[2022.03.07-12.42.06:226][909]LogTexture: Display: Building textures: Texture2D_15 (BGRA8, 16X16)
+[2022.03.07-12.42.06:248][909]LogTexture: Display: Building textures: Texture2D_16 (BGRA8, 16X16)
+[2022.03.07-12.42.08:222][961]LogD3D12RHI: Creating RTPSO with 177 shaders (176 cached, 1 new) took 15.53 ms. Compile time 7.67 ms, link time 7.36 ms.
+[2022.03.07-12.42.08:313][962]LogD3D12RHI: Creating RTPSO with 178 shaders (177 cached, 1 new) took 16.92 ms. Compile time 8.00 ms, link time 8.44 ms.
+[2022.03.07-12.42.08:505][966]LogD3D12RHI: Creating RTPSO with 179 shaders (178 cached, 1 new) took 16.02 ms. Compile time 7.76 ms, link time 7.75 ms.
+[2022.03.07-12.42.08:628][968]LogTexture: Display: Building textures: Texture2D_8 (BGRA8, 16X16)
+[2022.03.07-12.42.08:651][968]LogD3D12RHI: Creating RTPSO with 180 shaders (179 cached, 1 new) took 17.21 ms. Compile time 9.44 ms, link time 7.31 ms.
+[2022.03.07-12.42.11:002][968]LogStats: FPlatformStackWalk::StackWalkAndDump -  2.264 s
+[2022.03.07-12.42.11:016][968]LogOutputDevice: Error: === Handled ensure: ===
+[2022.03.07-12.42.11:016][968]LogOutputDevice: Error: 
+[2022.03.07-12.42.11:016][968]LogOutputDevice: Error: Ensure condition failed: false [File:D:/Build/++UE4/Sync/Engine/Source/Runtime/Engine/Private/Materials/MaterialUniformExpressions.cpp] [Line: 1329]
+[2022.03.07-12.42.11:016][968]LogOutputDevice: Error: Texture Texture2D_26 of class Texture2D had invalid sampler source. Material LandscapeTexture with texture expression in slot 1. Sampler source mode 0. Resource initialized: 0
+[2022.03.07-12.42.11:016][968]LogOutputDevice: Error: Stack: 
+[2022.03.07-12.42.11:016][968]LogOutputDevice: Error: [Callstack] 0x00007ffbb928d9ca UE4Editor-Engine.dll!UnknownFunction []
+[2022.03.07-12.42.11:016][968]LogOutputDevice: Error: [Callstack] 0x00007ffbb831eace UE4Editor-Engine.dll!UnknownFunction []
+[2022.03.07-12.42.11:016][968]LogOutputDevice: Error: [Callstack] 0x00007ffbb829d7ea UE4Editor-Engine.dll!UnknownFunction []
+[2022.03.07-12.42.11:016][968]LogOutputDevice: Error: [Callstack] 0x00007ffbb82d9c00 UE4Editor-Engine.dll!UnknownFunction []
+[2022.03.07-12.42.11:016][968]LogOutputDevice: Error: [Callstack] 0x00007ffbb516ae4b UE4Editor-Renderer.dll!UnknownFunction []
+[2022.03.07-12.42.11:016][968]LogOutputDevice: Error: [Callstack] 0x00007ffbb51646ae UE4Editor-Renderer.dll!UnknownFunction []
+[2022.03.07-12.42.11:016][968]LogOutputDevice: Error: [Callstack] 0x00007ffbb51663ec UE4Editor-Renderer.dll!UnknownFunction []
+[2022.03.07-12.42.11:016][968]LogOutputDevice: Error: [Callstack] 0x00007ffbb525df8c UE4Editor-Renderer.dll!UnknownFunction []
+[2022.03.07-12.42.11:016][968]LogOutputDevice: Error: [Callstack] 0x00007ffbb7bdfc12 UE4Editor-Engine.dll!UnknownFunction []
+[2022.03.07-12.42.11:016][968]LogOutputDevice: Error: [Callstack] 0x00007ffbb7be42b7 UE4Editor-Engine.dll!UnknownFunction []
+[2022.03.07-12.42.11:016][968]LogOutputDevice: Error: [Callstack] 0x00007ffbbe17ecdc UE4Editor-Core.dll!UnknownFunction []
+[2022.03.07-12.42.11:016][968]LogOutputDevice: Error: [Callstack] 0x00007ffbbe17f0ce UE4Editor-Core.dll!UnknownFunction []
+[2022.03.07-12.42.11:016][968]LogOutputDevice: Error: [Callstack] 0x00007ffbf974a5c2 UE4Editor-RenderCore.dll!UnknownFunction []
+[2022.03.07-12.42.11:016][968]LogOutputDevice: Error: [Callstack] 0x00007ffbf9752c94 UE4Editor-RenderCore.dll!UnknownFunction []
+[2022.03.07-12.42.11:016][968]LogOutputDevice: Error: [Callstack] 0x00007ffbbe6d898b UE4Editor-Core.dll!UnknownFunction []
+[2022.03.07-12.42.11:016][968]LogOutputDevice: Error: [Callstack] 0x00007ffbbe6d1620 UE4Editor-Core.dll!UnknownFunction []
+[2022.03.07-12.42.11:016][968]LogOutputDevice: Error: [Callstack] 0x00007ffc4f8d54e0 KERNEL32.DLL!UnknownFunction []
+[2022.03.07-12.42.11:016][968]LogOutputDevice: Error: [Callstack] 0x00007ffc50aa485b ntdll.dll!UnknownFunction []
+[2022.03.07-12.42.11:016][968]LogOutputDevice: Error: 
+[2022.03.07-12.42.11:016][968]LogStats:                SubmitErrorReport -  0.000 s

@@ -1,0 +1,800 @@
+﻿Log file open, 03/13/22 20:05:21
+LogInit: LLM is enabled
+LogInit: LLM CsvWriter: off TraceWriter: off
+LogInit: Display: Running engine for game: PoTO
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.223777
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +8:00, Platform Override: ''
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin GPULightmass
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin NiagaraExtras
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin SteamVR
+LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+LogGPULightmass: GPULightmass module is loaded
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.26-CL-15973114
+LogInit: Engine Version: 4.26.2-15973114+++UE4+Release-4.26
+LogInit: Compatible Engine Version: 4.26.0-14830424+++UE4+Release-4.26
+LogInit: Net CL: 14830424
+LogInit: OS: Windows 10 (Release 2009) (), CPU: Intel(R) Core(TM) i7-9750H CPU @ 2.60GHz, GPU: Intel(R) UHD Graphics 630
+LogInit: Compiled (64-bit): Apr 12 2021 06:14:10
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.26
+LogInit: Command Line:  /Game/Maps/MainMenu -game -PIEVIACONSOLE -Multiprocess "GameUserSettingsINI=D:/GAME PROJECTS/Pearl of the Orient/Pearl of the Orient/Unreal_Pearl-of-the-Orient/PoTO/Saved/Config/Windows/PIEGameUserSettings0.ini" -MultiprocessSaveConfig -MultiprocessOSS -messaging -SessionName="Play in Standalone Game" -windowed -WinX=0 -WinY=0 SAVEWINPOS=1 -ResX=1910 -ResY=1006
+LogInit: Base Directory: E:/PROGRAM FILES/UE_4.26/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 4
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 44
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 12
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 43
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 40
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/GAME PROJECTS/Pearl of the Orient/Pearl of the Orient/Unreal_Pearl-of-the-Orient/PoTO/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2022.03.13-12.05.21:885][  0]LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+[2022.03.13-12.05.21:886][  0]LogConfig: Setting CVar [[r.setres:1280x720]]
+[2022.03.13-12.05.21:886][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/GAME PROJECTS/Pearl of the Orient/Pearl of the Orient/Unreal_Pearl-of-the-Orient/PoTO/Saved/Config/Windows/Engine.ini]
+[2022.03.13-12.05.21:886][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2022.03.13-12.05.21:886][  0]LogConfig: Setting CVar [[r.SkinCache.CompileShaders:1]]
+[2022.03.13-12.05.21:886][  0]LogConfig: Setting CVar [[r.RayTracing:1]]
+[2022.03.13-12.05.21:886][  0]LogConfig: Setting CVar [[r.VirtualTextures:1]]
+[2022.03.13-12.05.21:886][  0]LogConfig: Setting CVar [[r.VirtualTexturedLightmaps:1]]
+[2022.03.13-12.05.21:886][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [D:/GAME PROJECTS/Pearl of the Orient/Pearl of the Orient/Unreal_Pearl-of-the-Orient/PoTO/Saved/Config/Windows/Engine.ini]
+[2022.03.13-12.05.21:886][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/GAME PROJECTS/Pearl of the Orient/Pearl of the Orient/Unreal_Pearl-of-the-Orient/PoTO/Saved/Config/Windows/Engine.ini]
+[2022.03.13-12.05.21:886][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2022.03.13-12.05.21:886][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2022.03.13-12.05.21:886][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2022.03.13-12.05.21:886][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2022.03.13-12.05.21:886][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2022.03.13-12.05.21:886][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2022.03.13-12.05.21:886][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2022.03.13-12.05.21:886][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2022.03.13-12.05.21:886][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2022.03.13-12.05.21:886][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2022.03.13-12.05.21:886][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2022.03.13-12.05.21:886][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2022.03.13-12.05.21:886][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2022.03.13-12.05.21:886][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2022.03.13-12.05.21:886][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [D:/GAME PROJECTS/Pearl of the Orient/Pearl of the Orient/Unreal_Pearl-of-the-Orient/PoTO/Saved/Config/Windows/Engine.ini]
+[2022.03.13-12.05.21:886][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2022.03.13-12.05.21:886][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2022.03.13-12.05.21:886][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2022.03.13-12.05.21:886][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2022.03.13-12.05.21:886][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2022.03.13-12.05.21:886][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2022.03.13-12.05.21:886][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2022.03.13-12.05.21:886][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2022.03.13-12.05.21:886][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2022.03.13-12.05.21:886][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2022.03.13-12.05.21:886][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2022.03.13-12.05.21:886][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2022.03.13-12.05.21:886][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2022.03.13-12.05.21:886][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2022.03.13-12.05.21:886][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [D:/GAME PROJECTS/Pearl of the Orient/Pearl of the Orient/Unreal_Pearl-of-the-Orient/PoTO/Saved/Config/Windows/Engine.ini]
+[2022.03.13-12.05.21:886][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [D:/GAME PROJECTS/Pearl of the Orient/Pearl of the Orient/Unreal_Pearl-of-the-Orient/PoTO/Saved/Config/Windows/Engine.ini]
+[2022.03.13-12.05.21:895][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/GAME PROJECTS/Pearl of the Orient/Pearl of the Orient/Unreal_Pearl-of-the-Orient/PoTO/Saved/Config/Windows/Scalability.ini]
+[2022.03.13-12.05.21:895][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2022.03.13-12.05.21:895][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2022.03.13-12.05.21:895][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/GAME PROJECTS/Pearl of the Orient/Pearl of the Orient/Unreal_Pearl-of-the-Orient/PoTO/Saved/Config/Windows/Scalability.ini]
+[2022.03.13-12.05.21:895][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2022.03.13-12.05.21:895][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/GAME PROJECTS/Pearl of the Orient/Pearl of the Orient/Unreal_Pearl-of-the-Orient/PoTO/Saved/Config/Windows/Scalability.ini]
+[2022.03.13-12.05.21:895][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2022.03.13-12.05.21:895][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2022.03.13-12.05.21:895][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2022.03.13-12.05.21:895][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2022.03.13-12.05.21:895][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2022.03.13-12.05.21:895][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2022.03.13-12.05.21:895][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2022.03.13-12.05.21:895][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2022.03.13-12.05.21:895][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2022.03.13-12.05.21:895][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2022.03.13-12.05.21:895][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2022.03.13-12.05.21:895][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2022.03.13-12.05.21:895][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2022.03.13-12.05.21:895][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2022.03.13-12.05.21:895][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2022.03.13-12.05.21:895][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2022.03.13-12.05.21:895][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2022.03.13-12.05.21:895][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2022.03.13-12.05.21:895][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/GAME PROJECTS/Pearl of the Orient/Pearl of the Orient/Unreal_Pearl-of-the-Orient/PoTO/Saved/Config/Windows/Scalability.ini]
+[2022.03.13-12.05.21:895][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2022.03.13-12.05.21:895][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2022.03.13-12.05.21:895][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2022.03.13-12.05.21:895][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2022.03.13-12.05.21:895][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2022.03.13-12.05.21:895][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2022.03.13-12.05.21:895][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2022.03.13-12.05.21:895][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2022.03.13-12.05.21:895][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2022.03.13-12.05.21:895][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2022.03.13-12.05.21:895][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2022.03.13-12.05.21:895][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2022.03.13-12.05.21:895][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2022.03.13-12.05.21:895][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2022.03.13-12.05.21:895][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2022.03.13-12.05.21:895][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2022.03.13-12.05.21:895][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2022.03.13-12.05.21:895][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2022.03.13-12.05.21:895][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2022.03.13-12.05.21:896][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2022.03.13-12.05.21:896][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2022.03.13-12.05.21:896][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2022.03.13-12.05.21:896][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2022.03.13-12.05.21:896][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2022.03.13-12.05.21:896][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2022.03.13-12.05.21:896][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2022.03.13-12.05.21:896][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2022.03.13-12.05.21:896][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2022.03.13-12.05.21:896][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2022.03.13-12.05.21:896][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2022.03.13-12.05.21:896][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/GAME PROJECTS/Pearl of the Orient/Pearl of the Orient/Unreal_Pearl-of-the-Orient/PoTO/Saved/Config/Windows/Scalability.ini]
+[2022.03.13-12.05.21:896][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2022.03.13-12.05.21:896][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2022.03.13-12.05.21:896][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2022.03.13-12.05.21:896][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2022.03.13-12.05.21:896][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2022.03.13-12.05.21:896][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2022.03.13-12.05.21:896][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2022.03.13-12.05.21:896][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2022.03.13-12.05.21:896][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2022.03.13-12.05.21:896][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/GAME PROJECTS/Pearl of the Orient/Pearl of the Orient/Unreal_Pearl-of-the-Orient/PoTO/Saved/Config/Windows/Scalability.ini]
+[2022.03.13-12.05.21:896][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2022.03.13-12.05.21:896][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2022.03.13-12.05.21:896][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2022.03.13-12.05.21:896][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2022.03.13-12.05.21:896][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2022.03.13-12.05.21:896][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2022.03.13-12.05.21:896][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2022.03.13-12.05.21:896][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2022.03.13-12.05.21:896][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2022.03.13-12.05.21:896][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2022.03.13-12.05.21:896][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2022.03.13-12.05.21:896][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2022.03.13-12.05.21:896][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2022.03.13-12.05.21:896][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2022.03.13-12.05.21:896][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2022.03.13-12.05.21:896][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2022.03.13-12.05.21:896][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2022.03.13-12.05.21:896][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2022.03.13-12.05.21:896][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2022.03.13-12.05.21:896][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2022.03.13-12.05.21:896][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2022.03.13-12.05.21:896][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2022.03.13-12.05.21:896][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2022.03.13-12.05.21:896][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2022.03.13-12.05.21:896][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2022.03.13-12.05.21:896][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2022.03.13-12.05.21:896][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2022.03.13-12.05.21:896][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/GAME PROJECTS/Pearl of the Orient/Pearl of the Orient/Unreal_Pearl-of-the-Orient/PoTO/Saved/Config/Windows/Scalability.ini]
+[2022.03.13-12.05.21:896][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2022.03.13-12.05.21:896][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2022.03.13-12.05.21:896][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/GAME PROJECTS/Pearl of the Orient/Pearl of the Orient/Unreal_Pearl-of-the-Orient/PoTO/Saved/Config/Windows/Scalability.ini]
+[2022.03.13-12.05.21:896][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2022.03.13-12.05.21:896][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2022.03.13-12.05.21:896][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2022.03.13-12.05.21:896][  0]LogInit: Selected Device Profile: [Windows]
+[2022.03.13-12.05.21:896][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2022.03.13-12.05.21:896][  0]LogHAL: Display: Platform has ~ 32 GB [34202071040 / 34359738368 / 32], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2022.03.13-12.05.21:896][  0]LogInit: Going up to parent DeviceProfile []
+[2022.03.13-12.05.21:896][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/GAME PROJECTS/Pearl of the Orient/Pearl of the Orient/Unreal_Pearl-of-the-Orient/PoTO/Saved/Config/Windows/Scalability.ini]
+[2022.03.13-12.05.21:896][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2022.03.13-12.05.21:896][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2022.03.13-12.05.21:896][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/GAME PROJECTS/Pearl of the Orient/Pearl of the Orient/Unreal_Pearl-of-the-Orient/PoTO/Saved/Config/Windows/Scalability.ini]
+[2022.03.13-12.05.21:896][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2022.03.13-12.05.21:896][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@0] File [D:/GAME PROJECTS/Pearl of the Orient/Pearl of the Orient/Unreal_Pearl-of-the-Orient/PoTO/Saved/Config/Windows/Scalability.ini]
+[2022.03.13-12.05.21:896][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:0]]
+[2022.03.13-12.05.21:896][  0]LogConfig: Setting CVar [[r.ShadowQuality:0]]
+[2022.03.13-12.05.21:896][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:1]]
+[2022.03.13-12.05.21:896][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:512]]
+[2022.03.13-12.05.21:896][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:512]]
+[2022.03.13-12.05.21:896][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.06]]
+[2022.03.13-12.05.21:896][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:0.6]]
+[2022.03.13-12.05.21:896][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:0]]
+[2022.03.13-12.05.21:896][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:0.5]]
+[2022.03.13-12.05.21:896][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:0]]
+[2022.03.13-12.05.21:897][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:0]]
+[2022.03.13-12.05.21:897][  0]LogConfig: Setting CVar [[r.VolumetricFog:0]]
+[2022.03.13-12.05.21:897][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:0]]
+[2022.03.13-12.05.21:897][  0]LogConfig: Setting CVar [[r.CapsuleShadows:0]]
+[2022.03.13-12.05.21:897][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/GAME PROJECTS/Pearl of the Orient/Pearl of the Orient/Unreal_Pearl-of-the-Orient/PoTO/Saved/Config/Windows/Scalability.ini]
+[2022.03.13-12.05.21:897][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2022.03.13-12.05.21:897][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2022.03.13-12.05.21:897][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2022.03.13-12.05.21:897][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2022.03.13-12.05.21:897][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2022.03.13-12.05.21:897][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2022.03.13-12.05.21:897][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2022.03.13-12.05.21:897][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2022.03.13-12.05.21:897][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2022.03.13-12.05.21:897][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2022.03.13-12.05.21:897][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2022.03.13-12.05.21:897][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2022.03.13-12.05.21:897][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2022.03.13-12.05.21:897][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2022.03.13-12.05.21:897][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2022.03.13-12.05.21:897][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2022.03.13-12.05.21:897][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2022.03.13-12.05.21:897][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2022.03.13-12.05.21:897][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2022.03.13-12.05.21:897][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2022.03.13-12.05.21:897][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2022.03.13-12.05.21:897][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2022.03.13-12.05.21:897][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2022.03.13-12.05.21:897][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2022.03.13-12.05.21:897][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2022.03.13-12.05.21:897][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2022.03.13-12.05.21:897][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2022.03.13-12.05.21:897][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2022.03.13-12.05.21:897][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2022.03.13-12.05.21:897][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2022.03.13-12.05.21:897][  0]LogConfig: Applying CVar settings from Section [TextureQuality@0] File [D:/GAME PROJECTS/Pearl of the Orient/Pearl of the Orient/Unreal_Pearl-of-the-Orient/PoTO/Saved/Config/Windows/Scalability.ini]
+[2022.03.13-12.05.21:897][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:16]]
+[2022.03.13-12.05.21:897][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:1]]
+[2022.03.13-12.05.21:897][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:1]]
+[2022.03.13-12.05.21:897][  0]LogConfig: Setting CVar [[r.Streaming.Boost:0.3]]
+[2022.03.13-12.05.21:897][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:0]]
+[2022.03.13-12.05.21:897][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:4]]
+[2022.03.13-12.05.21:897][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:1]]
+[2022.03.13-12.05.21:897][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:400]]
+[2022.03.13-12.05.21:897][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2022.03.13-12.05.21:897][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/GAME PROJECTS/Pearl of the Orient/Pearl of the Orient/Unreal_Pearl-of-the-Orient/PoTO/Saved/Config/Windows/Scalability.ini]
+[2022.03.13-12.05.21:897][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2022.03.13-12.05.21:897][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2022.03.13-12.05.21:897][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2022.03.13-12.05.21:897][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2022.03.13-12.05.21:897][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2022.03.13-12.05.21:897][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2022.03.13-12.05.21:897][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2022.03.13-12.05.21:897][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2022.03.13-12.05.21:897][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2022.03.13-12.05.21:897][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2022.03.13-12.05.21:897][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2022.03.13-12.05.21:897][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2022.03.13-12.05.21:897][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2022.03.13-12.05.21:897][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2022.03.13-12.05.21:897][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2022.03.13-12.05.21:897][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2022.03.13-12.05.21:897][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2022.03.13-12.05.21:897][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2022.03.13-12.05.21:897][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2022.03.13-12.05.21:897][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2022.03.13-12.05.21:897][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2022.03.13-12.05.21:897][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2022.03.13-12.05.21:897][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2022.03.13-12.05.21:897][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2022.03.13-12.05.21:897][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2022.03.13-12.05.21:897][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2022.03.13-12.05.21:897][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2022.03.13-12.05.21:897][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@0] File [D:/GAME PROJECTS/Pearl of the Orient/Pearl of the Orient/Unreal_Pearl-of-the-Orient/PoTO/Saved/Config/Windows/Scalability.ini]
+[2022.03.13-12.05.21:897][  0]LogConfig: Setting CVar [[foliage.DensityScale:0]]
+[2022.03.13-12.05.21:897][  0]LogConfig: Setting CVar [[grass.DensityScale:0]]
+[2022.03.13-12.05.21:897][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/GAME PROJECTS/Pearl of the Orient/Pearl of the Orient/Unreal_Pearl-of-the-Orient/PoTO/Saved/Config/Windows/Scalability.ini]
+[2022.03.13-12.05.21:897][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2022.03.13-12.05.21:897][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2022.03.13-12.05.21:897][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2022.03.13-12.05.21:897][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2022.03.13-12.05.21:898][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2022.03.13-12.05.21:898][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2022.03.13-12.05.21:898][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2022.03.13-12.05.21:898][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/GAME PROJECTS/Pearl of the Orient/Pearl of the Orient/Unreal_Pearl-of-the-Orient/PoTO/Saved/Config/Windows/Engine.ini]
+[2022.03.13-12.05.21:898][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/GAME PROJECTS/Pearl of the Orient/Pearl of the Orient/Unreal_Pearl-of-the-Orient/PoTO/Saved/Config/Windows/Editor.ini]
+[2022.03.13-12.05.21:898][  0]LogInit: Computer: MINNIC27
+[2022.03.13-12.05.21:898][  0]LogInit: User: Admin
+[2022.03.13-12.05.21:898][  0]LogInit: CPU Page size=4096, Cores=6
+[2022.03.13-12.05.21:898][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2022.03.13-12.05.21:898][  0]LogMemory: Memory total: Physical=31.9GB (32GB approx)
+[2022.03.13-12.05.21:898][  0]LogMemory: Platform Memory Stats for Windows
+[2022.03.13-12.05.21:898][  0]LogMemory: Process Physical Memory: 142.14 MB used, 142.14 MB peak
+[2022.03.13-12.05.21:898][  0]LogMemory: Process Virtual Memory: 158.76 MB used, 158.76 MB peak
+[2022.03.13-12.05.21:898][  0]LogMemory: Physical Memory: 12517.25 MB used,  20100.39 MB free, 32617.64 MB total
+[2022.03.13-12.05.21:898][  0]LogMemory: Virtual Memory: 134198096.00 MB used,  19632.37 MB free, 134217728.00 MB total
+[2022.03.13-12.05.21:903][  0]LogWindows: WindowsPlatformFeatures enabled
+[2022.03.13-12.05.21:942][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2022.03.13-12.05.21:942][  0]LogInit: Using OS detected language (en-US).
+[2022.03.13-12.05.21:942][  0]LogInit: Using OS detected locale (en-PH).
+[2022.03.13-12.05.21:944][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2022.03.13-12.05.22:123][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.03.13-12.05.22:145][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2022.03.13-12.05.22:145][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2022.03.13-12.05.22:161][  0]LogD3D12RHI: Aftermath initialized
+[2022.03.13-12.05.22:161][  0]LogD3D12RHI: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
+[2022.03.13-12.05.22:207][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2022.03.13-12.05.22:337][  0]LogD3D12RHI: Found D3D12 adapter 0: NVIDIA GeForce GTX 1660 Ti (Max supported Feature Level 12_1)
+[2022.03.13-12.05.22:337][  0]LogD3D12RHI: Adapter has 5991MB of dedicated video memory, 0MB of dedicated system memory, and 16308MB of shared system memory, 1 output[s]
+[2022.03.13-12.05.22:360][  0]LogD3D12RHI: Found D3D12 adapter 1: Intel(R) UHD Graphics 630 (Max supported Feature Level 12_1)
+[2022.03.13-12.05.22:360][  0]LogD3D12RHI: Adapter has 128MB of dedicated video memory, 0MB of dedicated system memory, and 16308MB of shared system memory, 0 output[s]
+[2022.03.13-12.05.22:367][  0]LogD3D12RHI: Found D3D12 adapter 2: Microsoft Basic Render Driver (Max supported Feature Level 12_1)
+[2022.03.13-12.05.22:367][  0]LogD3D12RHI: Adapter has 0MB of dedicated video memory, 0MB of dedicated system memory, and 16308MB of shared system memory, 0 output[s]
+[2022.03.13-12.05.22:367][  0]LogD3D12RHI: Forcing D3D12.AsyncDeferredDeletion=0 as a workaround for a deadlock.
+[2022.03.13-12.05.22:367][  0]LogD3D12RHI: Chosen D3D12 Adapter Id = 0
+[2022.03.13-12.05.22:372][  0]LogD3D12RHI: InitD3DDevice: -D3DDebug = off -D3D12GPUValidation = off
+[2022.03.13-12.05.22:372][  0]LogD3D12RHI: Emitting draw events for PIX profiling.
+[2022.03.13-12.05.22:448][  0]LogD3D12RHI: The system supports ID3D12Device1.
+[2022.03.13-12.05.22:448][  0]LogD3D12RHI: The system supports ID3D12Device2.
+[2022.03.13-12.05.22:448][  0]LogD3D12RHI: The system supports ID3D12Device5.
+[2022.03.13-12.05.22:448][  0]LogD3D12RHI: The system supports ID3D12Device7.
+[2022.03.13-12.05.22:448][  0]LogD3D12RHI: D3D12 ray tracing 1.0 is supported.
+[2022.03.13-12.05.22:510][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for 3D Queue 0
+[2022.03.13-12.05.22:516][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for Copy Queue 0
+[2022.03.13-12.05.22:529][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for Compute Queue 0
+[2022.03.13-12.05.22:536][  0]LogD3D12RHI: Display: Not using pipeline state disk cache per r.D3D12.PSO.DiskCache=0
+[2022.03.13-12.05.22:536][  0]LogD3D12RHI: Display: Not using driver-optimized pipeline state disk cache per r.D3D12.PSO.DriverOptimizedDiskCache=0
+[2022.03.13-12.05.22:538][  0]LogD3D12RHI:     GPU DeviceId: 0x2191 (for the marketing name, search the web for "GPU Device Id")
+[2022.03.13-12.05.22:538][  0]LogWindows: EnumDisplayDevices:
+[2022.03.13-12.05.22:538][  0]LogWindows:    0. 'Intel(R) UHD Graphics 630' (P:1 D:1)
+[2022.03.13-12.05.22:538][  0]LogWindows:    1. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2022.03.13-12.05.22:538][  0]LogWindows:    2. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2022.03.13-12.05.22:538][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1660 Ti' (P:0 D:0)
+[2022.03.13-12.05.22:539][  0]LogWindows:    4. 'NVIDIA GeForce GTX 1660 Ti' (P:0 D:0)
+[2022.03.13-12.05.22:539][  0]LogWindows:    5. 'NVIDIA GeForce GTX 1660 Ti' (P:0 D:0)
+[2022.03.13-12.05.22:539][  0]LogWindows:    6. 'NVIDIA GeForce GTX 1660 Ti' (P:0 D:0)
+[2022.03.13-12.05.22:539][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2022.03.13-12.05.22:539][  0]LogD3D12RHI:     Adapter Name: NVIDIA GeForce GTX 1660 Ti
+[2022.03.13-12.05.22:539][  0]LogD3D12RHI:   Driver Version: 497.09 (internal:30.0.14.9709, unified:497.09)
+[2022.03.13-12.05.22:539][  0]LogD3D12RHI:      Driver Date: 11-26-2021
+[2022.03.13-12.05.22:539][  0]LogRHI: Texture pool is 3290 MB (70% of 4700 MB)
+[2022.03.13-12.05.22:539][  0]LogD3D12RHI: Async texture creation enabled
+[2022.03.13-12.05.22:539][  0]LogD3D12RHI: RHI has support for 64 bit atomics
+[2022.03.13-12.05.22:550][  0]LogRHI: GeForceNow SDK initialized: 1
+[2022.03.13-12.05.22:824][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2022.03.13-12.05.22:828][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2022.03.13-12.05.22:834][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2022.03.13-12.05.22:840][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2022.03.13-12.05.22:840][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2022.03.13-12.05.22:845][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2022.03.13-12.05.22:885][  0]LogRendererCore: Ray tracing is enabled for the game. Reason: r.RayTracing=1 and r.RayTracing.EnableInGame is not present (default true).
+[2022.03.13-12.05.22:885][  0]LogShaderCompilers: Guid format shader working directory is -43 characters bigger than the processId version (D:/GAME PROJECTS/Pearl of the Orient/Pearl of the Orient/Unreal_Pearl-of-the-Orient/PoTO/Intermediate/Shaders/WorkingDirectory/12360/).
+[2022.03.13-12.05.22:885][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Admin/AppData/Local/Temp/UnrealShaderWorkingDir/4DA9DFDE41ADAC1D54241D8DE3DD5A35/'.
+[2022.03.13-12.05.22:885][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2022.03.13-12.05.22:885][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2022.03.13-12.05.23:619][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2022.03.13-12.05.23:670][  0]LogDerivedDataCache: Loaded boot cache 0.05s 92MB C:/Users/Admin/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2022.03.13-12.05.23:670][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Admin/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc
+[2022.03.13-12.05.23:670][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file D:/GAME PROJECTS/Pearl of the Orient/Pearl of the Orient/Unreal_Pearl-of-the-Orient/PoTO/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2022.03.13-12.05.23:670][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2022.03.13-12.05.23:670][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file D:/GAME PROJECTS/Pearl of the Orient/Pearl of the Orient/Unreal_Pearl-of-the-Orient/PoTO/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.03.13-12.05.23:670][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2022.03.13-12.05.23:680][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2022.03.13-12.05.23:680][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.03.13-12.05.23:680][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2022.03.13-12.05.23:687][  0]LogDerivedDataCache: Speed tests for C:/Users/Admin/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.01 seconds
+[2022.03.13-12.05.23:687][  0]LogDerivedDataCache: Display: Performance to C:/Users/Admin/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.03ms. RandomReadSpeed=1108.09MBs, RandomWriteSpeed=165.87MBs. Assigned SpeedClass 'Local'
+[2022.03.13-12.05.23:688][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Admin/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2022.03.13-12.05.23:688][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2022.03.13-12.05.23:688][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2022.03.13-12.05.23:733][  0]LogSlate: Using FreeType 2.10.0
+[2022.03.13-12.05.23:734][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2022.03.13-12.05.23:859][  0]LogInit: Using OS detected language (en-US).
+[2022.03.13-12.05.23:860][  0]LogInit: Using OS detected locale (en-PH).
+[2022.03.13-12.05.23:860][  0]LogTextLocalizationManager: No localization for 'en-US' exists, so 'en' will be used for the language.
+[2022.03.13-12.05.23:860][  0]LogTextLocalizationManager: No localization for 'en-PH' exists, so 'en' will be used for the locale.
+[2022.03.13-12.05.23:860][  0]LogSlate: FontCache flush requested. Reason: Culture for localization was changed
+[2022.03.13-12.05.23:860][  0]LogSlate: FontCache flush requested. Reason: Culture for localization was changed
+[2022.03.13-12.05.23:861][  0]LogTextLocalizationManager: Compacting localization data took   0.01ms
+[2022.03.13-12.05.23:865][  0]LogAssetRegistry: FAssetRegistry took 0.0027 seconds to start up
+[2022.03.13-12.05.24:034][  0]LogPackageLocalizationCache: Processed 24 localized package path(s) for 1 prioritized culture(s) in 0.000861 seconds
+[2022.03.13-12.05.24:085][  0]LogInit: Selected Device Profile: [Windows]
+[2022.03.13-12.05.24:085][  0]LogInit: Active device profile: [000001B750E92100][000001B7453F2600 49] Windows
+[2022.03.13-12.05.24:085][  0]LogInit: Profiles: [000001B750E92100][000001B7453F2600 49] Windows, [000001B750E0D700][000001B7453FA780 49] WindowsNoEditor, [000001B750E91800][000001B7453FE900 49] WindowsServer, [000001B750E0DF00][000001B745402A80 49] WindowsClient, [000001B750E91200][000001B745406C00 49] IOS, [000001B750E0CE00][000001B74540AD80 49] iPadAir, [000001B750E90D00][000001B744E10F00 49] iPadAir2, [000001B750DC1F00][000001B744E191C0 49] IPadPro, [000001B750DC2000][000001B744E15200 49] iPadAir3, [000001B750E0C800][000001B744E1D380 49] iPadAir4, [000001B750DC2100][000001B744E21500 49] iPadMini2, [000001B750E0CB00][000001B744E25680 49] iPadMini3, [000001B750DC1200][000001B744E29800 49] iPadMini4, [000001B750E0D500][000001B744E2D980 49] iPadMini5, [000001B750E01700][000001B7453F7C00 49] iPhone6, [000001B750E01800][000001B744E31C40 49] iPodTouch6, [000001B750DC1100][000001B744E381C0 49] iPhone7, [000001B750DC1000][000001B744E34200 49] iPodTouch7, [000001B750E02F00][000001B744E3C340 49] iPhone5S, [000001B750DC2700][000001B744E444C0 49] iPhone6Plus, [000001B750E01400][000001B744E48640 49] iPhone6S, [000001B750DC3200][000001B744E4C7C0 49] iPhone6SPlus, [000001B750E00200][000001B744E50940 49] iPhone7Plus, [000001B750DC2500][000001B744E54AC0 49] iPhoneSE, [000001B750E01E00][000001B744E58C40 49] iPhone8, [000001B750DC1E00][000001B744E5CDC0 49] iPhone8Plus, [000001B750E03B00][000001B744E60F40 49] iPhoneX, [000001B750DC2300][000001B744E650C0 49] iPhoneXS, [000001B750E00300][000001B744E69240 49] iPhoneXSMax, [000001B750DC3E00][000001B744E6D3C0 49] iPhoneXR, [000001B750E02C00][000001B744E71540 49] iPhone11, [000001B750DC2D00][000001B744E756C0 49] iPhone11Pro, [000001B750E02300][000001B744E79840 49] iPhone11ProMax, [000001B750DC1900][000001B744E7D9C0 49] iPhoneSE2, [000001B750E01A00][000001B744E81B40 49] iPhone12Mini, [000001B750DC0400][000001B744E41C80 49] iPhone12, [000001B750E03400][000001B744E84100 49] iPhone12Pro, [000001B750DC3300][000001B744E88240 49] iPhone12ProMax, [000001B750E01F00][000001B744E8C380 49] iPadPro105, [000001B750DC3F00][000001B744E94500 49] iPadPro129, [000001B750E90300][000001B744E98680 49] iPadPro97, [000001B750DC1300][000001B744E9C800 49] iPadPro2_129, [000001B750E90800][000001B744EA0980 49] iPad5, [000001B750DC3700][000001B744EA4B00 49] iPad6, [000001B750E92B00][000001B744EA8C80 49] iPad7, [000001B750DC0700][000001B744EACE00 49] iPad8, [000001B750E90700][000001B744EB0F80 49] iPadPro11, [000001B750DC3A00][000001B744EB5100 49] iPadPro2_11, [000001B750E91900][000001B744EB9280 49] iPadPro3_129, [000001B750DC0900][000001B744EBD400 49] iPadPro4_129, [000001B750E90200][000001B744EC1580 49] AppleTV, [000001B750DC0600][000001B744EC5700 49] AppleTV4K, [000001B750E92E00][000001B744EC9880 49] TVOS, [000001B750DC2E00][000001B744ECDA00 49] Mac, [000001B750E92900][000001B744ED1B80 49] MacClient, [000001B750DC3400][000001B744ED5D00 49] MacNoEditor, [000001B750E92D00][000001B744E90180 49] MacServer, [000001B750DC0500][000001B744ED82C0 49] Linux, [000001B750E92300][000001B744EDC400 49] LinuxAArch64, [000001B750DC1400][000001B744EE4580 49] LinuxNoEditor, [000001B750E90C00][000001B744EE8700 49] LinuxAArch64NoEditor, [000001B750DC0D00][000001B744EEC880 49] LinuxClient, [000001B750E92400][000001B744EF0A00 49] LinuxAArch64Client, [000001B750DC1D00][000001B744EF4B80 49] LinuxServer, [000001B750E90E00][000001B744EF8D00 49] LinuxAArch64Server, [000001B750DC2C00][000001B744EFCE80 49] Android, [000001B750E92600][000001B744F01000 49] Android_Low, [000001B750DC2F00][000001B744F05180 49] Android_Mid, [000001B750E92800][000001B744F09300 49] Android_High, [000001B750DC1500][000001B744F0D480 49] Android_Default, [000001B750E92000][000001B744F11600 49] Android_Adreno4xx, [000001B750DC3B00][000001B744F15780 49] Android_Adreno5xx_Low, [000001B750E91E00][000001B744F19900 49] Android_Adreno5xx, [000001B750DC3600][000001B744F1DA80 49] Android_Adreno6xx, [000001B750E91C00][000001B744F21C00 49] Android_Adreno6xx_Vulkan, [000001B750E0F300][000001B744F240C0 49] Android_Mali_T6xx, [000001B750E02A00][000001B744EE0200 49] Android_Mali_T7xx, [000001B750E0D200][000001B744F28340 49] Android_Mali_T8xx, [000001B750E03900][000001B744F2C480 49] Android_Mali_G71, [000001B750E0D300][000001B744F34600 49] Android_Mali_G72, [000001B750E01B00][000001B744F38780 49] Android_Mali_G72_Vulkan, [000001B750E0E200][000001B744F3C900 49] Android_Mali_G76, [000001B750E03200][000001B744F40A80 49] Android_Mali_G76_Vulkan, [000001B750E0DD00][000001B744F44C00 49] Android_Mali_G77, [000001B750E00600][000001B744F48D80 49] Android_Mali_G77_Vulkan, [000001B750E0EE00][000001B744F4CF00 49] Android_Vulkan_SM5, [000001B750E00500][000001B744F51080 49] Android_PowerVR_G6xxx, [000001B750E0E300][000001B744F55200 49] Android_PowerVR_GT7xxx, [000001B750E02400][000001B744F59380 49] Android_PowerVR_GE8xxx, [000001B750E0DA00][000001B744F5D500 49] Android_PowerVR_GM9xxx, [000001B750E03000][000001B744F61680 49] Android_PowerVR_GM9xxx_Vulkan, [000001B750E0C500][000001B744F65800 49] Android_TegraK1, [000001B750E02B00][000001B744F69980 49] Android_Unknown_Vulkan, [000001B750E0E900][000001B744F6DB00 49] Lumin, [000001B750E03700][000001B744F71C80 49] Lumin_Desktop, [000001B750E0F500][000001B744F74140 49] HoloLens, 
+[2022.03.13-12.05.24:190][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2022.03.13-12.05.24:190][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2022.03.13-12.05.24:190][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2022.03.13-12.05.24:190][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2022.03.13-12.05.24:190][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2022.03.13-12.05.24:292][  0]LogNetVersion: PoTO 1.0.0, NetCL: 14830424, EngineNetVer: 16, GameNetVer: 0 (Checksum: 1362065395)
+[2022.03.13-12.05.24:538][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2022.03.13-12.05.24:612][  0]LogMoviePlayer: Initializing movie player
+[2022.03.13-12.05.24:686][  0]LogD3D12RHI: Creating RTPSO with 3 shaders (0 cached, 3 new) took 25.03 ms. Compile time 16.82 ms, link time 8.18 ms.
+[2022.03.13-12.05.24:808][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2022.03.13-12.05.24:811][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2022.03.13-12.05.24:867][  0]SourceControl: Source control is disabled
+[2022.03.13-12.05.24:867][  0]SourceControl: Source control is disabled
+[2022.03.13-12.05.24:872][  0]SourceControl: Source control is disabled
+[2022.03.13-12.05.24:875][  0]LogUProjectInfo: Found projects:
+[2022.03.13-12.05.24:944][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2022.03.13-12.05.24:956][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.03.13-12.05.24:956][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.03.13-12.05.24:991][  0]LogOcInput: OculusInput pre-init called
+[2022.03.13-12.05.24:997][  0]LogUObjectArray: 20241 objects as part of root set at end of initial load.
+[2022.03.13-12.05.24:997][  0]LogUObjectAllocator: 5391216 out of 0 bytes used by permanent object pool.
+[2022.03.13-12.05.24:997][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2022.03.13-12.05.25:034][  0]LogEngine: Initializing Engine...
+[2022.03.13-12.05.25:035][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2022.03.13-12.05.25:035][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2022.03.13-12.05.25:036][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2022.03.13-12.05.25:115][  0]LogInit: Initializing FReadOnlyCVARCache
+[2022.03.13-12.05.25:116][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2022.03.13-12.05.25:120][  0]LogAudio: Display: Audio Device Manager Initialized
+[2022.03.13-12.05.25:120][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2022.03.13-12.05.25:120][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.13-12.05.25:120][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.13-12.05.25:120][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.13-12.05.25:120][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.13-12.05.25:120][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.03.13-12.05.25:120][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.03.13-12.05.25:120][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.03.13-12.05.25:120][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.13-12.05.25:120][  0]LogAudio: Display: Using built-in audio occlusion.
+[2022.03.13-12.05.25:120][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.13-12.05.25:134][  0]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.13-12.05.25:134][  0]LogAudioMixer: Display: 1: FrontRight
+[2022.03.13-12.05.25:160][  0]LogAudioMixer: Display: Using Audio Device Speakers (2- Redragon Gaming Headset)
+[2022.03.13-12.05.25:164][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.03.13-12.05.25:165][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.03.13-12.05.25:165][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.03.13-12.05.25:166][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.03.13-12.05.25:166][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.03.13-12.05.25:166][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.03.13-12.05.25:167][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.03.13-12.05.25:167][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.03.13-12.05.25:167][  0]LogInit: FAudioDevice initialized.
+[2022.03.13-12.05.25:168][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2022.03.13-12.05.25:170][  0]LogInit: Texture streaming: Enabled
+[2022.03.13-12.05.25:224][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2022.03.13-12.05.25:225][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.13-12.05.25:225][  0]LogInit: Display: Game Engine Initialized.
+[2022.03.13-12.05.25:225][  0]LogNiagaraEditor: GEditor isn't valid! Particle reset commands will not work for Niagara components!
+[2022.03.13-12.05.25:287][  0]LogInit: Display: Starting Game.
+[2022.03.13-12.05.25:287][  0]LogNet: Browse: /Game/Maps/MainMenu?Name=Player
+[2022.03.13-12.05.25:287][  0]LogLoad: LoadMap: /Game/Maps/MainMenu?Name=Player
+[2022.03.13-12.05.25:287][  0]LogWorld: BeginTearingDown for /Temp/Untitled_0
+[2022.03.13-12.05.25:289][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2022.03.13-12.05.25:291][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.13-12.05.25:298][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.03.13-12.05.25:300][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2022.03.13-12.05.26:298][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'MainMenu'.
+[2022.03.13-12.05.26:304][  0]LogAIModule: Creating AISystem for world MainMenu
+[2022.03.13-12.05.26:304][  0]LogLoad: Game class is 'MainMenuGameMode_C'
+[2022.03.13-12.05.26:309][  0]LogWorld: Bringing World /Game/Maps/MainMenu.MainMenu up for play (max tick rate 60) at 2022.03.13-20.05.26
+[2022.03.13-12.05.26:310][  0]LogWorld: Bringing up level for play took: 0.004740
+[2022.03.13-12.05.26:310][  0]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2022.03.13-12.05.26:312][  0]LogLoad: Took 1.023542 seconds to LoadMap(/Game/Maps/MainMenu)
+[2022.03.13-12.05.26:399][  0]LogRenderer: Reallocating scene render targets to support 1912x1008 Format 10 NumSamples 1 (Frame:1).
+[2022.03.13-12.05.26:399][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2022.03.13-12.05.26:399][  0]LogLoad: (Engine Initialization) Total time: 5.43 seconds
+[2022.03.13-12.05.26:399][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2022.03.13-12.05.26:399][  0]LogInit: First time updating LLM stats...
+[2022.03.13-12.05.26:428][  0]LogCompression: Warning: appUncompressMemoryZLIB failed: Error: Z_BUF_ERROR, not enough room in the output buffer!
+[2022.03.13-12.05.26:428][  0]LogCompression: Error: FCompression::UncompressMemory - Failed to uncompress memory (4606/18496) from address 000001B718490543 using format Zlib, this may indicate the asset is corrupt!
+[2022.03.13-12.05.26:618][  0]LogD3D12RHI: Creating RTPSO with 139 shaders (0 cached, 139 new) took 182.62 ms. Compile time 170.10 ms, link time 12.07 ms.
+[2022.03.13-12.05.26:674][  0]LogD3D12RHI: Creating RTPSO with 3 shaders (2 cached, 1 new) took 142.77 ms. Compile time 41.65 ms, link time 101.08 ms.
+[2022.03.13-12.05.27:963][  0]LogD3D12RHI: Creating RTPSO with 10 shaders (0 cached, 10 new) took 1431.15 ms. Compile time 68.22 ms, link time 1362.88 ms.
+[2022.03.13-12.05.27:963][  0]LogD3D12RHI: Creating RT View Heap with 250000 entries
+[2022.03.13-12.05.27:982][  0]LogD3D12RHI: Creating RT Sampler Heap with 2048 entries
+[2022.03.13-12.05.27:984][  0]LogD3D12RHI: Creating RT View Heap with 250000 entries
+[2022.03.13-12.05.28:001][  0]LogD3D12RHI: Creating RT Sampler Heap with 2048 entries
+[2022.03.13-12.05.28:003][  0]LogD3D12RHI: Creating RT View Heap with 250000 entries
+[2022.03.13-12.05.28:021][  0]LogD3D12RHI: Creating RT Sampler Heap with 2048 entries
+[2022.03.13-12.05.28:124][  0]LogContentStreaming: Texture pool size now 400 MB
+[2022.03.13-12.05.28:128][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.13-12.05.28:136][  0]LogRenderer: Reallocating scene render targets to support 128x128 Format 10 NumSamples 1 (Frame:1).
+[2022.03.13-12.05.28:186][  0]LogRenderer: Reallocating scene render targets to support 1912x1008 Format 10 NumSamples 1 (Frame:2).
+[2022.03.13-12.05.28:439][  4]LogD3D12RHI: Creating RT View Heap with 250000 entries
+[2022.03.13-12.05.28:456][  5]LogD3D12RHI: Creating RT Sampler Heap with 2048 entries
+[2022.03.13-12.05.28:456][  5]LogD3D12RHI: Creating RT View Heap with 250000 entries
+[2022.03.13-12.05.28:472][  6]LogD3D12RHI: Creating RT Sampler Heap with 2048 entries
+[2022.03.13-12.05.28:472][  6]LogD3D12RHI: Creating RT View Heap with 250000 entries
+[2022.03.13-12.05.28:476][  6]LogD3D12RHI: Creating RT Sampler Heap with 2048 entries
+[2022.03.13-12.05.29:443][ 42]LogPackageName: SearchForPackageOnDisk took   0.065s to resolve LoadingLevel.umap.
+[2022.03.13-12.05.29:507][ 42]LogPackageName: SearchForPackageOnDisk took   0.063s to resolve LoadingLevel.umap.
+[2022.03.13-12.05.29:507][ 42]LogNet: Browse: /Game/Maps/LoadingScreens/LoadingLevel
+[2022.03.13-12.05.29:507][ 42]LogLoad: LoadMap: /Game/Maps/LoadingScreens/LoadingLevel
+[2022.03.13-12.05.29:507][ 42]LogWorld: BeginTearingDown for /Game/Maps/MainMenu
+[2022.03.13-12.05.29:508][ 42]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2022.03.13-12.05.29:508][ 42]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.13-12.05.29:545][ 42]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.03.13-12.05.29:559][ 42]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2022.03.13-12.05.29:847][ 42]LogAudio: Display: Audio Device (ID: 1) registered with world 'LoadingLevel'.
+[2022.03.13-12.05.29:848][ 42]LogAIModule: Creating AISystem for world LoadingLevel
+[2022.03.13-12.05.29:848][ 42]LogLoad: Game class is 'MainMenuGameMode_C'
+[2022.03.13-12.05.29:850][ 42]LogWorld: Bringing World /Game/Maps/LoadingScreens/LoadingLevel.LoadingLevel up for play (max tick rate 60) at 2022.03.13-20.05.29
+[2022.03.13-12.05.29:850][ 42]LogWorld: Bringing up level for play took: 0.000996
+[2022.03.13-12.05.29:850][ 42]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2022.03.13-12.05.29:851][ 42]LogLoad: Took 0.343959 seconds to LoadMap(/Game/Maps/LoadingScreens/LoadingLevel)
+[2022.03.13-12.05.29:854][ 43]LogSlate: Took 0.000140 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2022.03.13-12.05.29:873][ 44]LogD3D12RHI: Creating RTPSO with 135 shaders (128 cached, 7 new) took 14.29 ms. Compile time 7.63 ms, link time 6.35 ms.
+[2022.03.13-12.05.34:495][313]LogPackageName: SearchForPackageOnDisk took   0.062s to resolve MainMap.umap.
+[2022.03.13-12.05.34:559][314]LogPackageName: SearchForPackageOnDisk took   0.063s to resolve MainMap.umap.
+[2022.03.13-12.05.34:559][314]LogNet: Browse: /Game/Maps/Main/1/MainMap
+[2022.03.13-12.05.34:559][314]LogLoad: LoadMap: /Game/Maps/Main/1/MainMap
+[2022.03.13-12.05.34:559][314]LogWorld: BeginTearingDown for /Game/Maps/LoadingScreens/LoadingLevel
+[2022.03.13-12.05.34:560][314]LogWorld: UWorld::CleanupWorld for LoadingLevel, bSessionEnded=true, bCleanupResources=true
+[2022.03.13-12.05.34:560][314]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.13-12.05.34:596][314]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.03.13-12.05.34:600][314]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2022.03.13-12.05.37:363][314]LogAudio: Display: Audio Device (ID: 1) registered with world 'MainMap'.
+[2022.03.13-12.05.37:364][314]LogAIModule: Creating AISystem for world MainMap
+[2022.03.13-12.05.37:365][314]LogLoad: Game class is 'MainMenuGameMode_C'
+[2022.03.13-12.05.37:371][314]LogWorld: Bringing World /Game/Maps/Main/1/MainMap.MainMap up for play (max tick rate 60) at 2022.03.13-20.05.37
+[2022.03.13-12.05.37:372][314]LogUObjectGlobals: Warning: Failed to load '/Game/DawnOfAugust': Can't find file.
+[2022.03.13-12.05.37:372][314]LogUObjectGlobals: Warning: Failed to load '/Game/DawnOfAugust': Can't find file.
+[2022.03.13-12.05.37:372][314]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/DawnOfAugust.DawnOfAugust'
+[2022.03.13-12.05.37:372][314]LogUObjectGlobals: Warning: Failed to load '/Game/Cinematics/Sequences/Sequence/SequenceMaster': Can't find file.
+[2022.03.13-12.05.37:372][314]LogUObjectGlobals: Warning: Failed to load '/Game/Cinematics/Sequences/Sequence/SequenceMaster': Can't find file.
+[2022.03.13-12.05.37:372][314]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/Cinematics/Sequences/Sequence/SequenceMaster.SequenceMaster'
+[2022.03.13-12.05.37:393][314]LogWorld: Bringing up level for play took: 0.027285
+[2022.03.13-12.05.37:393][314]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2022.03.13-12.05.37:396][314]LogLoad: Took 2.836804 seconds to LoadMap(/Game/Maps/Main/1/MainMap)
+[2022.03.13-12.05.37:399][314]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.13-12.05.37:494][316]LogD3D12RHI: Creating RTPSO with 137 shaders (133 cached, 4 new) took 16.71 ms. Compile time 9.98 ms, link time 6.52 ms.
+[2022.03.13-12.05.37:616][318]LogD3D12RHI: Creating RT View Heap with 250000 entries
+[2022.03.13-12.05.37:633][318]LogD3D12RHI: Creating RT Sampler Heap with 2048 entries
+[2022.03.13-12.05.37:633][318]LogD3D12RHI: Creating RT View Heap with 250000 entries
+[2022.03.13-12.05.37:641][318]LogD3D12RHI: Creating RT Sampler Heap with 2048 entries
+[2022.03.13-12.05.37:643][318]LogD3D12RHI: Creating RT View Heap with 250000 entries
+[2022.03.13-12.05.37:660][318]LogD3D12RHI: Creating RT Sampler Heap with 2048 entries
+[2022.03.13-12.05.37:974][330]LogD3D12RHI: Creating RTPSO with 138 shaders (137 cached, 1 new) took 16.56 ms. Compile time 8.76 ms, link time 7.51 ms.
+[2022.03.13-12.05.38:114][338]LogD3D12RHI: Creating RTPSO with 141 shaders (138 cached, 3 new) took 21.76 ms. Compile time 12.08 ms, link time 9.08 ms.
+[2022.03.13-12.05.38:705][373]LogD3D12RHI: Creating RTPSO with 142 shaders (141 cached, 1 new) took 18.04 ms. Compile time 8.83 ms, link time 8.88 ms.
+[2022.03.13-12.05.38:943][387]LogD3D12RHI: Creating RTPSO with 143 shaders (142 cached, 1 new) took 16.67 ms. Compile time 7.75 ms, link time 8.63 ms.
+[2022.03.13-12.05.39:042][392]LogD3D12RHI: Creating RTPSO with 145 shaders (143 cached, 2 new) took 22.25 ms. Compile time 12.90 ms, link time 8.97 ms.
+[2022.03.13-12.05.39:081][393]LogD3D12RHI: Creating RTPSO with 146 shaders (145 cached, 1 new) took 18.12 ms. Compile time 8.08 ms, link time 9.74 ms.
+[2022.03.13-12.05.39:303][404]LogD3D12RHI: Creating RTPSO with 149 shaders (146 cached, 3 new) took 25.85 ms. Compile time 17.51 ms, link time 8.05 ms.
+[2022.03.13-12.05.39:766][426]LogD3D12RHI: Creating RTPSO with 156 shaders (149 cached, 7 new) took 21.16 ms. Compile time 12.23 ms, link time 8.62 ms.
+[2022.03.13-12.05.39:833][428]LogD3D12RHI: Creating RTPSO with 165 shaders (156 cached, 9 new) took 24.26 ms. Compile time 16.24 ms, link time 7.65 ms.
+[2022.03.13-12.06.21:023][888]LogPackageName: SearchForPackageOnDisk took   0.074s to resolve LoadingLevel1.umap.
+[2022.03.13-12.06.21:095][889]LogPackageName: SearchForPackageOnDisk took   0.070s to resolve LoadingLevel1.umap.
+[2022.03.13-12.06.21:095][889]LogNet: Browse: /Game/Maps/LoadingScreens/LoadingLevel1
+[2022.03.13-12.06.21:095][889]LogLoad: LoadMap: /Game/Maps/LoadingScreens/LoadingLevel1
+[2022.03.13-12.06.21:095][889]LogWorld: BeginTearingDown for /Game/Maps/Main/1/MainMap
+[2022.03.13-12.06.21:096][889]LogWorld: UWorld::CleanupWorld for MainMap, bSessionEnded=true, bCleanupResources=true
+[2022.03.13-12.06.21:102][889]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.13-12.06.21:102][889]LogWorld: UWorld::CleanupWorld for Map9, bSessionEnded=true, bCleanupResources=true
+[2022.03.13-12.06.21:102][889]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.13-12.06.21:102][889]LogWorld: UWorld::CleanupWorld for Map8, bSessionEnded=true, bCleanupResources=true
+[2022.03.13-12.06.21:102][889]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.13-12.06.21:102][889]LogWorld: UWorld::CleanupWorld for Map7, bSessionEnded=true, bCleanupResources=true
+[2022.03.13-12.06.21:102][889]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.13-12.06.21:102][889]LogWorld: UWorld::CleanupWorld for Map6, bSessionEnded=true, bCleanupResources=true
+[2022.03.13-12.06.21:102][889]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.13-12.06.21:102][889]LogWorld: UWorld::CleanupWorld for Map5, bSessionEnded=true, bCleanupResources=true
+[2022.03.13-12.06.21:102][889]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.13-12.06.21:103][889]LogWorld: UWorld::CleanupWorld for Map3, bSessionEnded=true, bCleanupResources=true
+[2022.03.13-12.06.21:103][889]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.13-12.06.21:103][889]LogWorld: UWorld::CleanupWorld for Map4, bSessionEnded=true, bCleanupResources=true
+[2022.03.13-12.06.21:103][889]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.13-12.06.21:103][889]LogWorld: UWorld::CleanupWorld for Map2, bSessionEnded=true, bCleanupResources=true
+[2022.03.13-12.06.21:103][889]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.13-12.06.21:103][889]LogWorld: UWorld::CleanupWorld for Map16, bSessionEnded=true, bCleanupResources=true
+[2022.03.13-12.06.21:103][889]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.13-12.06.21:103][889]LogWorld: UWorld::CleanupWorld for Map15, bSessionEnded=true, bCleanupResources=true
+[2022.03.13-12.06.21:103][889]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.13-12.06.21:103][889]LogWorld: UWorld::CleanupWorld for Map14, bSessionEnded=true, bCleanupResources=true
+[2022.03.13-12.06.21:103][889]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.13-12.06.21:103][889]LogWorld: UWorld::CleanupWorld for Map13, bSessionEnded=true, bCleanupResources=true
+[2022.03.13-12.06.21:103][889]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.13-12.06.21:103][889]LogWorld: UWorld::CleanupWorld for Map12, bSessionEnded=true, bCleanupResources=true
+[2022.03.13-12.06.21:103][889]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.13-12.06.21:103][889]LogWorld: UWorld::CleanupWorld for Map11, bSessionEnded=true, bCleanupResources=true
+[2022.03.13-12.06.21:103][889]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.13-12.06.21:103][889]LogWorld: UWorld::CleanupWorld for Map10, bSessionEnded=true, bCleanupResources=true
+[2022.03.13-12.06.21:103][889]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.13-12.06.21:103][889]LogWorld: UWorld::CleanupWorld for Map1, bSessionEnded=true, bCleanupResources=true
+[2022.03.13-12.06.21:103][889]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.13-12.06.21:140][889]LogAudio: Display: Waited 35.654102 ms for audio thread.
+[2022.03.13-12.06.21:141][889]LogAudio: Display: Waited 37.457802 ms for audio thread.
+[2022.03.13-12.06.21:182][889]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.03.13-12.06.21:420][889]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2022.03.13-12.06.21:718][889]LogAudio: Display: Audio Device (ID: 1) registered with world 'LoadingLevel1'.
+[2022.03.13-12.06.21:718][889]LogAIModule: Creating AISystem for world LoadingLevel1
+[2022.03.13-12.06.21:719][889]LogLoad: Game class is 'MainMenuGameMode_C'
+[2022.03.13-12.06.21:720][889]LogWorld: Bringing World /Game/Maps/LoadingScreens/LoadingLevel1.LoadingLevel1 up for play (max tick rate 60) at 2022.03.13-20.06.21
+[2022.03.13-12.06.21:720][889]LogWorld: Bringing up level for play took: 0.000965
+[2022.03.13-12.06.21:721][889]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2022.03.13-12.06.21:722][889]LogLoad: Took 0.626470 seconds to LoadMap(/Game/Maps/LoadingScreens/LoadingLevel1)
+[2022.03.13-12.06.21:763][891]LogSlate: Took 0.000143 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2022.03.13-12.06.26:315][160]LogPackageName: SearchForPackageOnDisk took   0.063s to resolve MainMap_2.umap.
+[2022.03.13-12.06.26:315][160]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2022.03.13-12.06.26:379][161]LogPackageName: SearchForPackageOnDisk took   0.062s to resolve MainMap_2.umap.
+[2022.03.13-12.06.26:379][161]LogNet: Browse: /Game/Maps/Main/2/MainMap_2
+[2022.03.13-12.06.26:379][161]LogLoad: LoadMap: /Game/Maps/Main/2/MainMap_2
+[2022.03.13-12.06.26:379][161]LogWorld: BeginTearingDown for /Game/Maps/LoadingScreens/LoadingLevel1
+[2022.03.13-12.06.26:380][161]LogWorld: UWorld::CleanupWorld for LoadingLevel1, bSessionEnded=true, bCleanupResources=true
+[2022.03.13-12.06.26:380][161]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.13-12.06.26:416][161]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.03.13-12.06.26:420][161]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2022.03.13-12.06.29:986][161]LogAudio: Display: Audio Device (ID: 1) registered with world 'MainMap_2'.
+[2022.03.13-12.06.29:991][161]LogAIModule: Creating AISystem for world MainMap_2
+[2022.03.13-12.06.29:991][161]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2022.03.13-12.06.30:001][161]LogWorld: Bringing World /Game/Maps/Main/2/MainMap_2.MainMap_2 up for play (max tick rate 60) at 2022.03.13-20.06.30
+[2022.03.13-12.06.30:044][161]LogWorld: Bringing up level for play took: 0.050545
+[2022.03.13-12.06.30:091][161]LogLoad: Took 3.711918 seconds to LoadMap(/Game/Maps/Main/2/MainMap_2)
+[2022.03.13-12.06.30:151][161]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.13-12.06.30:182][162]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.064156 > MaxSimulationTimeStep (0.050) for 'BP_WaypointCompanion5', movement 'Walking'
+[2022.03.13-12.06.30:182][162]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.097443 > MaxSimulationTimeStep (0.050) for 'BP_WaypointCompanion6', movement 'Walking'
+[2022.03.13-12.06.30:182][162]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.059024 > MaxSimulationTimeStep (0.050) for 'BP_WaypointCompanion9', movement 'Walking'
+[2022.03.13-12.06.30:200][163]LogD3D12RHI: Creating RTPSO with 146 shaders (136 cached, 10 new) took 100.07 ms. Compile time 92.00 ms, link time 7.78 ms.
+[2022.03.13-12.06.30:540][169]LogStreaming: Display: UWorld::AddToWorld: updating components for /Game/Maps/Main/2/Sublevels/Map9 took (less than) 24.56 ms
+[2022.03.13-12.06.30:705][176]LogD3D12RHI: Creating RTPSO with 147 shaders (146 cached, 1 new) took 14.93 ms. Compile time 5.88 ms, link time 8.70 ms.
+[2022.03.13-12.06.30:809][179]LogD3D12RHI: Creating RTPSO with 150 shaders (147 cached, 3 new) took 23.83 ms. Compile time 9.56 ms, link time 13.91 ms.
+[2022.03.13-12.06.31:179][190]LogStreaming: Display: UWorld::AddToWorld: updating components for /Game/Maps/Main/2/Sublevels/Map1 took (less than) 22.57 ms
+[2022.03.13-12.06.31:258][193]LogD3D12RHI: Creating RTPSO with 163 shaders (151 cached, 12 new) took 18.71 ms. Compile time 10.37 ms, link time 8.05 ms.
+[2022.03.13-12.06.31:276][193]LogStreaming: Display: UWorld::AddToWorld: updating components for /Game/Maps/Main/2/Sublevels/Map10 took (less than) 20.09 ms
+[2022.03.13-12.06.31:308][195]LogD3D12RHI: Creating RTPSO with 175 shaders (168 cached, 7 new) took 34.22 ms. Compile time 9.27 ms, link time 24.54 ms.
+[2022.03.13-12.06.32:114][217]LogStreaming: Display: UWorld::AddToWorld: updating components for /Game/Maps/Main/2/Sublevels/Map2 took (less than) 22.46 ms
+[2022.03.13-12.06.32:242][222]LogD3D12RHI: Creating RTPSO with 177 shaders (177 cached, 0 new) took 10.38 ms. Compile time 0.04 ms, link time 10.02 ms.
+[2022.03.13-12.06.32:377][224]LogStreaming: Display: UWorld::AddToWorld: updating components for /Game/Maps/Main/2/Sublevels/Map4 took (less than) 31.52 ms
+[2022.03.13-12.06.32:498][229]LogD3D12RHI: Creating RTPSO with 177 shaders (177 cached, 0 new) took 10.28 ms. Compile time 0.04 ms, link time 9.90 ms.
+[2022.03.13-12.06.41:841][464]LogStreaming: Display: UWorld::AddToWorld: updating components for /Game/Maps/Main/2/Sublevels/Map7 took (less than) 27.09 ms
+[2022.03.13-12.07.12:306][297]LogD3D12RHI: Creating RTPSO with 178 shaders (177 cached, 1 new) took 12.76 ms. Compile time 3.91 ms, link time 8.48 ms.
+[2022.03.13-12.07.12:345][298]LogD3D12RHI: Creating RTPSO with 178 shaders (178 cached, 0 new) took 10.25 ms. Compile time 0.04 ms, link time 9.85 ms.
+[2022.03.13-12.07.12:433][300]LogD3D12RHI: Creating RTPSO with 178 shaders (178 cached, 0 new) took 11.36 ms. Compile time 0.05 ms, link time 10.92 ms.

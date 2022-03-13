@@ -1,0 +1,157 @@
+GTOa (3)
+
+rv : RVSession (2)
+{
+	session
+	{
+		float fps = 60.000000
+		int realtime = 1
+	}
+
+	writer
+	{
+		string name = "rvSession.py"
+		string version = "0.3"
+	}
+}
+
+sourceGroup000000 : RVSourceGroup (1)
+{
+	ui
+	{
+		string name = "DawnOfAugustShot1.avi"
+	}
+}
+
+sourceGroup000000_source : RVFileSource (1)
+{
+	cut
+	{
+		int in = 0
+		int out = 570
+	}
+
+	group
+	{
+		int noMovieAudio = 1
+	}
+
+	media
+	{
+		string movie = "DawnOfAugustShot1.avi"
+		string shot = ""
+	}
+}
+
+sourceGroup000001 : RVSourceGroup (1)
+{
+	ui
+	{
+		string name = "DawnOfAugustShot2.avi"
+	}
+}
+
+sourceGroup000001_source : RVFileSource (1)
+{
+	cut
+	{
+		int in = 0
+		int out = 604
+	}
+
+	group
+	{
+		int noMovieAudio = 1
+	}
+
+	media
+	{
+		string movie = "DawnOfAugustShot2.avi"
+		string shot = ""
+	}
+}
+
+sourceGroup000002 : RVSourceGroup (1)
+{
+	ui
+	{
+		string name = "DawnOfAugust3.avi"
+	}
+}
+
+sourceGroup000002_source : RVFileSource (1)
+{
+	cut
+	{
+		int in = 0
+		int out = 662
+	}
+
+	group
+	{
+		int noMovieAudio = 1
+	}
+
+	media
+	{
+		string movie = "DawnOfAugust3.avi"
+		string shot = ""
+	}
+}
+
+sourceGroup000003 : RVSourceGroup (1)
+{
+	ui
+	{
+		string name = "DawnOfAugust4.avi"
+	}
+}
+
+sourceGroup000003_source : RVFileSource (1)
+{
+	cut
+	{
+		int in = 0
+		int out = 400
+	}
+
+	group
+	{
+		int noMovieAudio = 1
+	}
+
+	media
+	{
+		string movie = "DawnOfAugust4.avi"
+		string shot = ""
+	}
+}
+
+sourceGroup000004 : RVSourceGroup (1)
+{
+	ui
+	{
+		string name = "DawnOfAugust4_2.avi"
+	}
+}
+
+sourceGroup000004_source : RVFileSource (1)
+{
+	cut
+	{
+		int in = 0
+		int out = 400
+	}
+
+	group
+	{
+		int noMovieAudio = 1
+	}
+
+	media
+	{
+		string movie = "DawnOfAugust4_2.avi"
+		string shot = ""
+	}
+}
+

@@ -1,9 +1,0 @@
-TITLE: ReinforcementsMaster
-FCM: NON-DROP FRAME
-
-001 AX V C 00:00:00:00 00:00:05:30 00:00:00:00 00:00:05:30
-* FROM CLIP NAME: Reinforcements1.avi
-
-002 AX V C 00:00:00:00 00:00:06:30 00:00:05:30 00:00:12:00
-* FROM CLIP NAME: Reinforcements2.avi
-

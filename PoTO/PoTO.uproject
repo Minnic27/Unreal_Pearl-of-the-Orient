@@ -12,5 +12,9 @@
 			"Name": "NiagaraExtras",
 			"Enabled": true
 		}
+	],
+	"TargetPlatforms": [
+		"WindowsNoEditor",
+		"WindowsNoEditorWin32"
 	]
 }
